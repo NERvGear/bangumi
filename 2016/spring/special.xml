@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>ソードガイ 装刀凱</ja_JP>
+      <zh_CN>swordgai装刀凯</zh_CN>
+      <en_GB>Sword Gai</en_GB>
+    </title>
+    <state>0</state>
+    <rate>1764</rate>
+    <episode></episode>
+    <release>1458857143</release>
+    <image>http://static.acgdb.com/i/df749c38f5caa9191176cd2cedf43e5969563a83/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f464b71d41c84caa423d63/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>レゴネックスナイツ</ja_JP>
+      <zh_CN>LEGO NEXO KNIGHTS</zh_CN>
+      <en_GB>LEGO NEXO KNIGHTS</en_GB>
+    </title>
+    <state>0</state>
+    <rate>1617</rate>
+    <episode></episode>
+    <release>1458857168</release>
+    <image>http://static.acgdb.com/i/d1c9083f7e7b54fe32d13d571314f76491d00501/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f464d01d41c804ee88e94f/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>ゲキドル</ja_JP>
+      <zh_CN>演剧偶像</zh_CN>
+      <en_GB>Gekidol</en_GB>
+    </title>
+    <state>0</state>
+    <rate>1470</rate>
+    <episode></episode>
+    <release>1458857193</release>
+    <image>http://static.acgdb.com/i/c299cd328a27c647337083bd9a3ebced12a0726d/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f464e91d41c84caa423d99/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>神撃のバハムート マナリアフレンズ</ja_JP>
+      <zh_CN>神击之巴哈姆特 Manaria Friends</zh_CN>
+      <en_GB>Rage of Bahamut Manaria Friends</en_GB>
+    </title>
+    <state>0</state>
+    <rate>2205</rate>
+    <episode></episode>
+    <release>1458853901</release>
+    <image>http://static.acgdb.com/i/609d92c6787d8b6a73f2dcd4b33e47ebb40c5e51/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f4580d1d41c8051af45921/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>CoCO &amp; NiCO</ja_JP>
+      <zh_CN>CoCO &amp; NiCO</zh_CN>
+      <en_GB>CoCO &amp; NiCO</en_GB>
+    </title>
+    <state>0</state>
+    <rate>735</rate>
+    <episode></episode>
+    <release>1460073600</release>
+    <image>http://static.acgdb.com/i/c47ac1b4827afbc10cfe915e0fb7ac58f4d9d1bd/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f5afa71d41c804ee89652a/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+</Bangumi>

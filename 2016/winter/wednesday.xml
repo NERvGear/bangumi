@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>妖怪ウォッチ</ja_JP>
+      <zh_CN>妖怪手表</zh_CN>
+      <en_GB>Youkai Watch</en_GB>
+    </title>
+    <state>1</state>
+    <rate>833</rate>
+    <episode></episode>
+    <release>1389175200</release>
+    <image>http://static.acgdb.com/i/15c553f996dadf950017e13d29296b8411c31f2f/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/妖怪手表/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>原创</value>
+        <value>欢乐</value>
+        <value>励志</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN> 主角在某个暑假上山捉虫的时候偶然发现了树下摆着一台破旧的扭蛋机，当他掏出身上唯一一枚硬币拧出扭蛋之后，却打开了不可思议的潘多拉的盒子。这扭蛋中飞出一只自称为“妖怪执事维斯帕”的幽灵，从此以后，主角就可以看到身边出现的各种不可思议的妖怪了。遇到困难的时候可以用硬币召唤妖怪，并且可以借助妖怪的力量，例如可以让人说出真相的“真言婆婆”，以及可以与恶灵对抗的拳师猫!</zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>探偵チームＫＺ事件ノート</ja_JP>
+      <zh_CN>侦探小队KZ事件簿</zh_CN>
+      <en_GB>Tantei Team KZ Jiken Not</en_GB>
+    </title>
+    <state>1</state>
+    <rate>3333</rate>
+    <episode></episode>
+    <release>1444211100</release>
+    <image>http://static.acgdb.com/i/f340b729448cd4893f1cf6186290399a6a2decf8/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/560427141d41c849eb2d4f25/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>改编</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>無彩限のファントム・ワールド</ja_JP>
+      <zh_CN>无彩限的怪灵世界</zh_CN>
+      <en_GB>Myriad Colors Phantom World</en_GB>
+    </title>
+    <state>0</state>
+    <rate>9512</rate>
+    <episode></episode>
+    <release>1452092400</release>
+    <image>http://static.acgdb.com/i/3c2787a2cf6800b73da5b7227268e0e3162052e1/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/52df62e21d41c80e6f5d1464/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN>在京都2013感谢祭上公开了的第四回京都动画大赏奖励赏作品《无彩限的怪灵世界》，属于京都的KA-ESUMA文库版权，作者为秦野宗一郎。</zh_CN>
+    </descrip>
+  </item>
+</Bangumi>

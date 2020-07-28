@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>赤髪の白雪姫</ja_JP>
+      <zh_CN>赤发白雪姫</zh_CN>
+    </title>
+    <state>1</state>
+    <rate>5777</rate>
+    <episode></episode>
+    <release>1436140800</release>
+    <image>http://static.acgdb.com/i/4ebecb94595a745ac03ef28242b09831659e7133/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/557dc39e1d41c849e34e8a5e/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>改编</value>
+        <value>奇幻</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>ミリオンドール</ja_JP>
+      <zh_CN>Million Doll</zh_CN>
+    </title>
+    <state>1</state>
+    <rate>2666</rate>
+    <episode></episode>
+    <release>1436140800</release>
+    <image>http://static.acgdb.com/i/6110de634454c72ef76810f8f01c7a18a30b7262/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/557dd51b1d41c83cb1c7bce9/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>改编</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>ひきこもりのアイドルオタク「すう子」は、1つだけ特技を持っている。 それは、ブログの力で女性アイドルの人気に火を付けること。 すう子は福岡県糸島市の地方アイドル「イトリオ」に目を付けて売り出そうとするが、 アイドル現場のカリスマ「リュウサン」と地下アイドル「マリ子」の存在が立ちはだかる！ 業界で話題の「ミリオンドール」は、アイドルオタクである筆者藍が描く、リアルすぎるアイドル群像マンガ。</zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>To LOVEる-とらぶる-ダークネス2nd</ja_JP>
+      <zh_CN>出包王女 Darkness 2nd</zh_CN>
+      <en_GB>To Love-Ru Darkness 2nd</en_GB>
+    </title>
+    <state>1</state>
+    <rate>7777</rate>
+    <episode></episode>
+    <release>1436194800</release>
+    <image>http://static.acgdb.com/i/b5a21fbfdf7b3cb5a4c0a211e077d5b7e92deeab/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/557ca1791d41c808a19156ab/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>续作</value>
+        <value>改编</value>
+        <value>欢乐</value>
+        <value>萌</value>
+        <value>卖肉</value>
+        <value>喜剧</value>
+        <value>奇幻</value>
+        <value>情感</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+</Bangumi>

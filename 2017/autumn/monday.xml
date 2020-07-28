@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>銀魂. ポロリ篇</ja_JP>
+      <zh_CN>银魂. 走光篇</zh_CN>
+      <en_GB></en_GB>
+    </title>
+    <state>1</state>
+    <rate>9000</rate>
+    <episode></episode>
+    <release>1506879300</release>
+    <image>http://lain.bgm.tv/pic/cover/l/d3/e2/218740_6OyMl.jpg</image>
+    <url>
+      <zh_CN>http://v.youku.com/v_show/id_XMzA1NDc2MTkzNg==.html?spm=a2hcm.20010061.m_100892.5~5!2~5~5!2~A</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>漫改</value>
+        <value>搞笑</value>
+        <value>无厘头</value>
+        <value>无节操</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>动画第4期的分割播放，副标题为“走光篇”（ポロリ篇），内容为原作漫画尚未动画化的日常内容。</zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>お見合い相手は教え子、強気な、問題児。</ja_JP>
+      <zh_CN>相亲对象是强硬的问题学生</zh_CN>
+    </title>
+    <state>1</state>
+    <rate>961</rate>
+    <episode></episode>
+    <release>1506873600</release>
+    <image>http://lain.bgm.tv/pic/cover/l/03/46/223502_Uag1G.jpg</image>
+    <url>
+      <zh_CN>http://bangumi.tv/subject/223502</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>漫画改编</value>
+        <value>泡面番</value>
+        <value>里番</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>菜乃是深受学生爱慕的人气教师。但是，唯独对男学生宗二束手无措。某一天，她在熟人的介绍下去相亲。最开始因为不熟练而倍感不安，慢慢习惯之后和相亲对象的气氛也变得很好了。但是……</zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>妖怪アパートの幽雅な日常</ja_JP>
+      <zh_CN>妖怪公寓的优雅日常</zh_CN>
+      <en_GB>Youkai Apartment no Yuuga na Nichijou</en_GB>
+    </title>
+    <state>0</state>
+    <rate>6000</rate>
+    <episode></episode>
+    <release>1499090400</release>
+    <image>http://lain.bgm.tv/pic/cover/l/3c/d9/211802_dMO8M.jpg</image>
+    <url>
+      <zh_CN>http://bangumi.bilibili.com/anime/6308</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>日常</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>因为父母双亡而艰难寄居在亲戚家的稻叶夕士，升入高中后决心独自生活。稻叶夕士找到了价格非常便宜的公寓“寿庄”。但是，那里是聚集了妖怪・幽灵・人类的“妖怪公寓”──!! 稻叶夕士并不习惯去面对有着令人恐惧的身姿的妖怪们以及富有个性的怪人们，但是在与他们奇妙的共同生活中，稻叶夕士逐渐敞开了紧闭的心扉…</zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>ラブ米-WE LOVE RICE- 2期</ja_JP>
+      <zh_CN>爱米-WE LOVE RICE- 第二季</zh_CN>
+      <en_GB>Love and Lies</en_GB>
+    </title>
+    <state>1</state>
+    <rate>4500</rate>
+    <episode></episode>
+    <release>1507482000</release>
+    <image>http://lain.bgm.tv/pic/cover/l/31/2e/218383_MkKBR.jpg</image>
+    <url>
+      <zh_CN>http://bangumi.bilibili.com/anime/6478</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>原创</value>
+        <value>泡面</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>《爱米-WE LOVE RICE-》是由YAOYOROZU企划，Encourage Films制作的原创电视动画作品。</zh_CN>
+    </descrip>
+  </item>
+  
+</Bangumi>

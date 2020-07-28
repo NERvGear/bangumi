@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+	<item>
+		<title>
+			<ja_JP>GREAT PRETENDER</ja_JP>
+			<zh_CN>大欺诈师</zh_CN>
+			<en_GB>GREAT PRETENDER</en_GB>
+		</title>
+		<state>1</state>
+		<rate>10000</rate>
+		<episode>1</episode>
+		<release>1530633600</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202007/gp.jpg</image>
+		<url>
+			<zh_CN>https://www.acfun.cn/bangumi/aa6002662</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>搞笑</value>
+				<value>悬疑</value>
+				<value>智斗</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　目标只有坏人！欺骗、欺骗、欺骗！？洛杉矶、新加坡、伦敦、上海、还有东京…横跨世界的壮大“欺诈游戏”，就此开幕！
+　　自称“日本第一的天才欺诈师”的枝村真人，某天与搭档工藤2人一起欺诈了来浅草观光的法国人，赚了一笔钱……本该是这样的，却反而被骗走了巨款。那个男人是罗兰·蒂埃里，一个能将黑手党都玩弄于掌的欺诈师。枝村被卷入了罗兰设计数个规模不一的“欺诈游戏”中！ </zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>日本沈没2020</ja_JP>
+			<zh_CN>日本沉没2020</zh_CN>
+			<en_GB>Nihon Chinbotsu 2020</en_GB>
+		</title>
+		<state>1</state>
+		<rate>10000</rate>
+		<episode>2</episode>
+		<release>1594288800</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202007/rbcm.jpg</image>
+		<url>
+			<zh_CN>https://www.acfun.cn/bangumi/aa6002684</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>科幻</value>
+				<value>灾难</value>
+				<value>&#160; </value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　住在东京的武藤家姐弟步与刚，面临突然的大地震的混乱，家族四人要如何逃脱出来？面对即将沉没的日本列岛，武藤家又该何去何从……。 </zh_CN>
+		</descrip>
+	</item>
+</Bangumi>

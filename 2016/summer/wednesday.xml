@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>双星の陰陽師</ja_JP>
+      <zh_CN>双星之阴阳师</zh_CN>
+      <en_GB>Twin Star Exorcists</en_GB>
+    </title>
+    <state>1</state>
+    <rate>2222</rate>
+    <episode></episode>
+    <release>1459934700</release>
+    <image>http://static.acgdb.com/i/6110fa1b851500665dc2a7abff48972ba5e122a9/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f45fd41d41c8051af45a8f/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>Fate/kaleid liner プリズマ☆イリヤ ドライ！！</ja_JP>
+      <zh_CN>Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!</zh_CN>
+      <en_GB>Fate/kaleid liner Prisma Illya 3rei! </en_GB>
+    </title>
+    <state>0</state>
+    <rate>3043</rate>
+    <episode></episode>
+    <release>1467813600</release>
+    <image>http://static.acgdb.com/i/5b306da92768fcb1046a5ec81a5d342b588db3de/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/577570981d41c82f870fb791/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>续作</value>
+        <value>改编</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>ツキウタ。 THE ANIMATION</ja_JP>
+      <zh_CN>月歌。THE ANIMATION</zh_CN>
+      <en_GB>Tsukiuta. THE ANIMATION</en_GB>
+    </title>
+    <state>0</state>
+    <rate>2391</rate>
+    <episode></episode>
+    <release>1467813600</release>
+    <image>http://static.acgdb.com/i/a89b853716d6754b8bc77e3c60a0d6c70e5a3b2d/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/577571171d41c81e64be05eb/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>原创</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>バッテリー</ja_JP>
+      <zh_CN>野球少年</zh_CN>
+      <en_GB>Battery</en_GB>
+    </title>
+    <state>0</state>
+    <rate>7826</rate>
+    <episode></episode>
+    <release>1468425300</release>
+    <image>http://static.acgdb.com/i/b1472865b087479bc2fe86482d86241a8400f71e/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/57756a871d41c8307e662912/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>改编</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+</Bangumi>

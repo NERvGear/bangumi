@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>バトルスピリッツ ダブルドライブ</ja_JP>
+      <zh_CN>Battle Spirits Double Drive</zh_CN>
+      <en_GB>Battle Spirits Double Drive</en_GB>
+    </title>
+    <state>0</state>
+    <rate>3382</rate>
+    <episode></episode>
+    <release>1459932900</release>
+    <image>http://static.acgdb.com/i/d636b28b2b2130a4b6b84187b1921194b7191364/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f45fa81d41c85c0bc637aa/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>双星の陰陽師</ja_JP>
+      <zh_CN>双星之阴阳师</zh_CN>
+      <en_GB>Twin Star Exorcists</en_GB>
+    </title>
+    <state>0</state>
+    <rate>8970</rate>
+    <episode></episode>
+    <release>1459934700</release>
+    <image>http://static.acgdb.com/i/6110fa1b851500665dc2a7abff48972ba5e122a9/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f45fd41d41c8051af45a8f/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>ねこねこ日本史</ja_JP>
+      <zh_CN>猫猫日本史</zh_CN>
+      <en_GB>Neko Neko Nihonshi</en_GB>
+    </title>
+    <state>0</state>
+    <rate>3235</rate>
+    <episode></episode>
+    <release>1459935900</release>
+    <image>http://static.acgdb.com/i/47837490e0ce11b5956b3af053746139e9383a24/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f45fbf1d41c85c0bc637b3/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>美少女遊戯ユニット クレーンゲール</ja_JP>
+      <zh_CN>美少女游戏组合 抓娃娃机少女</zh_CN>
+      <en_GB>Bishoujo Yuugi Unit Crane Game Girls</en_GB>
+    </title>
+    <state>0</state>
+    <rate>1323</rate>
+    <episode></episode>
+    <release>1459947600</release>
+    <image>http://static.acgdb.com/i/8ec19c9177c5ed43c799057a9d6043a891dd18ac/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f5aec41d41c84caa431023/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>SUPER LOVERS</ja_JP>
+      <zh_CN>SUPER LOVERS</zh_CN>
+      <en_GB>SUPER LOVERS</en_GB>
+    </title>
+    <state>0</state>
+    <rate>4411</rate>
+    <episode></episode>
+    <release>1459953000</release>
+    <image>http://static.acgdb.com/i/d57a1f83b00a024b7ca46189f0dda094ce82bd09/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/56f45fec1d41c85c0bc637d2/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN/>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+</Bangumi>

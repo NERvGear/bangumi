@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>おへんろ。～八十八歩記から</ja_JP>
+      <zh_CN>朝圣之路 从八十八所开始</zh_CN>
+      <en_GB>Japanese Temple Pilgrimage</en_GB>
+    </title>
+    <state>1</state>
+    <rate>317</rate>
+    <episode></episode>
+    <release>1399075200</release>
+    <image>http://static.acgdb.com/i/52669ad495e791da2c39a6c0f986de2b1e9b1be5/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/536afe0b1d41c8666026f3f7/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>原创</value>
+        <value>欢乐</value>
+        <value>萌</value>
+        <value>泡面番</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>本次动画是八十八寺建寺1200周年的纪念，也是一部观光游记类动画，不止是寺庙，同样会记录各地的旅游景点。</zh_CN>
+    </descrip>
+  </item>
+  <item>
+    <title>
+      <ja_JP>野良スコ</ja_JP>
+      <zh_CN>野良折耳猫</zh_CN>
+    </title>
+    <state>1</state>
+    <rate>634</rate>
+    <episode></episode>
+    <release>1398902400</release>
+    <image>http://static.acgdb.com/i/189d203193eeb6af53c755091d7a8fb4fac58204/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/535a0aab1d41c8411447c461/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>改编</value>
+        <value>萌</value>
+        <value>日常</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN>是一部讲述了住在东京葛饰区的野猫（苏格兰折耳猫）与街上的居民之间的日常短篇动画。</zh_CN>
+    </descrip>
+  </item>
+</Bangumi>

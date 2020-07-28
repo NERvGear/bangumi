@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+  <item>
+    <title>
+      <ja_JP>銀魂 TVアニメ新シリーズ</ja_JP>
+      <zh_CN>銀魂 第四季</zh_CN>
+    </title>
+    <state>1</state>
+    <rate>7857</rate>
+    <episode></episode>
+    <release>1428483600</release>
+    <image>http://static.acgdb.com/i/3abbb6e52dbc74203b0fc3120ab415823fe30c10/w220</image>
+    <url>
+      <zh_CN>http://acgdb.com/549f63de1d41c85626ef96b7/videos#c=episode</zh_CN>
+    </url>
+    <tag>
+      <zh_CN>
+        <value>续作</value>
+        <value>改编</value>
+        <value>欢乐</value>
+        <value>日常</value>
+        <value>奇幻</value>
+        <value>动作</value>
+      </zh_CN>
+    </tag>
+    <descrip>
+      <zh_CN></zh_CN>
+    </descrip>
+  </item>
+</Bangumi>
