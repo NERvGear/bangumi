@@ -1,6 +1,8 @@
 # Bangumi
 
-## Anime schedule sources for SAO Utils
+![Maintenance Workflow](workflow.png)
+
+## Anime schedule source for SAO Utils
 
 - [Branch XML](https://github.com/NERvGear/bangumi/tree/xml) (SAO Utils Alpha, Beta)
 - [Branch JSON](https://github.com/NERvGear/bangumi/tree/json) (SAO Utils Alicization and above)
