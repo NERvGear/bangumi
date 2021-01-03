@@ -1,0 +1,156 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ac55d7c7b9ed751fd0ece579036d3366a890e120/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/586909401d41c8307e271e7b/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2017-01-08T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Little Witch Academia",
+                "ja_JP": "リトルウィッチアカデミア",
+                "zh_CN": "小魔女学园"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2652d78d5d8ca17649daf8c6fbf963a08ead61af/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee7ef1d41c85a1e5d7697/videos#c=episode"
+                }
+            },
+            "rating": 18,
+            "release": "2017-04-01T23:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Duel Masters (2017)",
+                "ja_JP": "デュエル・マスターズ",
+                "zh_CN": "决斗大师 (新系列)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2e0bdeced63d67019cadf7f42a426cb7792335ac/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded96c1d41c81f83e1349a/videos#c=episode"
+                }
+            },
+            "rating": 74,
+            "release": "2017-04-02T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Alice & Zouroku",
+                "ja_JP": "アリスと蔵六",
+                "zh_CN": "爱丽丝与藏六"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b8ac71c870a9552da67d4c860396dda2e78d00d2/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee0681d41c81f83e139f7/videos#c=episode"
+                }
+            },
+            "rating": 55,
+            "release": "2017-04-02T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Tsugumomo",
+                "ja_JP": "つぐもも",
+                "zh_CN": "怪怪守护神"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b98eef0b8f5fc29431c60d11895f513cc3100afc/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dedb5a1d41c85a1e5d7074/videos#c=episode"
+                }
+            },
+            "rating": 67,
+            "release": "2017-04-09T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Eccentric Family 2",
+                "ja_JP": "有頂天家族2",
+                "zh_CN": "有顶天家族2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/876174fc9f9f4fee70cb0bfc51c76f35705a7c71/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded4aa1d41c81f83e13109/videos#c=episode"
+                }
+            },
+            "rating": 76,
+            "release": "2017-04-09T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "ID-0",
+                "ja_JP": "ID-0",
+                "zh_CN": "ID-0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b6ed151f61575de21980b05999e41580fef683a4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee1771d41c85a1e5d7385/videos#c=episode"
+                }
+            },
+            "rating": 61,
+            "release": "2017-04-04T17:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Ōshitsu Kyōshi Heine",
+                "ja_JP": "王室教師ハイネ",
+                "zh_CN": "王室教师海涅"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7d8391161ee85e3e007cd295a60c3b3d66c23891/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee5571d41c81e642a8029/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2017-04-05T08:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Boruto: Naruto Next Generations",
+                "ja_JP": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+                "zh_CN": "BORUTO -火影新世代-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/fd9fa596ea18c3aa07a84986cf46b5d9c3a474f4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deebfd1d41c85a1e5d7aa6/videos#c=episode"
+                }
+            },
+            "rating": 6,
+            "release": "2017-04-05T09:45:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Neko Neko Nihonshi 2nd Season",
+                "ja_JP": "ねこねこ日本史 第2シリーズ",
+                "zh_CN": "猫猫日本史 第2系列"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ac48aeebdc3015f9af0ae117d03a2b2230d96a86/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee3361d41c85a1e5d7470/videos#c=episode"
+                }
+            },
+            "rating": 37,
+            "release": "2017-04-05T13:45:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Makeru na!! Aku no Gundan!",
+                "ja_JP": "まけるな!! あくのぐんだん！",
+                "zh_CN": "不要输!!恶之军团!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/929acc349db77311ffc691688d3841afb21fd3a6/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee44e1d41c82f87bc462f/videos#c=episode"
+                }
+            },
+            "rating": 33,
+            "release": "2017-04-05T13:45:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Love Kome -We Love Rice-",
+                "ja_JP": "ラブ米-WE LOVE RICE-",
+                "zh_CN": "Love米 -WE LOVE RICE-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/22c55319b103190ce697186b96d21d5c81cd3648/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dedf181d41c82f87bc44a4/videos#c=episode"
+                }
+            },
+            "rating": 72,
+            "release": "2017-04-05T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Armed Girl's Machiavellism",
+                "ja_JP": "武装少女マキャヴェリズム",
+                "zh_CN": "武装少女Machiavellism"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cf31e2a4b9cf32fea49ba074da96f99afb1a9caa/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dede5b1d41c81f83e13871/videos#c=episode"
+                }
+            },
+            "rating": 83,
+            "release": "2017-04-05T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Sagrada Reset",
+                "ja_JP": "サクラダリセット",
+                "zh_CN": "重启咲良田"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/bd016b348131c64c05328b2a87f339a556c2b7b8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded3371d41c81f83e1300d/videos#c=episode"
+                }
+            },
+            "rating": 98,
+            "release": "2017-04-05T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "ja_JP": "サクラクエスト",
+                "zh_CN": "樱花任务"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a1b51ae32bba1810bbffada5f412249ad4d34ffe/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded6141d41c85a1e5d6dfa/videos#c=episode"
+                }
+            },
+            "rating": 66,
+            "release": "2017-04-11T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Natsume Yūjin-Chō Roku",
+                "ja_JP": "夏目友人帳 陸",
+                "zh_CN": "夏目友人帐 陆"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cbf155e6ca7ff5a672a8b7fdbf9f4e88bdeca99b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee3fd1d41c81f83e13c65/videos#c=episode"
+                }
+            },
+            "rating": 35,
+            "release": "2017-04-12T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Kenka Banchō Otome: Girl Beats Boys",
+                "ja_JP": "喧嘩番長 乙女 -Girl Beats Boys-",
+                "zh_CN": "喧哗番长 乙女 -Girl Beats Boys-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/05f6c8366b7910733ece310b4290806c273388e9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee51f1d41c82f87bc4649/videos#c=episode"
+                }
+            },
+            "rating": 30,
+            "release": "2017-04-12T13:40:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Room Mate",
+                "ja_JP": "Room Mate ～One Room side M",
+                "zh_CN": "Room Mate ～One Room side M～"
+            }
+        }
+    ]
+}

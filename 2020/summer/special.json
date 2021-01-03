@@ -1,0 +1,61 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://img1.hmacg.cn/bangumi/kv/202007/gp.jpg"
+            },
+            "episode": 1,
+            "intro": {
+                "zh_CN": "　　目标只有坏人！欺骗、欺骗、欺骗！？洛杉矶、新加坡、伦敦、上海、还有东京…横跨世界的壮大“欺诈游戏”，就此开幕！\r\n　　自称“日本第一的天才欺诈师”的枝村真人，某天与搭档工藤2人一起欺诈了来浅草观光的法国人，赚了一笔钱……本该是这样的，却反而被骗走了巨款。那个男人是罗兰·蒂埃里，一个能将黑手党都玩弄于掌的欺诈师。枝村被卷入了罗兰设计数个规模不一的“欺诈游戏”中！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6002662"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-03T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "悬疑",
+                    "智斗"
+                ]
+            },
+            "title": {
+                "en_GB": "GREAT PRETENDER",
+                "ja_JP": "GREAT PRETENDER",
+                "zh_CN": "大欺诈师"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://img1.hmacg.cn/bangumi/kv/202007/rbcm.jpg"
+            },
+            "episode": 2,
+            "intro": {
+                "zh_CN": "　　住在东京的武藤家姐弟步与刚，面临突然的大地震的混乱，家族四人要如何逃脱出来？面对即将沉没的日本列岛，武藤家又该何去何从……。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6002684"
+                }
+            },
+            "rating": 100,
+            "release": "2020-07-09T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "灾难"
+                ]
+            },
+            "title": {
+                "en_GB": "Nihon Chinbotsu 2020",
+                "ja_JP": "日本沈没2020",
+                "zh_CN": "日本沉没2020"
+            }
+        }
+    ]
+}

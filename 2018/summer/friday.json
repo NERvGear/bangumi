@@ -1,0 +1,324 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://pic5.qiyipic.com/image/20180626/1d/9d/a_100137074_m_601_m1_195_260.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　纽约。\r\n　　拥有端正得非同寻常的容貌，以及卓越战斗力的少年·亚修。\r\n　　统率着街头黑帮的他，从被手下杀死的男人那里听到了对方临死时说出的“BANANA FISH”这一神秘话语。与此同时，他与身为摄影师的助手前来取材的日本人少年·奥村英二相遇了。\r\n　　两人开始一同追寻“BANANA FISH”之谜——。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrgytq5h.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-05T17:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "悬疑",
+                    "黑道",
+                    "乙女向"
+                ]
+            },
+            "title": {
+                "en_GB": "BANANA FISH",
+                "ja_JP": "BANANA FISH",
+                "zh_CN": "战栗杀机"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/773615630f54f0e2f4a97bdd027fa006b2708794.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　平凡的少女爱是一位随处可见的舞者。她一直关注着好友町展现出舞者的才能，并因此日渐消沉，某日她无意发现了町的才能的“秘密”。那是被邪恶法术变成手掌大小的天才们——“恶偶”。只要持有恶偶，不论是谁都能成为天才。爱为了拯救沦为制造恶偶“裁缝师”的町，成为了代代与裁缝师对立的“救济者”。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md100012"
+                }
+            },
+            "rating": 40,
+            "release": "2018-07-06T02:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "中日合作",
+                    "战斗",
+                    "漫改"
+                ]
+            },
+            "title": {
+                "en_GB": "Aguu: Genius Dolls ",
+                "ja_JP": "恶偶 -天才人形-",
+                "zh_CN": "天才玩偶"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/13ad26047f54a80f09b7b5f4d35a3657ce02964a.png"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　位于京都寂静街道的居酒屋【阿信】，正门不知为何成了链接异世界的入口。老板矢泽信之与侍者千家忍在此异世界之城古都阿伊特利亚开始经营居酒屋。卫兵、职人、商人、贵族，任谁都能轻松的来上一杯。\r\n　　这样的居酒屋【阿信】，今天也如往常一样营业中。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/21785"
+                }
+            },
+            "rating": 80,
+            "release": "2018-04-13T03:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "和风",
+                    "日常",
+                    "没事",
+                    "逆穿越"
+                ]
+            },
+            "title": {
+                "en_GB": "异世界居酒屋阿信",
+                "ja_JP": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+                "zh_CN": "异世界居酒屋～古都阿伊特力亚的居酒屋阿信～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e5b3fca7ea7ef660caa810924c44518513636f9d.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“舞台少女”——以未来的舞台女演员为目标，光芒四溢的少女们。\r\n　　某天，她们收到了一封邮件。“请去取得吧，你所希望的那颗星。” 为了摘取闪耀的星星，而聚集于选拔会场的9名舞台少女。追求光芒的心意、执着、命运—— 在舞台上交错。\r\n　　现在，Revue的帷幕升起了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102892/"
+                }
+            },
+            "rating": 70,
+            "release": "2018-07-13T06:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "歌剧",
+                    "百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Shoujo☆Kageki Revue Starlight",
+                "ja_JP": "少女☆歌劇 レヴュー·スタァライト",
+                "zh_CN": "少女☆歌剧 Revue·Starlight"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5323a9d39963ba4360f3628d8aea111451a9bbf8.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　曾经火遍全球的人气MMORPG《Union》，拥有一支成为传说的小学生队伍“昴宿”。但是，在游戏里Gameover的旭姫，在现实世界中同时过世了。《Union》停止运营后，”昴宿”的成员们各奔东西。六年后，身为高中生的阳翔，登入新生《Re'Union》，与那位本应已离世了的青梅竹马旭姬再会了。她究竟是电子幽灵，还是说……\r\n　　与线上游戏交织的青梅竹马“约定的故事”，敬请期待！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102732/"
+                }
+            },
+            "rating": 70,
+            "release": "2018-07-06T06:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "网游",
+                    "战斗",
+                    "约束"
+                ]
+            },
+            "title": {
+                "en_GB": "Shichisei no Subaru",
+                "ja_JP": "七星のスバル",
+                "zh_CN": "昴宿七星"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://lain.bgm.tv/pic/cover/c/5c/b3/240428_1tGZ6.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　给危害人类、引发事故的恶灵及死灵处以刑罚并送往黄泉。拥有这种能力的天才正是魔法律执行人·六冰及他的助手草野。在他们身旁，不断聚集着为幽灵之事而烦恼的人们。\r\n　　某天，六冰就读魔法律学校时的对头圆宙继出现在他面前，二人之间壮烈的战火自此一触即发！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bgm.tv/subject/240428"
+                }
+            },
+            "rating": 80,
+            "release": "2018-08-03T12:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "战斗",
+                    "悬疑"
+                ]
+            },
+            "title": {
+                "en_GB": "Muhyo & Roji's Bureau of Supernatural Investigation ",
+                "ja_JP": "ムヒョとロージーの魔法律相談事務所",
+                "zh_CN": "魔法律事务所"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c870603959b84f39595babd77d04a9091c9b0714.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "      以很有精神为优点的茶色虎斑猫“泽TAPIO”与性格乖僻的俄罗斯蓝猫“ROSHI原KUE彦”，同为大学同年生的两人透过各式各样的打工经验了解工作的辛苦，是一部“忙到想要借猫手”系的动画。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md103072/"
+                }
+            },
+            "rating": 40,
+            "release": "2018-07-06T12:54:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "吸猫",
+                    "可爱",
+                    "日常"
+                ]
+            },
+            "title": {
+                "en_GB": "Working Buddies! 2nd Season",
+                "ja_JP": "働くお兄さん！の2！",
+                "zh_CN": "打工小哥！之2！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png@450w_600h.png"
+            },
+            "episode": 16,
+            "intro": {
+                "zh_CN": "　　在一栋大楼最底层苏醒的13岁少女·瑞吉儿。她失去了一切记忆，不知道自己为何在这里，为了逃回地面在大楼里寻找逃生路径，但是突然在她面前出现了脸上缠满绷带、拿着有如死神般镰刀的杀人鬼。\r\n　　“拜托你，杀了我。”“帮我一起从这里出去吧。那样的话，我就会杀了你。”两人之间的奇妙羁绊，随着那“约定”而逐渐加深。这里究竟是什么地方？两人为何被囚禁于此？等待着两人的命运又会如何？为了从密闭大楼逃出的抱死觉悟之行揭开了序幕。两人最终能否坚守约定，并且安全地逃出这栋大楼呢？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102792/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-06T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "恐怖",
+                    "悬疑",
+                    "狗粮"
+                ]
+            },
+            "title": {
+                "en_GB": "Angels of Death",
+                "ja_JP": "殺戮の天使",
+                "zh_CN": "杀戮天使"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dbdcbffd272e7927a344f682934f9cae934150db.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "      自称“中下”等级的女高中生千绪，上学时徒步从自家前往学校。但是在上学路上等待着的，却是从意外的禁止通行、与距离感微妙的同学相遇开始，到堵在路上的暴走族、以及尿意……等等，各种各样的障碍。千绪能在今天早上也顺利地按时到校吗……！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102552"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-06T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "无厘头"
+                ]
+            },
+            "title": {
+                "en_GB": "Chio-chan no Tsuugakuro",
+                "ja_JP": "ちおちゃんの通学路",
+                "zh_CN": "千绪的通学路"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic9.qiyipic.com/image/20180622/f4/b7/a_100156215_m_601_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　从东京搬到冲绳的高中二年级学生，大空遥。总是开朗乐观的她，其实也有自卑之处——身高比普通女生要高。另一方面，到机场来迎接遥的同龄表姐妹比嘉彼方，也有烦恼的事情。彼方由于身高不够而放弃了自己最喜欢的沙滩排球。这样的凸凹组合，偶然间组成了沙滩排球的搭档……。\r\n　　宽阔的沙滩场地，友军只有一人。在搭档的存在比什么都重要的沙滩排球中，两人将会展现怎样的比赛？现在，在盛夏阳光照耀的冲绳海滩，少女们的汗水与热情开始闪耀光芒！！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh6y4sl.html"
+                }
+            },
+            "rating": 70,
+            "release": "2018-07-06T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "芳文社",
+                    "百合",
+                    "沙滩排球",
+                    "“球”"
+                ]
+            },
+            "title": {
+                "en_GB": "Harukana Receive",
+                "ja_JP": "はるかなレシーブ",
+                "zh_CN": "遥的接球"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3ee3e267731be4cac9ef39a905714de06fd66d59.jpg_225x300.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　青梅竹马的敦君和音碳是恋人。\r\n　　当时敦君面对音碳的时候总是恶言相向态度恶劣，但那是因为敦君背叛了自己最喜欢音碳的心情。敦君对他那样的言行举止非常在意。\r\n　　描写每天都“敦君LOVE”的音碳的校园青春喜剧。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23838"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-06T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "恋爱",
+                    "狗粮"
+                ]
+            },
+            "title": {
+                "en_GB": "Akkun to Kanojo",
+                "ja_JP": "あっくんとカノジョ",
+                "zh_CN": "敦君与女朋友"
+            }
+        }
+    ]
+}

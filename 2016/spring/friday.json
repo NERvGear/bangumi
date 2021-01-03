@@ -1,0 +1,196 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a3bd16e04cd90b3abc537659106ccd276185e729/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5afdb1d41c804ee89653b/videos#c=episode"
+                }
+            },
+            "rating": 4,
+            "release": "2016-04-01T06:50:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Neko mo, Onda-ke",
+                "ja_JP": "猫も、オンダケ",
+                "zh_CN": "与猫同住的恩田家"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1618233c19cf7f29dc090a0ae3ceec9fddf5b76a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f457171d41c84caa423447/videos#c=episode"
+                }
+            },
+            "rating": 92,
+            "release": "2016-04-01T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Ushio and Tora",
+                "ja_JP": "うしおととら 第3クール",
+                "zh_CN": "潮与虎 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ccc8cde2379be68f24cd69c7e831232804d1f1c0/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f457611d41c85c0bc62f6e/videos#c=episode"
+                }
+            },
+            "rating": 48,
+            "release": "2016-04-01T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Space Patrol Luluco",
+                "ja_JP": "宇宙パトロールルル子",
+                "zh_CN": "宇宙巡警露露子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/03f49d2fbd041fea9dcdf1e0bc937dbf2c1fa0a9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f459541d41c804ee88e585/videos#c=episode"
+                }
+            },
+            "rating": 27,
+            "release": "2016-04-01T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kagewani S2",
+                "ja_JP": "影鰐-KAGEWANI-承",
+                "zh_CN": "影鳄 - KAGEWANI- 承"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/024179d8f58c002ffac0baec565803bffc6b4ce6/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f459ab1d41c84caa4235dc/videos#c=episode"
+                }
+            },
+            "rating": 55,
+            "release": "2016-04-01T15:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "JoJo's Bizarre Adventure S4",
+                "ja_JP": "ジョジョの奇妙な冒険 第四部 ダイヤモンドは砕けない",
+                "zh_CN": "JoJo的奇妙冒险 第四部 不灭钻石"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ed5a99eee2f2e6ebe54a845f958a5fae0ea9b38e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f461191d41c85c0bc638dd/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2016-04-07T16:58:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Shounen Maid",
+                "ja_JP": "少年メイド",
+                "zh_CN": "少年女仆"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c5b3e0c91d957650018190d729ca57da1edefd29/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f461341d41c84caa423b35/videos#c=episode"
+                }
+            },
+            "rating": 97,
+            "release": "2016-04-07T17:28:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Haven't You Heard? I'm Sakamoto",
+                "ja_JP": "坂本ですが？",
+                "zh_CN": "我叫坂本我最屌"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/61c50712a10e6a472b122b71361f73b7c3395ae4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5b0611d41c84caa43113c/videos#c=episode"
+                }
+            },
+            "rating": 1,
+            "release": "2016-04-08T09:20:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Ahare! Meisaku-kun",
+                "ja_JP": "あはれ！名作くん",
+                "zh_CN": "做得很好!名作君"
+            }
+        }
+    ]
+}

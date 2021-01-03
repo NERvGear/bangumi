@@ -1,0 +1,114 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/ab/fd/211934_HHeOH.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        侍奉神明的狐娘们工作的温泉旅馆“此花亭”。\r\n        “此花绮谭”便是来此花葶服务的新人服务员柚，和围绕着柚的伙伴们的暖人心怀的故事。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6425"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-04T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫画改编"
+                ]
+            },
+            "title": {
+                "en_GB": "此花亭奇谭",
+                "ja_JP": "このはな綺譚",
+                "zh_CN": "此花绮谭"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/87/ed/221119_VCt00.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "转学到远处高中的金泽伸明，由于在之前的学校经历过的某件事，而对于与同学亲密相处感到恐惧，封闭了自己的内心。但他以体育祭上的班级对抗接力赛为契机，开始和同学们变得融洽起来。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6426"
+                }
+            },
+            "rating": 45,
+            "release": "2017-10-05T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "小说改编",
+                    "猎奇"
+                ]
+            },
+            "title": {
+                "en_GB": "The Animation",
+                "ja_JP": "王様ゲーム ",
+                "zh_CN": "国王游戏"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/5b/97/216570_cPpsi.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n            度过普通的学校生活，分到普通的班级，普通地恋爱，下定决心告白……\r\n        　　讴歌着这种正经到极点的青春的篠崎遥。\r\n        　　但只有他恋爱的对象并不“普通”——\r\n        　　满溢而出的种种粗鄙之语！\r\n        　　无所顾虑地涌出的刺激的性知识！\r\n        　　但，一切都是为了成为健全而圆满的恋人——\r\n        　　没错，这是毋庸置疑的纯爱物语！\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6465"
+                }
+            },
+            "rating": 65,
+            "release": "2017-10-11T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫画改编",
+                    "后宫"
+                ]
+            },
+            "title": {
+                "ja_JP": "僕の彼女がマジメ過ぎるしょびっちな件",
+                "zh_CN": "关于我女友是个一本正经的处女碧池这件事"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/98/10/202268_366T6.jpg"
+            },
+            "episode": 11,
+            "intro": {
+                "zh_CN": "\r\n        步入老年的不起眼上班族犬屋敷壹郎，过着被公司和家庭疏远的每一天，但在某天，医生突然宣告他患了晚期癌症，时日无多，他从此便开始自暴自弃。当晚，被突然飞来的UFO的坠落所卷入，转变成机械身体的他……\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://list.youku.com/show/id_zefbfbd3652c6984b11ef.html?spm=a2hcm.20010061.m_213183.5~5!2~5~5!2~A"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-12T15:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "漫画改编",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "en_GB": "犬屋敷",
+                "ja_JP": "いぬやしき",
+                "zh_CN": "犬舍"
+            }
+        }
+    ]
+}

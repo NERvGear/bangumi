@@ -1,0 +1,230 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0e69ddbe08113e68a92d8d144274e28512a15616/w220"
+            },
+            "intro": {
+                "zh_CN": "一部以侦探推理情节为主题的漫画作品，讲述了高中生侦探工藤新一被神秘的黑衣组织灌下代号为APTX4869的毒药后身体缩小为小学生，因此隐瞒身份，调查组织的同时不断解决各类案件的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5207e8759f8ee92fd2ec001b/videos#c=episode"
+                }
+            },
+            "rating": 13,
+            "release": "1996-01-08T10:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "改编",
+                    "励志",
+                    "悬疑"
+                ]
+            },
+            "title": {
+                "en_GB": "Detective Conan",
+                "ja_JP": "名探偵コナン",
+                "zh_CN": "名侦探柯南"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/57e034098de317992e0b3185be283e2ec9f3da13/w220"
+            },
+            "intro": {
+                "zh_CN": "在渡濑青叶与隼鹰·迪奥·韦恩伯格的共同努力下，弓原雏从命运的枷锁中解放了出来，他们选择为了未来而生活下去。而此时，一位憎恨青叶的神秘男子展开了他的行动……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Buddy_Complex_Final/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2014-09-29T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "燃",
+                    "科幻",
+                    "战争",
+                    "机战"
+                ]
+            },
+            "title": {
+                "ja_JP": "バディ・コンプレックス 完結編 ―あの空に還る未来で―",
+                "zh_CN": "Buddy Complex 完结篇 -在未来回到那片天-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/93459a3d9bd62978e929b56cd38161f1a45c45ce/w220"
+            },
+            "intro": {
+                "zh_CN": "在萌萌的少女市松小日向召唤出了一位白发猫耳帅哥，此人自称“银仙”，其实只是电波系的动物灵！故事就围绕着这样的2人的搞笑日常展开，之后还加入了狗神、信乐、山本君等人！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5306ebd01d41c83fcbb81025/videos#c=episode"
+                }
+            },
+            "rating": 61,
+            "release": "2014-10-05T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "拟人化"
+                ]
+            },
+            "title": {
+                "ja_JP": "繰繰れ！コックリさん",
+                "zh_CN": "银仙"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e28ae7f26e023487900269076425074c32ebb80f/w220"
+            },
+            "intro": {
+                "zh_CN": "一部名为《怪盗Joker》（怪盗ジョーカー）格漫画即将被改变成TV动画。预计2014年10月放送。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53b3c31d1d41c83511a48b80/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2014-10-06T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Mysterious Joker",
+                "ja_JP": "怪盗ジョーカー",
+                "zh_CN": "怪盗Joker"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/21b327448fb967aafcbff270f6ec273897f8ad1d/w220"
+            },
+            "episode": 50,
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/538441281d41c84ea5dbe7c7/videos#c=episode"
+                }
+            },
+            "rating": 19,
+            "release": "2014-10-06T12:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "愛・天地無用",
+                "zh_CN": "爱・天地无用"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/320c795205bb3f96b47ce0f4bb949183cdce9b71/w220"
+            },
+            "intro": {
+                "zh_CN": "《巴哈姆特之怒》的原作游戏为我们勾勒了一个架空的魔幻世界。在这个世界当中，我们不仅能看到北欧神话当中的诸神，也可以领略东方传说人物的风采，这种多元素文化的融合也给游戏赢得了不错的评价。而相信随着动画的播出，这款游戏的影响力也将进一步扩大。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53d098981d41c84bccb9b722/videos#c=episode"
+                }
+            },
+            "rating": 59,
+            "release": "2014-10-06T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "ja_JP": "神撃のバハムート",
+                "zh_CN": "巴哈姆特之怒"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0dd6706e15d387838975ca96612869a90c3ac278/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "一个人无忧无虑独自生活的男子高中生龙己，某日救下了一位倒在河边的美青年，没想到这位青年竟然是人鱼！于是这位人鱼先生似乎很中意龙己的浴缸，变住了下来！基友和卖萌人鱼同居的故事开始上演！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5372dc681d41c84247add7a6/videos#c=episode"
+                }
+            },
+            "rating": 25,
+            "release": "2014-10-06T14:54:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "日常",
+                    "喜剧",
+                    "耽美"
+                ]
+            },
+            "title": {
+                "en_GB": "OreFuro",
+                "ja_JP": "オレんちの風呂事情",
+                "zh_CN": "我家浴缸的二三事"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e2be7f90ff03ef1ba12a982d6951d219361d949d/w220"
+            },
+            "intro": {
+                "zh_CN": "由Ameba开发的手机恋爱卡片游戏《Girl Friend Beta》2014年6月宣布动画化.将在2014年7月19日举办动画发布会。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53abca241d41c8654011f886/videos#c=episode"
+                }
+            },
+            "rating": 57,
+            "release": "2014-10-12T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "萌",
+                    "情感"
+                ]
+            },
+            "title": {
+                "en_GB": "Girl Friend BETA",
+                "ja_JP": "ガールフレンド（仮）",
+                "zh_CN": "女朋友"
+            }
+        }
+    ]
+}

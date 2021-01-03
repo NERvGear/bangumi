@@ -1,0 +1,130 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/52880d263518d02b8146afa333cb9afab8121d06/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595258461d41c81f831f8525/videos#c=episode"
+                }
+            },
+            "rating": 11,
+            "release": "2017-07-02T16:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Skirt no Naka wa Kedamono Deshita.",
+                "ja_JP": "スカートの中はケダモノでした。",
+                "zh_CN": "裙子里面是野兽"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e069958933d5bce89228c387152414577647c390/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5952796c1d41c85a1e8d088f/videos#c=episode"
+                }
+            },
+            "rating": 9,
+            "release": "2017-07-02T18:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "泡面番",
+                    "恐怖"
+                ]
+            },
+            "title": {
+                "ja_JP": "闇芝居",
+                "zh_CN": "闇芝居"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6f6618be7ef81e6a07ffeb4f3676011e82ade8d4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/59505afe1d41c81f831f4810/videos#c=episode"
+                }
+            },
+            "rating": 55,
+            "release": "2017-07-03T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Youkai Apartment no Yuuga na Nichijou",
+                "ja_JP": "妖怪アパートの幽雅な日常",
+                "zh_CN": "妖怪公寓的优雅日常"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ea280335a6b8aa2334db67badcce1f7e7157d80f/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594adb981d41c81f831ebf17/videos#c=episode"
+                }
+            },
+            "rating": 86,
+            "release": "2017-07-03T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Love and Lies",
+                "ja_JP": "恋と嘘",
+                "zh_CN": "恋爱禁止的世界"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7477d019cc3dc206fb0efc1ea921ed19e5a619c8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594aaa0e1d41c82f87d72f2d/videos#c=episode"
+                }
+            },
+            "rating": 90,
+            "release": "2017-07-10T11:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Tenshi no 3P",
+                "ja_JP": "天使の3P！",
+                "zh_CN": "天使的3P!"
+            }
+        }
+    ]
+}

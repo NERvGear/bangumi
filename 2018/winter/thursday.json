@@ -1,0 +1,121 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/1e/e2/183878_Fef1o.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "某个时代的一个切尔西斯大陆。持续了四年的南北分割的战争结束了，人们迎来了新的时代。曾经被称做“武器”的少女，薇尔莉特·伊芙加登，离开了战场后，想在C·H邮政迎来新的人生。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21542"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-10T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "爱情",
+                    "成长"
+                ]
+            },
+            "title": {
+                "en_GB": "薇尔莉特·伊芙加登",
+                "ja_JP": "ヴァイオレット·エヴァーガーデン",
+                "zh_CN": "紫罗兰永恒花园"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e4dcc80598a4133af6b1a880bb8006fa5346f31b.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        性格冷酷沉默寡言，和别人很难相处的迷之转校生小泉同学。竟然是每天都在探寻美味拉面的拉面专家——！？正统拉面美食动画，现在上桌！\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21728"
+                }
+            },
+            "rating": 70,
+            "release": "2018-01-04T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "美食",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "ja_JP": "ラーメン大好き小泉さん",
+                "zh_CN": "爱吃拉面的小泉同学"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/74ebc38e3ec260441d0460ecc80b6548d3746890.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n           “只为了你而编织的故事。”\r\n        　　让故事得以实现的，少女们的愿望。\r\n        　　散布于世界的故事“原书”。\r\n        　　少女们与“原书”相遇，被其选中，获得魔法，终成“原书使”。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21721"
+                }
+            },
+            "rating": 77,
+            "release": "2018-01-11T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "童话",
+                    "校园",
+                    "轻百合",
+                    "高危职业"
+                ]
+            },
+            "title": {
+                "en_GB": "Marchen Madchen",
+                "ja_JP": "メルヘン·メドヘン",
+                "zh_CN": "原书·原书使（童话魔法使）"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic4.qiyipic.com/image/20171220/51/fc/a_100109243_m_601_m1_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh1olh1.html"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-04T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "治愈",
+                    "轻百合",
+                    "芳文社"
+                ]
+            },
+            "title": {
+                "en_GB": "悠闲野营△",
+                "ja_JP": "ゆるキャン△",
+                "zh_CN": "摇曳露营△"
+            }
+        }
+    ]
+}

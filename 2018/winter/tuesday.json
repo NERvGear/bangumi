@@ -1,0 +1,200 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/af/0e/229165_nEqUP.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "平淡又欢乐的日常系猫片。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/229165"
+                }
+            },
+            "rating": 22,
+            "release": "2018-01-08T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "泡面",
+                    "吸猫"
+                ]
+            },
+            "title": {
+                "ja_JP": "まめねこ",
+                "zh_CN": "豆猫"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/928ae638cc0f11197dd949892f5935d9213a38a1.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "在上一年的全国大赛中取胜的主人公·小野田坂道所属的总北高中。组建队伍的前辈们纷纷毕业、引退，作为新世代的队伍开始进发的他们，在互相刺激、支持、提升的过程中，顺利打入以连霸为目标的全国大赛。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21781"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-08T18:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "热血",
+                    "续作"
+                ]
+            },
+            "title": {
+                "en_GB": "飙速宅男 第四季",
+                "ja_JP": "弱虫ペダル GLORY LINE",
+                "zh_CN": "飙速宅男 GLORY LINE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/6f/18/212609_tMiIC.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "\r\n        那六个人，回来啦！\r\n        无法预测的喜剧，再开！\r\n        让人留下深刻印象的6个人以更加强力的姿态回归！\r\n        暴走的6人传说，已经无人能挡了...!?\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6421"
+                }
+            },
+            "rating": 59,
+            "release": "2017-10-02T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "日常",
+                    "搞笑"
+                ]
+            },
+            "title": {
+                "ja_JP": "おそ松さん 第2期",
+                "zh_CN": "阿松 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/e5/a5/202880_DSs8C.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "\r\n        眼看人类就要被魔神灭亡了…\r\n        拯救了这一切的，仅仅是一名魔道士。\r\n      　他被称为“魔法帝”，成为了传说——\r\n        在某个魔法至上的世界——\r\n        生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6422"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-03T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "魔法",
+                    "热血"
+                ]
+            },
+            "title": {
+                "en_GB": "黑死四叶草",
+                "ja_JP": "ブラッククローバー",
+                "zh_CN": "黑色五叶草"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c9eca3cbc386c63b27461074b8b218898cb7440e.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "无论何时，我们的第一步总是从好奇心开始。不曾看过的风景，不曾听过的声音，不曾闻过的味道，不曾摸过的质感，不曾尝过的食物，以及不曾感受过的澎湃。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21778"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-02T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "青春",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "ja_JP": "宇宙よりも遠い場所",
+                "zh_CN": "比宇宙更远的地方"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/eb/f1/223407_ZI7pz.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "那是曾出现了寄居着怪兽灵魂的少女们“怪兽娘”的时代。成为GIRLS一员的阿基拉、米克拉斯、乌英达姆逐渐成长，过着充实的每一天。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/223407"
+                }
+            },
+            "rating": 44,
+            "release": "2018-01-09T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面"
+                ]
+            },
+            "title": {
+                "ja_JP": "怪獣娘～ウルトラ怪獣擬人化計画～ 2期",
+                "zh_CN": "怪兽娘~奥特怪兽拟人化计划~第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/851f979c8ebcc7583a43abd4b786c4e2e66b746b.jpg_225x300.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "骷髅外表的最强大魔法师，TV动画再次降临！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21466"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-09T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "穿越",
+                    "骨傲天"
+                ]
+            },
+            "title": {
+                "ja_JP": "オーバーロードⅡ",
+                "zh_CN": "OVERLORD 第二季"
+            }
+        }
+    ]
+}

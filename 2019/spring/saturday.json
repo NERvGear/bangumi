@@ -1,0 +1,299 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/368c60d973a8a3251534f599dcb2eff7fc64cef3.png@450w_600h.png"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　高中生本田透自从唯一的亲人——母亲去世之后，就开始一个人在帐篷中生活。但她设置帐篷的地方正是历史悠久的“草摩家”的土地！透的家务能力被草摩紫吴看中，并开始和学校的王子般的存在草摩由希以及敌视由希的草摩夹一起生活。但透尚未知晓。“草摩家”自数百年前开始就被诅咒所束缚一事……。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md21984454"
+                }
+            },
+            "rating": 100,
+            "release": "2019-04-05T17:23:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "治愈",
+                    "奇幻",
+                    "恋爱",
+                    "少女"
+                ]
+            },
+            "title": {
+                "en_GB": "Fruits Basket ",
+                "ja_JP": "フルーツバスケット",
+                "zh_CN": "水果篮子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/69c80c89287209b0ccb383ccb21ccb7b0821959e.png@450w_600h.png"
+            },
+            "episode": 39,
+            "intro": {
+                "zh_CN": "　　住在意大利那不勒斯的青年乔鲁诺·乔巴拿，是继承了乔斯达家宿敌·DIO之血脉的儿子。幼年时遭受迫害而自暴自弃的他，由于拯救了一名黑帮男子，而学到了“相信他人”。不忘恩义、带着敬意对待自己的黑帮，让他的心变得率直。就这样，乔鲁诺开始对“黑帮明星”怀有憧憬。15岁的乔鲁诺，与统领意大利黑社会的黑帮组织“热情”一同引发事端，并成为被盯上的目标…… "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md135652/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-10-05T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "战斗",
+                    "学姿势"
+                ]
+            },
+            "title": {
+                "en_GB": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+                "ja_JP": "ジョジョの奇妙な冒険 黄金の風",
+                "zh_CN": "JOJO的奇妙冒险 黄金之风"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/247c5e89bc9b26e8302830b4eb316c3af0409a47.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　将想要说的话用五七五的川柳来传达的女孩子·雪白七七子，与外表可怕但内心温柔的文艺部毒岛英二。由短短17个音编织而成的两人的日常，无论何时都充满幸福！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md24069719"
+                }
+            },
+            "rating": 100,
+            "release": "2019-04-05T18:10:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "恋爱",
+                    "日常",
+                    "狗粮"
+                ]
+            },
+            "title": {
+                "en_GB": "Senryuu Girl ",
+                "ja_JP": "川柳少女",
+                "zh_CN": "川柳少女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=d35de8448f26cffc7d27b7e0d86821f5/29381f30e924b899cd19e7e563061d950b7bf6c2.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　名字的由来是——\r\n　　为官能小说家父亲所困扰的女高中生·小青，为了实现一人独居的愿望，以难关大学为目标拼命学习中。\r\n　　“青春？男女交往？那种事情才不知道！”\r\n　　……但这样的小青，却面对班上的人气者“现充王”木岛难以置信的爱的告白。\r\n　　面对读不懂气氛的木岛不断逼近，小青把学习丢到一边，色色的妄想完全停不下来！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md25826974"
+                }
+            },
+            "rating": 80,
+            "release": "2019-04-05T18:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "恋爱",
+                    "脑洞",
+                    "搞笑",
+                    "标题欺诈"
+                ]
+            },
+            "title": {
+                "en_GB": "Ao-chan Can't Study! ",
+                "ja_JP": "みだらな青ちゃんは勉強ができない",
+                "zh_CN": "淫乱的青酱不能学习"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a3b2db2edeeac4fb51446724458cf93fe46d2797.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　极度怕生的少女，一里波知。小学时代的朋友，只有一人。在毕业时与这位唯一的儿时好友分别的波知，和她做了约定。“到初中毕业为止，和全班交上朋友”如果做不到就……绝交!? 然而，无法主动向他人搭话的波知。一紧张就两腿抽筋的波知。无法和他人对上视线的波知。说到底，原本就连交朋友的方法也不知道……!!波知想到的交友方式，由于偏离常轨而总是白忙一场。究竟波知的交友作战能否成功呢……？孤单少女为了“脱孤单”而不断努力！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md23200609"
+                }
+            },
+            "rating": 80,
+            "release": "2019-04-05T18:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "萌系",
+                    "校园",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Hitori Bocchi's ○○ Lifestyle ",
+                "ja_JP": "ひとりぼっちの○○生活",
+                "zh_CN": "一个人的〇〇小日子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c810285bf6e2f40a5ab7c1662ac637670a9cac2f.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　舞台和《棒球英豪》一样是明青学园。距离《棒球英豪》的主人公上杉达也的传说过了约30年，现在，命运的兄弟打开了物语的大门……\r\n　　由于父母再婚，而成为虽然没有血缘关系却在同一天出生的双子？兄弟的立花投马和立花走一郎，是明青学园中等部棒球部所属的初中2年生。走一郎身为捕手和打者而活跃。投马由于“某个理由”而担任三垒手，但他其实隐藏着超出常人的投手才能。走一郎的亲妹妹、投马没有血缘关系的义理妹妹立花音美也升入初中，两人的周围开始变得热闹起来。终将升入高中的两人，究竟能否踏上甲子园的土地……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md21989385/"
+                }
+            },
+            "rating": 60,
+            "release": "2019-04-06T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "棒球",
+                    "运动",
+                    "恋爱",
+                    "社团"
+                ]
+            },
+            "title": {
+                "en_GB": "Mix: Meisei Story",
+                "ja_JP": "ミックス",
+                "zh_CN": "MIX"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://img.moegirl.org/common/6/66/Miru_Tights_Anime_KV.jpg"
+            },
+            "episode": 10,
+            "intro": {
+                "zh_CN": "　　4月。下雨的早晨。开始凋零的樱花被雨滴打落，漂浮在积水之上。学生们撑着五颜六色的雨伞，穿过高中的校门。\r\n　　“早啊，莲”。鞋柜前，裤袜湿透的莲被由亚搭话。略显忧郁的莲回过头去，看到全身湿透的帆美蹦蹦跳跳地走来，热闹地说着话。3个女学生没啥营养的对话，向教室宣告了新学期的来临。\r\n　　少女们无可替代的宝贵时间向前飞逝，季节渐渐转变…… "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://zh.moegirl.org/裤袜视界"
+                }
+            },
+            "rating": 80,
+            "release": "2019-05-11T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "JK",
+                    "足",
+                    "黑丝"
+                ]
+            },
+            "title": {
+                "en_GB": "Miru Tights",
+                "ja_JP": "みるタイツ",
+                "zh_CN": "裤袜视界"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic3.iqiyipic.com/image/20190328/69/b9/a_100277804_m_601_180_236.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　对三次元（现实）的女性毫无兴趣的硬派阿宅，房伊田春人。某天，他买到了最爱的动画女主角·诺娜的美少女手办，但原本应该是手办的诺娜突然动了起来！一人与一机(?)喧闹的夫妇般生活开始了！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/lib/m_219988414.html"
+                }
+            },
+            "rating": 60,
+            "release": "2019-04-06T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "手办",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "en_GB": "Chou Kadou Girl ⅙: Amazing Stranger",
+                "ja_JP": "超可動ガール1/6 AMAZING STRANGER ",
+                "zh_CN": "超可动女孩1/6"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic8.iqiyipic.com/image/20190328/cd/ec/a_100277805_m_601_180_236.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　即使不说话也很可爱，安静的女子高中生动画！\r\n　　以残念美人桃子为中心，冰山系眼镜娘涩美&治愈系小不点真由美3人度过的愉快高中生活♪。既能独乐乐也能众乐乐，稍微有点蠢萌、可爱到“无语”的日常。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/lib/m_219988614.html"
+                }
+            },
+            "rating": 60,
+            "release": "2019-04-06T14:15:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "JK",
+                    "日常",
+                    "喜剧",
+                    "默片"
+                ]
+            },
+            "title": {
+                "en_GB": "Joshi Kausei ",
+                "ja_JP": "女子かう生",
+                "zh_CN": "默绘女高"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic1.iqiyipic.com/image/20190328/98/fd/a_100277802_m_601_180_236.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“非常喜欢自己的女孩子，突然在某天出现了。”\r\n　　总是做着这种GALGAME展开的梦的教师·信永。出现在他身边的，是自称他妻子的14岁少女·归蝶。似乎来自战国时代的她，将信永误认为是织田信长，并为了造小孩而向他逼近……！？\r\n　　GALGAME脑教师和战国脑公主之间爆发的年龄差恋爱喜剧！！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/lib/m_219988214.html"
+                }
+            },
+            "rating": 60,
+            "release": "2019-04-06T14:20:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "后宫",
+                    "恋爱",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "en_GB": "Mr. Nobunaga's Young Bride ",
+                "ja_JP": "ノブナガ先生の幼な妻",
+                "zh_CN": "信长老师的年幼妻子"
+            }
+        }
+    ]
+}

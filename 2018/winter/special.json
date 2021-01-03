@@ -1,0 +1,65 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://img.moegirl.org/common/4/4f/B_the_Beginning_KV2.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        　　回到王立警察特殊犯罪搜查课的天才搜查官奇斯·弗里克，正在追查某起事件的犯人。那是只追杀凶恶犯罪者的连续杀人鬼，通称“Killer B”。\r\n            他在犯罪现场必然会刻下的“B”之文字引起人们注目，也引来种种猜想。\r\n        　　“B”——那是为她留下的讯息。“我就在这里……”即使身体化作异形，黑羽仍不断刻下无法传达到的思念。\r\n        　　奇斯与黑羽，素昧平生的两人之命运，终将被同一个阴谋所吞噬——\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/video/av20383309/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-03-01T16:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "Netflix独占",
+                    "犯罪",
+                    "科幻",
+                    "推理"
+                ]
+            },
+            "title": {
+                "en_GB": "B: The Beginning",
+                "ja_JP": "B：彼之初",
+                "zh_CN": "B：起点"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://img.moegirl.org/common/5/5b/Aico_Incarnation_KV.jpg"
+            },
+            "episode": 11,
+            "intro": {
+                "zh_CN": "\r\n        　　2035年的日本，某个研究计划发生了一场名为「大爆炸」的意外，失去控制的人工生命体「大麻烦」因而产生，占据了整个黑部峡谷。曾被誉为人类希望的研究重镇就此遭政府全面封锁。\r\n        　　两年后，在「大爆炸」中失去家人的15岁少女橘爱子，从转学生神崎雄哉得知令人难以置信的事实。她的体内隐藏着一个秘密，而一切谜题的解答就在「大爆炸」的中心地「原初点」。\r\n        　　少年与少女相遇，人类的命运掌握在两人手中，他们将揭晓什么样的崭新真相？\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/video/av20606290/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-03-08T16:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "Netflix独占",
+                    "战斗",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "en_GB": "A.I.C.O. -Incarnation-",
+                "ja_JP": "A.I.C.O. -Incarnation-",
+                "zh_CN": "A.I.C.O.：化身"
+            }
+        }
+    ]
+}

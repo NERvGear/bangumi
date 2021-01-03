@@ -1,0 +1,166 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://imgsrc.baidu.com/forum/w=580/sign=e78b8b85c21349547e1ee86c664e92dd/fee8bd3eb13533fa3bdfa02aa1d3fd1f41345b7d.jpg"
+            },
+            "intro": {
+                "zh_CN": "以2117年的东京为舞台，第7代小林少年所率领的少年侦探团和第7代明智小五郎会在日常生活的空隙适当的进行惊险的冒险，并"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.le.com/ptv/vplay/27427049.html"
+                }
+            },
+            "rating": 12,
+            "release": "2017-01-02T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "偵探",
+                    "日常",
+                    "原創"
+                ]
+            },
+            "title": {
+                "ja_JP": "超・少年探偵団NEO",
+                "zh_CN": "超·少年侦探团NEO"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/img3_178_com/c9207a6819da3cbf908ac7231f5b1854.jpg"
+            },
+            "intro": {
+                "zh_CN": "《新撰组镇魂歌 二分之一》是改编自梅村真也原作、桥本英治作画的漫画《新撰组镇魂歌》外传作品。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5791"
+                }
+            },
+            "rating": 66,
+            "release": "2017-01-09T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "新撰组",
+                    "回忆",
+                    "漫改"
+                ]
+            },
+            "title": {
+                "ja_JP": "ちるらん にぶんの壱",
+                "zh_CN": "新选组镇魂歌 二分之一"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://img2.178.com/acg1/201611/274388570438/274389708959.jpg"
+            },
+            "intro": {
+                "zh_CN": "小野田坂道是御宅族。他打算在进入高中要加入动漫画研究部。活跃于各大自行车比赛的今泉俊辅，见到小野田坂道骑着自行车爬上陡坡的过程。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5794"
+                }
+            },
+            "rating": 12,
+            "release": "2017-01-09T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "竞技",
+                    "青春"
+                ]
+            },
+            "title": {
+                "ja_JP": "弱虫ペダル",
+                "zh_CN": "飙速宅男 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://img3.178.com/acg1/201610/271027734965/271028311008.jpg"
+            },
+            "intro": {
+                "zh_CN": "描写长谷川平藏惩治恶人的古装小说，因为他是专门抓捕罪犯的市井民事纠察官，于是被叫做“鬼之平藏、鬼平”。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5792"
+                }
+            },
+            "rating": 100,
+            "release": "2017-01-09T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "江户时期",
+                    "古装",
+                    "轻改"
+                ]
+            },
+            "title": {
+                "ja_JP": "鬼平",
+                "zh_CN": "鬼平犯科帐"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://img5.178.com/acg1/201610/271537072634/271538928259.jpg"
+            },
+            "intro": {
+                "zh_CN": "漫画研究部高中女生的搞笑日常故事，可爱女孩纸的萌萌百合互动，就算有时有那么丢丢蛇精病，但还是很受欢迎哒w"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.le.com/ptv/vplay/27444155.html"
+                }
+            },
+            "rating": 66,
+            "release": "2017-01-03T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "日常",
+                    "萌百合"
+                ]
+            },
+            "title": {
+                "ja_JP": "AIMAIMI",
+                "zh_CN": "漫研部 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/693343bb05ae5830a5f96e53a51e83c563354da7.jpg_225x300.jpg"
+            },
+            "intro": {
+                "zh_CN": "全世界被划分为13个区，而ACCA则是一个负责统一的组织。本作讲述的就是为这个组织工作的一群男人的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5795"
+                }
+            },
+            "rating": 100,
+            "release": "2017-01-10T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "组织",
+                    "偶像",
+                    "漫改"
+                ]
+            },
+            "title": {
+                "ja_JP": "ACCA13区監察課",
+                "zh_CN": "ACCA13区监察课"
+            }
+        }
+    ]
+}

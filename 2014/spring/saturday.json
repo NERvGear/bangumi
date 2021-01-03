@@ -1,0 +1,484 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3a1a413330cdfd7f6c824bed2a852f7cf9cfba76/w220"
+            },
+            "episode": 20,
+            "intro": {
+                "zh_CN": "虽然看起来平凡无奇，但其实是流氓第二代的高中生．一条乐，遇上了转学到班上的美国黑帮大小姐．桐崎千棘。个性合不来的两人，总是天天吵架。但此时，双方的父亲，却要他们为了使双方家族能和平相处，假装成一对恋人？虽然乐其实喜欢同班同学小野寺，但迫於现实无奈的两人，还是心不甘情不愿地开始了咬牙切齿、动手动脚的“甜蜜”生活…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/nisekoi/videos#c=episode"
+                }
+            },
+            "rating": 75,
+            "release": "2014-01-11T14:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "情感",
+                    "后宫",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Nisekoi",
+                "ja_JP": "ニセコイ",
+                "zh_CN": "伪恋"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a25faf6afa519d2d73692fef61d18a5840707c03/w220"
+            },
+            "intro": {
+                "zh_CN": "为了纪念原作漫画连载15周年，《KERORO军曹》新作将是FLASH动画，标题也将由《KERORO军曹》改为《KERORO》。新作动画由日升制作，预定于2014年春开始放送"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52a559e01d41c8554e80410c/videos#c=episode"
+                }
+            },
+            "rating": 34,
+            "release": "2014-03-22T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "拟人化"
+                ]
+            },
+            "title": {
+                "ja_JP": "ケロロ（2014）",
+                "zh_CN": "KERORO (2014)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1b031d61c9966a466e79fff04359d1ef2f9dbe4c/w220"
+            },
+            "episode": 23,
+            "intro": {
+                "zh_CN": "昭和の長崎。閉鎖を余儀なくされている炭鉱の町で、母と４人の兄弟とともに暮らす松太郎は、成人しているにもかかわらず今もまだ中学３年生。ろくに勉強もせず、怪力を武器にやりたい放題のダメ生徒だ。そんな松太郎が学校に行く目的は、憧れの南先生の存在だった。ある日、松太郎は強引に南先生をトラックに乗せ、ドライブへ。甘いスポーツカー・デートを妄想しながら爆走する松太郎だが、その行動が思わぬ結果を生んでしまい…！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/530c10bc1d41c8280956913e/videos#c=episode"
+                }
+            },
+            "rating": 22,
+            "release": "2014-04-04T21:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "欢乐",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "Abarenbou Rikishi!! Matsutarou",
+                "ja_JP": "暴れん坊力士！！松太郎",
+                "zh_CN": "相扑力士松太郎"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5967f3b900d3e73c732101d4640dda4c80874127/w220"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "改编自TCG卡牌游戏《决斗大师》的最新少年向燃系动画《决斗大师Versus》，将在2014年4月5日8:30（大陆时间7:30）于各东京电视台系播放。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/532685341d41c80859950017/videos#c=episode"
+                }
+            },
+            "rating": 12,
+            "release": "2014-04-04T23:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Duel Masters Versus",
+                "ja_JP": "デュエル・マスターズ VS",
+                "zh_CN": "决斗大师 Versus"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/48242772afc5249a07c0a27be62a40d18477719d/w220"
+            },
+            "intro": {
+                "zh_CN": "动画围绕着某人与古董店的机器人玩具相遇的少年开始了机器人变身战斗的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5306de9b1d41c83fcd4334ab/videos#c=episode"
+                }
+            },
+            "rating": 25,
+            "release": "2014-04-05T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "燃",
+                    "励志",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Tenkai Knights",
+                "ja_JP": "テンカイナイト",
+                "zh_CN": "展开骑士"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/706af0bb6a3cff7741bf93872e3fe0c7dd029e1e/w220"
+            },
+            "intro": {
+                "zh_CN": "奔赴亲戚结婚仪式的女主角ももな半路被一只可爱兔子形状的宝石宠物Ruby吸引，在Ruby引导下，穿越到宝石宠物大陆。那里聚集着很多淑女预备生。ももな竟然被Ruby选定为最佳宝石大陆公主候选人？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52fc78961d41c835650b205c/videos#c=episode"
+                }
+            },
+            "rating": 28,
+            "release": "2014-04-05T00:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "魔幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Lady Jewel Pet",
+                "ja_JP": "レディ ジュエルペット",
+                "zh_CN": "Lady 宝石宠物"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/534a74dfa5ba7d03065b9ad2c03509bd6b44885c/w220"
+            },
+            "episode": 11,
+            "intro": {
+                "zh_CN": "TV动画《美妙旋律》第4季将在2014年4月5日上映。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52df89eb1d41c8173ba7959b/videos#c=episode"
+                }
+            },
+            "rating": 31,
+            "release": "2014-04-05T01:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "欢乐",
+                    "萌"
+                ]
+            },
+            "title": {
+                "en_GB": "Pretty Rhythm All Star Selection",
+                "ja_JP": "プリティーリズムオールスターセレクション",
+                "zh_CN": "美妙旋律 All Star Selection"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/133ac0aba52d167675fb8ae982be66981e313519/w220"
+            },
+            "intro": {
+                "zh_CN": "故事叙述在一个充满魔法的世界－“亚斯蓝德（Earth land）”中，位于菲欧烈王国的一个众多厉害魔导士云集的魔导士公会“妖精尾巴”。露西·哈特菲利亚一直希望能加入，成为其中的成员。在纳兹·多拉格尼尔的引导下，露西终于得尝所愿，并结识了许多厉害的魔导士。随后，露西跟纳兹、格雷·佛尔帕斯塔、艾尔莎·史卡雷特和哈比组成“最强队伍”，在这个全世界最吵闹、最暴力，但也是最快乐的公会里，创造出数不清的传说的，借着各种委托人的任务而不断变强，伙伴也一个一个加入，故事就这样渐渐揭开……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52c502071d41c81dade7f88a/videos#c=episode"
+                }
+            },
+            "rating": 71,
+            "release": "2014-04-05T01:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "励志",
+                    "奇幻",
+                    "魔幻",
+                    "冒险",
+                    "动作"
+                ]
+            },
+            "title": {
+                "en_GB": "Fairy Tail 2",
+                "ja_JP": "FAIRY TAIL 2",
+                "zh_CN": "妖精的尾巴 第2季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1103242f0eb2f1e6d398375540215d7517da44d4/w220"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "《金田一少年事件簿》将在四月播出新的电视动画，具体的播出时间是2014年4月5日开始的每周六下午5点30分。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52fdfead1d41c84ef2502adb/videos#c=episode"
+                }
+            },
+            "rating": 74,
+            "release": "2014-04-05T08:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "催泪",
+                    "悬疑",
+                    "恐怖"
+                ]
+            },
+            "title": {
+                "en_GB": "The Kindaichi Case Files",
+                "ja_JP": "金田一少年の事件簿 R",
+                "zh_CN": "金田一少年事件簿 R"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/96c2062a3a7501eca0fceb6d564b592ef94a26e7/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "虽然真玉桥孝一是个外表平凡的高中生，不过他却是个具有HiERo粒子的持有者，而“美容室王子”这个神秘组织为了维护世界和平，免於遭到企鹅帝国的攻击，到处寻找具有该因子的人。该组织成员楚南恭子好不容易找到了他，可是却发现孝一如果要释出HiERo粒子就必须对她做出猥亵动作，後来果真因此打败了来袭的敌人。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52bd07621d41c8729b480f02/videos#c=episode"
+                }
+            },
+            "rating": 90,
+            "release": "2014-04-05T09:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "卖肉",
+                    "动作",
+                    "后宫"
+                ]
+            },
+            "title": {
+                "en_GB": "Daimidaler the Sound Robot",
+                "ja_JP": "健全ロボ ダイミダラー",
+                "zh_CN": "健全机斗士"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a471d391ca5abc8cbbcb7f3f71f79f219bf91e1c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/531984411d41c87002d66bf1/videos#c=episode"
+                }
+            },
+            "rating": 20,
+            "release": "2014-04-05T09:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "ja_JP": "パックワールド",
+                "zh_CN": "吃豆人世界"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cdc5182bd38a3712c4ab533e5ecf044354577695/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "在龙族与人类共生的世界里，藉由某种特殊仪式，人类与龙族可以缔造亲密的主从关系。主角亚修是被称为天才驯龙师的少年，然而他的龙伴侣却迟迟未出现，这令他成为周围的笑柄。 某天，因为一场巧合，亚修的龙伴侣终于诞生了，但她却不像龙族，更像是一个人类美少女……！人称“能驾驭一切飞龙之人”的亚修与他唯一无法驾驭的龙伴侣的波澜万丈的学园生活开始了……！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/528d91741d41c8154d294ab9/videos#c=episode"
+                }
+            },
+            "rating": 61,
+            "release": "2014-04-05T11:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "卖肉",
+                    "奇幻",
+                    "情感",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Dragonar Academy",
+                "ja_JP": "星刻の竜騎士",
+                "zh_CN": "星刻的龙骑士"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/98fbe73c147c2a35cb4662841ea5605a9963fb7e/w220"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "2095年，魔法不再是一种虚无缥缈的幻想，而是一种已经应用了近一个世纪的科学技术。在例行的新生入学的春天，国立魔法大学附属第一高中，通称“魔法科高中”，迎来了一对兄妹。哥哥是什么事都拿得起放得下的“二科生”，而妹妹是对兄长抱有超越血亲感情的完美无缺的“一科生”。伴随着两人的入学，平稳的日常生活开始变得波澜万丈。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5253af221d41c8488496fe9b/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2014-04-05T15:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "奇幻",
+                    "情感",
+                    "后宫"
+                ]
+            },
+            "title": {
+                "en_GB": "The irregular at magic high school",
+                "ja_JP": "魔法科高校の劣等生",
+                "zh_CN": "魔法科高校的劣等生"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8162b86ff141c81ede1efe7276c94082d1664438/w220"
+            },
+            "episode": 10,
+            "intro": {
+                "zh_CN": "动画《DATE A LIVE》由橘公司原著、网子负责插画的同名轻小说改编，主要讲述普通的高校二年生五河士道，在四月十日，随着一场奇怪的大爆炸，与一名身穿盔甲手持大剑的神秘少女相遇了！这名少女的正体是“精灵”，是会给世界带来灾难的存在，而这名少女也正遭到对精灵部队·AST的攻击。于是，有着会去帮助有困难、悲伤的人的温柔性格的士道，主动提出要与精灵进行交涉的任务，随后，世道发现了自己拥有的特殊体质，那就是通过接吻，来吸收并封印精灵的力量，并且将精灵受到致命伤恢复再生的能力。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/DATE_A_LIVE_II/videos#c=episode"
+                }
+            },
+            "rating": 95,
+            "release": "2014-04-11T16:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "萌",
+                    "卖肉",
+                    "后宫",
+                    "机战"
+                ]
+            },
+            "title": {
+                "en_GB": "Date A Live 2nd Season",
+                "ja_JP": "DATE A LIVE （第二期）",
+                "zh_CN": "约会大作战 DATE A LIVE II"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f7327f4cb94a7f33de0afa646b9fe4c86830c3c0/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "所谓“阳炎Project”是自然之敌P的的乐曲中所描绘的世界观的总称，主舞台是自然之敌P（JIN）的原居地千叶县柏市。在自然之敌P的每一首曲子中都讲述着一个故事，而每个故事都属于一个世界观，每个世界彼此间又都有联系。自然之敌P亲自执笔写下了小说，并同时以JIN的名义为原作，由佐藤日丸在《月刊comic gene》上连载漫画作品《阳炎DAYS》，小说与漫画都属于“阳炎Project”之内。动画将由大家熟悉的监督新房昭之执导，同时动画也交给了新房的老搭档公司SHAFT制作"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Mekaku_City_Actors/videos#c=episode"
+                }
+            },
+            "rating": 80,
+            "release": "2014-04-12T15:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "奇幻",
+                    "悬疑",
+                    "音乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Mekaku City Actors",
+                "ja_JP": "メカクシティアクターズ",
+                "zh_CN": "目隐都市的演绎者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/49ba76c1805537908c1a7556d7b5eb2850febf28/w220"
+            },
+            "intro": {
+                "zh_CN": "2014年4月26日开始放送的喵片。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/535e2fa41d41c842f718c369/videos#c=episode"
+                }
+            },
+            "rating": 4,
+            "release": "2014-04-25T22:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "萌",
+                    "泡面番"
+                ]
+            },
+            "title": {
+                "ja_JP": "猫のダヤン",
+                "zh_CN": "猫のダヤン"
+            }
+        }
+    ]
+}

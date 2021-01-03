@@ -1,0 +1,55 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/03b1aa050ba47ad51eea79bd21bd1af33ff5bd58/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594ac0d51d41c81f831eb7b3/videos#c=episode"
+                }
+            },
+            "rating": 80,
+            "release": "2017-07-06T15:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "DIVE!!",
+                "ja_JP": "DIVE!!",
+                "zh_CN": "DIVE!! 跳水男孩"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e6fc033db5114e3b4833b27562f9a40c8d06e329/w220"
+            },
+            "intro": {
+                "zh_CN": "“……和我交往，试着加入游戏部怎样？”兴趣是游戏，除此之外毫无显眼的特征，仅仅是个龙套的游戏玩家雨野景太，某天突然被学园第一的美少女、游戏部部长天道花怜搭话了。由此开始，景太的日常为之一转，开始了与喜爱游戏的美少女们共度的恋爱喜剧展开的日子……本以为如此！？只有游戏的价值观不同，特立独行的女子玩家星之守千秋。班上的中心人物，虽然有女友却私下里爱好游戏的残念现充上原祐。祐的女友，毫无游戏知识的亚玖璃。将这些人物一并卷入，重复着互相误会、徒劳无功、陷入迷途，乱成一团的游戏玩家们带来的“擦肩而过青春错综系恋爱喜剧”开幕！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594acde41d41c85a1e8c8795/videos#c=episode"
+                }
+            },
+            "rating": 65,
+            "release": "2017-07-13T12:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Gamers!",
+                "ja_JP": "ゲーマーズ！",
+                "zh_CN": "Gamers!"
+            }
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://f.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=1f489295a0d3fd1f2204aa6851274e7a/ac6eddc451da81cba41882765a66d0160824318a.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "本作主要讲述了由很在意自己个子矮小的主人公祗圆健次在神奈川高中入学仪式当天，与个子高的石清水澄明以及一场橄榄球球赛的邂逅正式展开的青春椭圆物语。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://v.pptv.com/show/IxXicfeVLuiclc2kI.html?rcc_src=S1"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-06T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "橄榄球",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "ALLOUT!!",
+                "ja_JP": "オールアウト!!",
+                "zh_CN": "橄榄球少年"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://e.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=0bd8bd4671310a55d029d6a6d62c28cc/8601a18b87d6277f62c1158d20381f30e824fcb0.jpg"
+            },
+            "intro": {
+                "zh_CN": "“伯纳德小姐”町田佐和子与爱读书的朋友们在图书馆展开的文学日常。对古今东西各种书籍的爱，以及充满“确实是读书家呢”这类细节的“名著礼赞”搞笑剧！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5537"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-06T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "日常",
+                    "漫改"
+                ]
+            },
+            "title": {
+                "ja_JP": "バーナード嬢曰く。",
+                "zh_CN": "伯纳德小姐说"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://g.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=04fabe96e3c4b7452099bf44ae957572/1c950a7b02087bf4047e6f56fad3572c10dfcffa.jpg"
+            },
+            "intro": {
+                "zh_CN": "拥有可爱的外表以及蔑视世间内心的女大学生•乌丸千岁。无工作×无干劲的新人，究竟能否开辟通往人气声优的道路！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5532"
+                }
+            },
+            "rating": 66,
+            "release": "2016-10-06T17:28:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "职场",
+                    "励志"
+                ]
+            },
+            "title": {
+                "ja_JP": "ガーリッシュナンバー",
+                "zh_CN": "少女编号"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://f.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=07c9dec53d2ac65c73086e219a9bd974/7dd98d1001e939011c718f9b73ec54e736d19627.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "主人公弥琉，嗜血族与人类的混血，是被寄予厚望的“和平之子”。但是，他却被作为银行袭击事件的主犯遭到逮捕，并被移送到一个特殊的监狱里。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5572"
+                }
+            },
+            "rating": 22,
+            "release": "2016-09-30T02:59:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "国漫",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "ja_JP": "Bloodivores",
+                "zh_CN": "時空使徒"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://a.hiphotos.baidu.com/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=bbcbf5859713b07ea9b0585a6dbefa46/e4dde71190ef76c6e7d6898f9916fdfaaf516709.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "讲述了岛津丰久，一名活跃于战国时代后期的年轻豪杰。他在新世界与诸多历史名人合作及交战，进而大展身手的漂流武士！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://v.pptv.com/show/4x8CgRsicJmTHRa0.html?rcc_src=B3"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-07T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "ja_JP": "ドリフターズ",
+                "zh_CN": "漂流武士"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://h.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=f1cb2c6da56eddc432eabca958b2dd98/472309f7905298228d313b4bdfca7bcb0a46d43c.jpg"
+            },
+            "intro": {
+                "zh_CN": "讲述沉溺于同人幻想中无法自拔的芹沼，因无法忍受心爱角色的逝去，卧床一星期之后发生了惊天大变化？！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5534"
+                }
+            },
+            "rating": 66,
+            "release": "2016-10-07T04:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "女性向",
+                    "搞笑"
+                ]
+            },
+            "title": {
+                "ja_JP": "私がモテてどうすんだ",
+                "zh_CN": "我太受欢迎了该怎么办"
+            }
+        }
+    ]
+}

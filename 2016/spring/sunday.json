@@ -1,0 +1,316 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/dc7155aad0b37b6fa2f45065243d552122655208/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45adb1d41c85c0bc632e3/videos#c=episode"
+                }
+            },
+            "rating": 64,
+            "release": "2016-04-02T17:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "ENDRIDE",
+                "ja_JP": "エンドライド",
+                "zh_CN": "ENDRIDE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/dfe40808d6edd5c8420b7bf8feb01f91fdbb2cb1/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45c801d41c85c0bc6347b/videos#c=episode"
+                }
+            },
+            "rating": 45,
+            "release": "2016-04-02T22:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Mobile Suit Gundam Unicorn RE:0096",
+                "ja_JP": "機動戦士ガンダムＵＣ　RE:0096",
+                "zh_CN": "机动战士钢弹 UC RE:0096"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/da7adde5d76cc799ca267d14781eb0d95f634b1a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5aefa1d41c85c0bc75b87/videos#c=episode"
+                }
+            },
+            "rating": 11,
+            "release": "2016-04-02T23:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Duel Masters VSRF",
+                "ja_JP": "デュエル・マスターズVSRF",
+                "zh_CN": "决斗大师VSRF"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f34c871f7790f719471814254bb1254c3927b7a4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45b341d41c84caa4236c8/videos#c=episode"
+                }
+            },
+            "rating": 88,
+            "release": "2016-04-03T08:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "My Hero Academia",
+                "ja_JP": "僕のヒーローアカデミア",
+                "zh_CN": "我的英雄学院"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8d24424f136503398b7e03da6d7545077ca70180/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45b5b1d41c804ee88e63e/videos#c=episode"
+                }
+            },
+            "rating": 63,
+            "release": "2016-04-03T11:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Pan de Peace!",
+                "ja_JP": "パンでPeace！",
+                "zh_CN": "面包带来和平！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6ae3239d4fff8e61f6b3f167c9db959771738df8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45bab1d41c8051af459b2/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2016-04-03T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Macross Delta",
+                "ja_JP": "マクロスΔ（デルタ）",
+                "zh_CN": "超時空要塞 Δ"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b1703b11622655a160571e2a64180f3ac9af2eea/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45bd31d41c84caa423738/videos#c=episode"
+                }
+            },
+            "rating": 94,
+            "release": "2016-04-03T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Concrete Revolutio THE LAST SONG",
+                "ja_JP": "コンクリート・レボルティオ～超人幻想～ THE LAST SONG",
+                "zh_CN": "Concrete Revolutio～超人幻想～THE LAST SONG"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7fda0ea2c1a23015fb6741ab309df461753400e9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45c101d41c84caa423774/videos#c=episode"
+                }
+            },
+            "rating": 91,
+            "release": "2016-04-03T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kuma Miko: Girl Meets Bear",
+                "ja_JP": "くまみこ",
+                "zh_CN": "当女孩遇到熊"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/52de0df1bc906372015a2fb9ebfd2ebf65e7fb09/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f461d11d41c85c0bc63986/videos#c=episode"
+                }
+            },
+            "rating": 69,
+            "release": "2016-04-09T17:25:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "flying witch",
+                "ja_JP": "ふらいんぐうぃっち",
+                "zh_CN": "飞翔的魔女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ddf3bb9da1dfe610a2048b2060fb094437fdd831/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f462911d41c804ee88e87d/videos#c=episode"
+                }
+            },
+            "rating": 25,
+            "release": "2016-04-10T08:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Nameko: Sekai no Tomodachi",
+                "ja_JP": "なめこ～せかいのともたち～",
+                "zh_CN": "菇菇～世界的朋友～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/05abab7aef9bada96c8d334e3a304ef3fb995399/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f462f81d41c8051af45b16/videos#c=episode"
+                }
+            },
+            "rating": 20,
+            "release": "2016-04-10T13:15:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Tonkatsu DJ Agetarou",
+                "ja_JP": "とんかつDJアゲ太郎",
+                "zh_CN": "炸猪排DJ炸太郎"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8849398c0a95186be51b8a25e3d8d8d72f398c2a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f462a61d41c85c0bc63a5f/videos#c=episode"
+                }
+            },
+            "rating": 75,
+            "release": "2016-04-10T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Sansha San'yō",
+                "ja_JP": "三者三葉",
+                "zh_CN": "三者三叶"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d57aeb28a2b3617d91a63f8baf702a4a66ba7582/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5af2b1d41c85c0bc75bc0/videos#c=episode"
+                }
+            },
+            "rating": 10,
+            "release": "2016-04-17T01:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Cardfight!! Vanguard G: Stride Gate-hen",
+                "ja_JP": "カードファイト!! ヴァンガードG ストライドゲート編",
+                "zh_CN": "卡片战斗先导者G Stride Gate篇"
+            }
+        }
+    ]
+}

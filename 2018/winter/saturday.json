@@ -1,0 +1,260 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/5d/70/222425_JMn2k.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "某特设的续作动画！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/222425"
+                }
+            },
+            "rating": 10,
+            "release": "2017-10-06T16:23:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "都市",
+                    "悬疑",
+                    "动作"
+                ]
+            },
+            "title": {
+                "en_GB": "-VANISHING LINE-",
+                "ja_JP": "牙狼＜GARO＞ -VANISHING LINE-",
+                "zh_CN": "牙狼 VANISHING LINE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic2.qiyipic.com/image/20171215/3a/7d/a_100109214_m_601_m1_195_260.jpg"
+            },
+            "episode": 18,
+            "intro": {
+                "zh_CN": "“我与骑士提欧的圣印立下契约，并宣誓永远的忠诚”孤高魔法师希露卡与流浪骑士提欧。两人交换的主从之誓，会为混沌与战乱的大陆带来变革之风吗？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21633"
+                }
+            },
+            "rating": 44,
+            "release": "2018-01-05T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "战斗",
+                    "养成",
+                    "剑与魔法"
+                ]
+            },
+            "title": {
+                "ja_JP": "グランクレスト戦記",
+                "zh_CN": "皇帝圣印战记"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://r1.ykimg.com/051600005A41ADE7AD881A066C079625"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "这是一个，人类与超越人类智慧的存在诀别和共处的故事。社会上大多数事务都交由被称作hIE的人形机器人处理。有一天，17岁的少年远藤新人遇到人工智能·雷希亚，与她交换了owner契约。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://list.youku.com/show/id_z496870efbfbdefbfbd67.html"
+                }
+            },
+            "rating": 44,
+            "release": "2018-01-12T17:40:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "战斗",
+                    "人工智能"
+                ]
+            },
+            "title": {
+                "zh_CN": "BEATLESS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://r1.ykimg.com/051600005A3C649F859B5D05CE028A79"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        平凡的大学生野本裕也与迷之少女瞳相遇。在荒无人烟的废弃场中，野本目击了瞳变身为野兽与狮子般的怪物殊死搏斗的场景。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://list.youku.com/show/id_z67d89910efbfbd5c11ef.html"
+                }
+            },
+            "rating": 71,
+            "release": "2018-01-12T18:10:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "格斗",
+                    "兽化"
+                ]
+            },
+            "title": {
+                "en_GB": "Killing Bites",
+                "ja_JP": "キリングバイツ",
+                "zh_CN": "牙斗"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/f1/91/212315_8wigs.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "在高中生音羽歌苗担任房东的洋房里集合了众多自称“克拉斯卡劳埃德”的人物。贝多芬或者莫扎特等，自称与实际存在的音乐家们同名的他们果真是天才！演奏拥有不可思议力量的音乐“ムジーク”，接二连三引发了各种异想天开的事情。像是变成鱼，或是宇宙人造访，在早已大混乱的日常里，德沃夏克和瓦格纳的加入让音羽馆更加热闹喧嚣。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6454"
+                }
+            },
+            "rating": 40,
+            "release": "2017-10-07T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Classicaloid 第二季",
+                "ja_JP": "クラシカロイド 第2シリーズ",
+                "zh_CN": "克拉斯卡劳埃德 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bca4864e564d46bebb6dc0b14371a04fd70b3fda.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n            那还是人与非人的世界未曾分开的时代。\r\n        　　从亨德里克森与德雷弗斯两大圣骑士长的支配下夺回王国的“七大罪”以及伊丽莎白、霍克。\r\n        　　王国诞生祭也平安结束，和平终于造访了里欧涅丝王国。\r\n        　　但，下一个威胁的预兆，确实地在产生着——。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/21729/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-05T21:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "战斗",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "ja_JP": "七つの大罪 戒めの復活",
+                "zh_CN": "七大罪 戒律的复活"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c0310fa010e94c9e20ed71d5e412c1d3c2b58ca6.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n            长谷川康太，17岁，高中2年级学生。过着不能再平凡的日常的康太，与同在圣川高中上学的水野祐、吉野俊介、西宫谅、源诚一朗相遇了。\r\n        　　他平凡的日常突然开始闪闪发亮——\r\n        　　那样的三丽鸥男子们的相遇与闪亮的青春物语。\r\n        　　我们的故事，开始了——\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/21674/"
+                }
+            },
+            "rating": 40,
+            "release": "2018-01-06T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "校园",
+                    "女性向  "
+                ]
+            },
+            "title": {
+                "ja_JP": "サンリオ男子",
+                "zh_CN": "三丽鸥男子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/36100858da96759a2203724eccdf2d4d52f6c115.png_225x300.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n            虽然是辣妹却没有谈过恋爱的JK柚子，由于家长再婚进入女高读书。\r\n        　　交不到男票！不满爆炸的转学第一天就与黑发美人的学生会长·芽衣以最糟糕的方式相遇。\r\n        　　而且，要和没有血缘关系的姐妹芽衣同住一间房…！？\r\n        　　完全相反的两位女高中生，相互排斥又彼此吸引，\r\n        　　姐妹的love affair，现在开始！\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/21557/"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-06T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "百合",
+                    "姐妹",
+                    "女校",
+                    "反差"
+                ]
+            },
+            "title": {
+                "ja_JP": "citrus",
+                "zh_CN": "citrus～柑橘味香气～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/140bacf044bb0c0841bd1f0e4fc682d037f73f88.jpg_225x300.jpg"
+            },
+            "episode": 14,
+            "intro": {
+                "zh_CN": "2030年代，人类社会停滞不前，大源的魔力也已枯竭的世界。围绕着Moon Cell的圣杯战争，是模仿过去的魔术师所进行的以Master和Servant的身份相互残杀的仪式，但规则和形势与此前大不一样..."
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/21464/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-27T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "战斗",
+                    "月球",
+                    "老婆"
+                ]
+            },
+            "title": {
+                "en_GB": "Fate/EXTRA Last Encore",
+                "ja_JP": "Fate/EXTRA Last Encore",
+                "zh_CN": "Fate/EXTRA Last Encore"
+            }
+        }
+    ]
+}

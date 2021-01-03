@@ -1,0 +1,181 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6151a1351ce68be91b1bff9bd31d42b61c7c59a7/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee3aa1d41c81f83e13c1a/videos#c=episode"
+                }
+            },
+            "rating": 32,
+            "release": "2017-04-02T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Sōryo to Majiwaru Shikiyoku no Yoru ni...",
+                "ja_JP": "僧侶と交わる色欲の夜に…",
+                "zh_CN": "与僧侣交往的色欲之夜"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8b4203b259764adf184dc6284079d4cdc629fd04/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee6571d41c85a1e5d75c8/videos#c=episode"
+                }
+            },
+            "rating": 25,
+            "release": "2017-04-02T18:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Sekai no Yami Zukan",
+                "ja_JP": "世界の闇図鑑",
+                "zh_CN": "世界之暗图鉴"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d2c51ff1272853cf90bb560fc1cfa9ee2033d3ba/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee7a81d41c85a1e5d7674/videos#c=episode"
+                }
+            },
+            "rating": 20,
+            "release": "2017-04-03T08:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Beyblade Burst God",
+                "ja_JP": "ベイブレードバースト ゴッド",
+                "zh_CN": "战斗陀螺BURST 神"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/365b8da6d9add1fc8f1331e06629111d461275a6/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deec691d41c81f83e143ba/videos#c=episode"
+                }
+            },
+            "rating": 3,
+            "release": "2017-04-03T12:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Akindo Sei Little Peso",
+                "ja_JP": "アキンド星のリトル・ペソ",
+                "zh_CN": "商人星的小比索"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/82e571e4c10ba6781ecb4155aa3c73b4fac3c0a4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dedc371d41c81f83e136f4/videos#c=episode"
+                }
+            },
+            "rating": 52,
+            "release": "2017-04-03T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Warau Salesman NEW",
+                "ja_JP": "笑ゥせぇるすまんNEW",
+                "zh_CN": "笑面推销员NEW"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/07b4f8585bb265f409d8d7c4939ec334f069a35a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee1f01d41c81e642a7fd2/videos#c=episode"
+                }
+            },
+            "rating": 38,
+            "release": "2017-04-03T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "STARMYU season 2",
+                "ja_JP": "スタミュ第2期シリーズ",
+                "zh_CN": "高校星歌剧2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1dfabdd158fd60fbfa344b25629f499b2d77d71d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded6501d41c82f87bc41fe/videos#c=episode"
+                }
+            },
+            "rating": 91,
+            "release": "2017-04-10T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Grimoire of Zero",
+                "ja_JP": "ゼロから始める魔法の書",
+                "zh_CN": "从零开始的魔法书"
+            }
+        }
+    ]
+}

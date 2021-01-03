@@ -1,0 +1,326 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6bd6ce0df539056bc199fc2b551dc9f215aa2fa6.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　在道口等待的JK们的日常系集锦动画。\r\n"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23869"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-09T16:15:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "漫改",
+                    "日常"
+                ]
+            },
+            "title": {
+                "ja_JP": "踏切時間",
+                "zh_CN": "道口时间"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e0369fa40989ad735e14f6e4184a0508209fc030.jpg_225x300.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　这是人类将生活领域与欲望扩张到宇宙的时代，渴求自由的人们在宇宙中漂泊，他们的睿智孕育出了文明，不知何时变化成了威胁地球的存在。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23861"
+                }
+            },
+            "rating": 20,
+            "release": "2018-04-02T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "机战",
+                    "搞笑",
+                    "无厘头"
+                ]
+            },
+            "title": {
+                "en_GB": "宇宙战舰提拉米苏",
+                "ja_JP": "宇宙戦艦ティラミス",
+                "zh_CN": "宇宙战舰提拉米斯"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3ee353d6d1a62712340d7b6a6ae26c5c097abffa.jpg_225x300.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　《苍天之拳》是北斗1800年的历史上最奔放苛烈、被称为最强的“第62代北斗神拳传承者霞拳志郎”的故事。这样的《苍天之拳》在原作者原哲夫的监修下，新的TV动画复苏！\r\n　　其名为《苍天之拳 REGENESIS》。\r\n　　最强北斗神拳传承者·霞拳志郎的人生信条，一起来见证吧！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23868"
+                }
+            },
+            "rating": 60,
+            "release": "2018-04-02T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "动作",
+                    "热血",
+                    "3DCG",
+                    "文艺复兴"
+                ]
+            },
+            "title": {
+                "ja_JP": "蒼天の拳 REGENESIS",
+                "zh_CN": "苍天之拳 REGENESIS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://2img.hitv.com/preview/internettv/sp_images/ott/2018/dongman/322751/20180330182310111-new.jpg"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "　　转入南葛小学的天才足球少年大空翼，在与若林源三、日向小次郎等来自全国各地的对手们对战的过程中，作为一个足球选手不断成长的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.mgtv.com/h/322751.html"
+                }
+            },
+            "rating": 70,
+            "release": "2018-04-02T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "运动",
+                    "足球",
+                    "热血",
+                    "文艺复兴"
+                ]
+            },
+            "title": {
+                "en_GB": "队长小翼",
+                "ja_JP": "キャプテン翼",
+                "zh_CN": "足球小将"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/928ae638cc0f11197dd949892f5935d9213a38a1.jpg_225x300.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　在上一年的全国大赛中取胜的主人公·小野田坂道所属的总北高中。组建队伍的前辈们纷纷毕业、引退，作为新世代的队伍开始进发的他们，在互相刺激、支持、提升的过程中，顺利打入以连霸为目标的全国大赛。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21781"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-08T18:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "热血",
+                    "续作"
+                ]
+            },
+            "title": {
+                "en_GB": "飙速宅男 第四季",
+                "ja_JP": "弱虫ペダル GLORY LINE",
+                "zh_CN": "飙速宅男 GLORY LINE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/g/g6da8tj74x97ebk.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　丹尼斯的双亲是未受到社会支持的疯狂科学家。他们将自己的孩子监禁在孤岛的研究所，进行秘密实验，将除了丹尼斯以外的一个哥哥和三个姐姐改造成了特异的人类。某天，双亲遭到警察逮捕，由此五兄弟姐妹被福利单位移送到了别的岛上。问题是，除主人公以外的四名兄姐，没有一人拥有现代人的常识……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://v.qq.com/detail/g/g6da8tj74x97ebk.html"
+                }
+            },
+            "rating": 100,
+            "release": "2018-04-10T02:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "治愈",
+                    "喜剧",
+                    "日常"
+                ]
+            },
+            "title": {
+                "ja_JP": "実験品家族 -クリーチャーズ·ファミリー·デイズ-",
+                "zh_CN": "实验品家庭"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dc17f4a6a4859e0ca7372b41fefdc4326fc29c9f.png_225x300.png"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　在电脑假象空间中，享受用钢普拉执行各种各样的任务的乐趣。最新款的网络游戏《钢普拉对战:NEXUSOnline（简称GBN）》。中学生米卡米利库和好朋友西塔卡尤吉欧把同级生夏洛摩摩卡给卷入了进来，进入这个广阔的世界。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/23595"
+                }
+            },
+            "rating": 60,
+            "release": "2018-04-03T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "机战",
+                    "热血"
+                ]
+            },
+            "title": {
+                "en_GB": "高达 BUILD DIVERS",
+                "ja_JP": "ガンダムビルドダイバーズ",
+                "zh_CN": "高达创形者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg_225x300.jpg"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "　　眼看人类就要被魔神灭亡了…\r\n　　拯救了这一切的，仅仅是一名魔道士。\r\n　　他被称为“魔法帝”，成为了传说——\r\n　　在某个魔法至上的世界——\r\n　　生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6422"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-03T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "魔法",
+                    "热血",
+                    "咆哮帝"
+                ]
+            },
+            "title": {
+                "en_GB": "黑死四叶草",
+                "ja_JP": "ブラッククローバー",
+                "zh_CN": "黑色五叶草"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://img5.bcyimg.com/editor/flag/179cn/bcf7d0d031b111e88b6ebbfb770eaa5e.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　数千年后的未来，进出宇宙空间的人类，分为银河帝国和自由惑星同盟两个国家。这两个国家实际上已对立150年，以广袤无边的银河作为舞台，无法停止的战争不断反复。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bcy.net/bangumi/episode"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-03T12:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "宇宙战争",
+                    "文艺复兴",
+                    "架空历史"
+                ]
+            },
+            "title": {
+                "ja_JP": "銀河英雄伝説 Die Neue These 邂逅",
+                "zh_CN": "银河英雄传说 新说 ~邂逅~"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic4.qiyipic.com/image/20171109/ff/f8/a_100109715_m_601_180_236.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　一诚和莉雅丝、爱西亚、朱乃、小猫、杰诺瓦同在一个屋檐下，尽情享受着同居生活。但这样平稳的日常生活持续不久，超自然研究部利用暑假前往冥界。一诚等人一到达冥界就在阿萨谢尔的命令下进行严苛的修行，而一行人当中只有小猫对自己的力量没有自信。某天，恶魔、天使、堕天使三大势力以及北欧神族阿斯加德举行了对恐怖对策的会议。但在背后，瓦利所率领的祸之团，以及小猫的姐姐黑歌开始展开危险的行动……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/195845"
+                }
+            },
+            "rating": 70,
+            "release": "2018-04-10T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "后宫",
+                    "喜剧",
+                    "热血",
+                    "网盘见"
+                ]
+            },
+            "title": {
+                "en_GB": "High School D×D HERO",
+                "ja_JP": "ハイスクールD×D HERO",
+                "zh_CN": "恶魔高校 第四季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/eb/20/148481_ln2nh.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　混杂于群众之中，以人类为食，拥有人类的形态，却与人类不同的存在——“喰种”。\r\n　　对“喰种”进行驱逐、研究的CCG，为了达成某个命题，而新设了实验体集团。——其名为“Quinx”。\r\n　　并非“正经人类”的他们，与佐佐木琲世一等搜查官一起在“东京”面对的事物究竟是——！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23863"
+                }
+            },
+            "rating": 100,
+            "release": "2018-04-03T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "悬疑",
+                    "异能",
+                    "动作",
+                    "都市"
+                ]
+            },
+            "title": {
+                "en_GB": "Tokyo Guru: Re",
+                "ja_JP": "東京喰種トーキョーグール：re",
+                "zh_CN": "东京喰种:re"
+            }
+        }
+    ]
+}

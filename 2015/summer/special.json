@@ -1,0 +1,120 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8f8f2ea43917b7e898d0790f7d406a81dfc63d4d/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "真宫樱自从幼年时被堕魔死神带离之后，获得了能看见幽灵的能力。在学校里樱遇到了具有死神血统的同学六道轮回，随后真宫樱和六道轮回一起引导幽灵至轮回之轮。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/546905431d41c85629c7235f/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2015-04-04T08:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "日常",
+                    "喜剧",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "ja_JP": "境界のRINNE",
+                "zh_CN": "境界之轮回"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/38542d91cb7c239b4d130fd693fb984a5c5787dc/w220"
+            },
+            "intro": {
+                "zh_CN": "《无头骑士异闻录 DuRaRaRa!!》是由日本小说家成田良悟所写的轻小说作品，日文原版由电击文库出版，小说由ヤスダスズヒト（安田典生）作插画。TV动画第一季曾在2010年1月播映，共26集。《无头骑士异闻录》讲述了以池袋为舞台，一个以向往非日常的少年、爱找碴的小混混、跟踪狂的电波系少女、以作情报贩子“为乐”的青年、专接不寻常病患的密医、迷上魔物的高中生以及骑着漆黑色机车的“无头骑士”等展开一连串不正常但爽快的恋爱故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/DuRaRaRa_anime_s2_part2/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2015-07-01T00:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "奇幻",
+                    "悬疑"
+                ]
+            },
+            "title": {
+                "en_GB": "DuRaRaRa!! x2 (Part 2)",
+                "ja_JP": "デュラララ!!×2 転",
+                "zh_CN": "无头骑士异闻录!!x2（中）：转"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/98b5c4a947f64d12d1d53b3078ba855ee0f63de4/w220"
+            },
+            "intro": {
+                "zh_CN": "《魔法少女☆伊莉雅》是日本TYPE-MOON以《Fate/stay night》的登场人物以及魔法少女为题材的外传漫画及动画作品。人物的设定与原作有所差异，而性格与原作大体相同。本作为该系列TV动画第3集。TV动画第1季于2013年7月播出，第2季于14年7月播出。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54108b031d41c86e05b932e1/videos#c=episode"
+                }
+            },
+            "rating": 33,
+            "release": "2015-07-01T00:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "萌",
+                    "魔法少女"
+                ]
+            },
+            "title": {
+                "en_GB": "Fate/kaleid liner Prisma Illya Zwei! Herz!",
+                "ja_JP": "Fate/kaleid liner プリズマ☆イリヤ Zwei! Herz!",
+                "zh_CN": "Fate/kaleid liner 魔法少女☆伊莉雅 Zwei! Herz!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5a473e3aecb5008f4971d5bcd7749ee91015f993/w220"
+            },
+            "intro": {
+                "zh_CN": "改编自高津Karino的同名漫画作品。故事舞台在日本北海道的一间家族餐厅“瓦古娜利亚”，描绘发生在店里的各种日常趣事。TV动画第1季曾于2010年4月开播，第2季曾于2011年10月开播。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/543d78771d41c8273fffcf11/videos#c=episode"
+                }
+            },
+            "rating": 66,
+            "release": "2015-07-01T00:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "日常"
+                ]
+            },
+            "title": {
+                "ja_JP": "WORKING!!!",
+                "zh_CN": "迷糊餐厅!!!"
+            }
+        }
+    ]
+}

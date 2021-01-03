@@ -1,0 +1,334 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cb6631b1e4906f60b5362aa8f72061b14a67636f/w220"
+            },
+            "intro": {
+                "zh_CN": "第三期将继续围绕着人气角色星宫莓的同时，迎来新人大空明的活跃表现。在前辈们的悉心照顾下，她将与同年级的龙崎紫罗兰、新条雏姫一起，以顶尖偶像为目标而努力。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53d725da1d41c83235049172/videos#c=episode"
+                }
+            },
+            "rating": 25,
+            "release": "2014-10-03T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "励志",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "zh_CN": "偶像活动! (第3季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9d00d8a477d59b34d3895a16684a5a61c1d882bd/w220"
+            },
+            "intro": {
+                "zh_CN": "拥有特殊能力的王家9个兄弟姐妹们的生活， 由200个以上的的监视摄像拍摄头全国放送中！ 而观看这个的国民将选出下届的国王!? 持有重力操纵能力的三女茜是一个极度的害羞鬼，为了不被摄像头拍到而竭尽全力。 但其他兄弟姐妹们的想法是…?特殊的大家族的欢笑4格开始!"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/546479471d41c85629c2852f/videos#c=episode"
+                }
+            },
+            "rating": 51,
+            "release": "2015-07-02T17:16:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "城下町のダンデライオン",
+                "zh_CN": "城下町的蒲公英"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6b64bbee5f146b93ef12906669bf33c54607acbf/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5563b8ee1d41c805c14e1dda/videos#c=episode"
+                }
+            },
+            "rating": 62,
+            "release": "2015-07-03T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Classroom Crisis",
+                "ja_JP": "クラスルーム☆クライシス",
+                "zh_CN": "Classroom☆Crisis"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a0f9a57dad92fb2d8ff5b033a1b679379fc05168/w220"
+            },
+            "intro": {
+                "zh_CN": "ちょっとズレてるスーパーお嬢様・小橋若葉と仲間たちの活躍をご覧くださいっ♪"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557c7df61d41c849eba40672/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2015-07-03T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "欢乐",
+                    "日常"
+                ]
+            },
+            "title": {
+                "ja_JP": "わかば＊ガール",
+                "zh_CN": "若叶女孩"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/55867453a7a94a1697b9685a369c484c497a6243/w220"
+            },
+            "intro": {
+                "zh_CN": "动画《黑塔利亚 The World Twinkle》（ヘタリア The World Twinkle）改编自日丸屋秀和所著漫画《黑塔利亚 Axis Powers》（ヘタリア Axis Powers），本作是“黑塔利亚”动画系列的第6季作品。作品以世界历史和日本历史为主轴。它将多个国家以及该国的文化以及风土民情拟人化。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54938b971d41c875250da34d/videos#c=episode"
+                }
+            },
+            "rating": 20,
+            "release": "2015-07-03T00:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "en_GB": "Hetalia The World Twinkle",
+                "ja_JP": "ヘタリア The World Twinkle",
+                "zh_CN": "黑塔利亚 The World Twinkle"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/02ee62b6fd4b41c773b88f5361453d3b4651307c/w220"
+            },
+            "intro": {
+                "zh_CN": "中学生の少年・蒼月潮は、寺の住職をつとめる父親と二人暮らし。ある日、彼は自宅にある蔵の地下室でとんでもないものと出会ってしまう。それははるか昔、凶悪なバケモノとして民に恐れられ、「獣の槍」によって五百年間も封じ込められていた大妖怪であった！ 槍を引き抜いてしまった潮はあわや妖怪に食われかかるが、同時に眠りから目覚めた「獣の槍」の力によって変身し、妖気に群がってきた他の妖怪たちをあっという間に撃破する。槍の威力を恐れて思わず協力してしまった大妖怪は、潮に「とら」と名付けられ、行動を共にすることに。かくして「獣の槍」の伝承者となってしまった少年と、いつか彼を食ってやろうとつけ狙う大妖怪の“うしとら”コンビが誕生したのだった。そして襲いくる妖怪どもを次々と蹴散らしていく彼らは世界の存亡をかけた壮大な戦いに巻き込まれていく…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557c729e1d41c849eba3f939/videos#c=episode"
+                }
+            },
+            "rating": 68,
+            "release": "2015-07-03T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃"
+                ]
+            },
+            "title": {
+                "en_GB": "Ushio and Tora",
+                "ja_JP": "うしおととら",
+                "zh_CN": "潮与虎"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/72aabd8b625f3318fb9534252a965673078e2058/w220"
+            },
+            "intro": {
+                "zh_CN": "想更加出人头地！为了实现这样的理想，黑白小姐以成为卖座偶像为目标开始活动，尽管天然性格的黑白小姐总是给周围带来麻烦，但还是每日奔走于偶像业界！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557c741e1d41c849e34cbdbc/videos#c=episode"
+                }
+            },
+            "rating": 24,
+            "release": "2015-07-03T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "欢乐",
+                    "萌",
+                    "泡面番",
+                    "拟人化"
+                ]
+            },
+            "title": {
+                "en_GB": "Miss Monochrome The Animation 2",
+                "ja_JP": "ミス・モノクローム -The Animation- 2",
+                "zh_CN": "单色小姐 -The Animation- 2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2f7498739a17b49308e6bc443d6ed37ffa6af782/w220"
+            },
+            "intro": {
+                "zh_CN": "「T宝的悲惨日常」的主人公是生活在互联网上的像兔子一样的谜之生物T宝，在可爱的外表下拥有一颗腹黑的心，本作品描写的就是T宝有一些粗野却又不甚粗野的日常。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557c7b8b1d41c849eba4037c/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2015-07-03T14:09:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "ja_JP": "うーさーのその日暮らし 夢幻編",
+                "zh_CN": "T宝的悲惨日常 梦幻编"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1cd76f9b6587b3f5161204a49052220d65d68493/w220"
+            },
+            "intro": {
+                "zh_CN": "異世界戦争勃発！陸上自衛隊員達の運命は――？ 20XX年、突如として東京銀座に「異世界への門（ゲート）」が開かれた。中からあふれ出た「異世界」の軍勢と怪異達。陸上自衛隊はこれを撃退し、門の向こう側『特地』へと調査に赴く。第三偵察隊の指揮を任されたオタク自衛官の伊丹耀司二等陸尉は、巨大な炎龍に襲われる村人たちを助けたことで、エルフや魔導師、亜神ら異世界の美少女達と奇妙な交流を持つことになるが……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557c7f121d41c849eba407bf/videos#c=episode"
+                }
+            },
+            "rating": 75,
+            "release": "2015-07-03T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+                "ja_JP": "GATE 自衛隊 彼の地にて、斯く戦えり",
+                "zh_CN": "GATE 自卫队 遥远之地，如斯之战"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9d3c82bcb41d820dea6812cf8774de788b2fdb1e/w220"
+            },
+            "intro": {
+                "zh_CN": "とある団地で暮らす仲野晴輝（高１）には姉が一人、妹が３人いる。才色兼備でまじめだけど、弟・晴輝と二人きりのときだけ『隙』を見せる長女の夢月（高２）。兄・晴輝のことが気になるけど、いつも素直になれない次女の弥生（中３）。晴輝にかまってほしいのか、イタズラばかりする三女・羽月（小３）。漫画・アニメが好きで、趣味の近い晴輝とはオタク仲間の四女・咲月（小３）。そんな４女１男の『自然にそこにある』団地暮らし――。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557e8cc91d41c808a19532bd/videos#c=episode"
+                }
+            },
+            "rating": 46,
+            "release": "2015-07-09T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "泡面番",
+                    "日常",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "ja_JP": "だんちがい",
+                "zh_CN": "群居姐妹"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b7faac2bf4cfa4302eae0ebc70dec0f397ee405a/w220"
+            },
+            "intro": {
+                "zh_CN": "改编自同名卡牌游戏，部分主创人员来自于《偶像大师》TV动画版。后半辑2015年7月开播。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557e936b1d41c849eba94fa1/videos#c=episode"
+                }
+            },
+            "rating": 88,
+            "release": "2015-07-17T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "改编",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "en_GB": "The IDOLM@STER Cinderella Girls",
+                "ja_JP": "アイドルマスター シンデレラガールズ 分割後半クール",
+                "zh_CN": "偶像大师 灰姑娘女孩 后半辑"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/01f508eebb491ad0b83e826f790913cb03ef9ec4/w220"
+            },
+            "intro": {
+                "zh_CN": "《魔法少女☆伊莉雅》是日本TYPE-MOON以《Fate/stay night》的登场人物以及魔法少女为题材的外传漫画及动画作品。人物的设定与原作有所差异，而性格与原作大体相同。本作为该系列TV动画第3集。TV动画第1季于2013年7月播出，第2季于14年7月播出。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54108b031d41c86e05b932e1/videos#c=episode"
+                }
+            },
+            "rating": 48,
+            "release": "2015-07-24T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "萌",
+                    "魔法少女"
+                ]
+            },
+            "title": {
+                "en_GB": "Fate/kaleid liner Prisma Illya Zwei! Herz!",
+                "ja_JP": "Fate/kaleid liner プリズマ☆イリヤ Zwei! Herz!",
+                "zh_CN": "Fate/kaleid liner 魔法少女☆伊莉雅 Zwei! Herz!"
+            }
+        }
+    ]
+}

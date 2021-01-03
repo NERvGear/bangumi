@@ -1,0 +1,415 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8fd1cc40466391b00b0f3901781aef044db29f44.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　这是你的故事。你体内的故事——。\r\n　　人的细胞数量，约37兆个。\r\n　　细胞们在名为身体的世界中，今天也在精神满满无休无眠地工作。\r\n    与袭击身体的病毒与细菌展开彻底抗战！这里，有着细胞们所演绎的不为人知的戏剧。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102392"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-07T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "拟人",
+                    "医学",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "en_GB": "Hataraku Saibou",
+                "ja_JP": "はたらく細胞",
+                "zh_CN": "工作细胞"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a36c510217610bf3e8486b3b02c7d3db1a6b288c.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　误闯到战乱中的黎明世界「攸格多拉西尔」的现代少年周防勇斗。\r\n　　这是一个弱肉强食的世界，许多氏族彼此争夺霸权，勇斗则以现代知识为武器，仅仅十六岁便登上统领千军万马的宗主之位！\r\n　　一位普通的少年在异世界里称王称霸，同时还有与其缔结誓杯契约、宣誓忠诚不二之心的美丽女武神们交织，爽快无双的幻想战记！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102772/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-07T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "后宫",
+                    "战斗",
+                    "装逼",
+                    "异世界"
+                ]
+            },
+            "title": {
+                "en_GB": "Hyakuren no Haou to Seiyaku no Valkyria",
+                "ja_JP": "百錬の覇王と聖約の戦乙女",
+                "zh_CN": "百炼霸王与圣约女武神"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bd69c56891f6e9cea0056a01c013b36d9a3e2abb.png_225x300.png"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "　　高二的春天，雨宫莲转学到了东京的「秀尽学园」。因某事为契机而觉醒为“Persona”使用者的莲，与新认识的伙伴们组建了「心之怪盗团」。怪盗团员们去盗走陷进了罪恶欲望之中的成年人们的“扭曲的欲望”，让成年人们洗心革面。同时，难以让人理解的精神暴走事件在城市中的各个角落接连发生……。以大都市“东京”为舞台，一边是身为享受日常生活的高中生、一边是放学后身为「心之怪盗团」的暗地活跃——。壮大的恶汉罗曼故事，就此一触即发！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23878"
+                }
+            },
+            "rating": 100,
+            "release": "2018-04-07T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "都市",
+                    "异能",
+                    "怪盗",
+                    "偷心"
+                ]
+            },
+            "title": {
+                "en_GB": "PERSONA5 the Animation",
+                "ja_JP": "PERSONA5 the Animation",
+                "zh_CN": "女神异闻录5"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic9.qiyipic.com/image/20180401/14/44/a_100137090_m_601_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　肉体派灵能力者·冬空凩。因被恶灵附身、背负了巨大债务的冬空凩寻求便宜的住处，于是住进了温泉旅馆·摇曳庄。以无法升天的女高中生地缚灵幽奈小姐为首，那里尽是凭常识无法想象的美少女们。尽管仅有女性的摇曳庄住客极力反对冬空凩的下榻，冬空凩最终还是在摇曳庄中开始生活…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrgyth5x.html"
+                }
+            },
+            "rating": 70,
+            "release": "2018-07-14T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "后宫",
+                    "搞笑",
+                    "肉"
+                ]
+            },
+            "title": {
+                "en_GB": "Yuragi-sou no Yuuna-san ",
+                "ja_JP": "ゆらぎ荘の幽奈さん",
+                "zh_CN": "摇曳庄的幽奈小姐"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f727ff7a769ebec48d2e404e878593bf649d651c.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“PINE RECORDS”（通称：PIRECO）所属的千岁春、熊谷绘里、龙王更纱、迎桐、迎羽织、箕作沙沙芽、西尾未来、雪野日阳、具志坚修普、金时琴子、诸冈露露11人，是名为“音乐少女”的偶像组合的成员。但“音乐少女”却是完全火不起来的C级偶像。不鸣不飞与赤字累累的“音乐少女”，制作人池桥和成员们却仍然在拼命努力着。池桥认为“音乐少女”需要新的成员。像是抓住成功的引爆剂那样的偶像！于是，他为了选拔而日夜操劳。这样的某一天，“音乐少女”与主人公·花子相遇了…… "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102032/"
+                }
+            },
+            "rating": 70,
+            "release": "2018-07-07T17:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "百合",
+                    "偶像",
+                    "未来动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Ongaku Shoujo",
+                "ja_JP": "音楽少女",
+                "zh_CN": "音乐少女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2826dc65d2fc1fc8632ee8660870be17880a9b81.jpg_225x300.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　小学六年级女生·关织子由于双亲在事故中过世，寄居在经营温泉旅馆【春之屋】的奶奶家。在幽灵uri坊（立売诚）和对手真月的帮助下，招待一位位些许奇怪的客人，关织子作为年轻女老板每天都在奋斗！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23867"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-07T23:14:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "日常"
+                ]
+            },
+            "title": {
+                "en_GB": "Wakaokami wa Shougakusei!",
+                "ja_JP": "若おかみは小学生！",
+                "zh_CN": "年轻老板娘是小学生！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f19700beb16d215db8a9c2bd65e6eb4a6dbd61b0.jpg_225x300.jpg"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "　　本作讲述雷顿的女儿卡托莉艾露与会说话的狗夏洛、助手诺亚一起经营雷顿侦探社，解决发生在伦敦的各种不可思议的事件。虽然这份工作最初的目的是寻找父亲的下落，但由于异想天开的思考解开了各种谜题成为话题，各种各样的委托也随之而来。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23855"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-07T23:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "侦探",
+                    "悬疑",
+                    "搞笑",
+                    "香菜"
+                ]
+            },
+            "title": {
+                "en_GB": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+                "ja_JP": "レイトン ミステリー探偵社～カトリーのナゾトキファイル～",
+                "zh_CN": "雷顿神秘侦探社～卡托莉的解谜档案～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/976d13b93ba208e84eb0e22e0b7852edceef1eb8.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "      描述一只黑灰斑纹的小猫跟丢母亲又找不到回家的路，在筋疲力尽之际巧遇一个跌倒的小男孩山田洋平和他的妈妈，小猫从此由男孩一家暂时照顾。因男孩家住在禁止饲养宠物的公寓，一家人还得费尽心机不让邻居发现小猫的存在，只是偏偏一直找不到新的饲主又和小猫日久生情。在经历某些事情之后，小猫也成为了家庭中的一员，最终一家人搬到允许饲养宠物的新公寓展开全新的生活。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md105592/"
+                }
+            },
+            "rating": 20,
+            "release": "2018-07-01T01:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "治愈",
+                    "少儿"
+                ]
+            },
+            "title": {
+                "en_GB": "Chi's Sweet Home ",
+                "ja_JP": "チーズスイートホーム",
+                "zh_CN": "甜甜私房猫 第四季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/16eae08b6541d34d0040ecd12783c9d3f88fd063.jpg"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "　　闪亮频道！ 那是一个谁都可以轻松成为偶像的梦一般的频道，打造一个属于自己的闪亮美妙的频道，以人气闪亮频道偶像为目标是每个女孩子共通的梦想。闪亮中学一年级的桃山未来和萌黄绘摩因为对同一个学校里的人气闪光频道偶像赤城杏奈产生了对抗意识，顺势地从闪光频道中出道了。和对闪光频道非常了解的优等生青叶凛成为了同伴，梦想成为顶级的闪光频道偶像的三人开始制作了属于自己的闪光频道。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23841"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-08T02:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "偶像",
+                    "音乐",
+                    "游戏改"
+                ]
+            },
+            "title": {
+                "en_GB": "Kiratto Pri☆chan",
+                "ja_JP": "キラッとプリ☆チャン",
+                "zh_CN": "闪亮美妙☆频道"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic0.qiyipic.com/image/20180119/da/db/a_100122927_m_601_195_260.jpg"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "　　21世纪已经经过了20年，现代的人们已经纷纷开始忘记妖怪的存在。许多科学无法解释的现象频频发生，到处都是流言飞语，大人们依旧我行我素。为了解决这种情况，13岁少女写了信寄给了妖怪邮箱，穿着木屐的鬼太郎“咔嗒咔嗒”地不断靠近..."
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh0thmt.html"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-01T03:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "妖怪",
+                    "冒险",
+                    "悬疑",
+                    "经典"
+                ]
+            },
+            "title": {
+                "en_GB": "GeGeGe no Kitaro ",
+                "ja_JP": "ゲゲゲの鬼太郎",
+                "zh_CN": "咯咯咯鬼太郎 第六季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic5.qiyipic.com/image/20180119/fd/62/a_100122917_m_601_195_260.jpg"
+            },
+            "episode": 50,
+            "intro": {
+                "zh_CN": "　　野乃花是个想成为大姐姐的冒失娘，有一天碰到了不可思议的婴儿及照顾婴儿的仓鼠妖精哈利哈姆·哈利，这时“黑暗明日社”的敌人召唤了敌人袭来，小花为保护婴儿变身成为Cure Yell参战。为了保卫大家的未来，守护重要的事物以及小婴儿抱酱，Cure Yell的战斗拉开帷幕。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh0tfud.html"
+                }
+            },
+            "rating": 40,
+            "release": "2018-02-04T04:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "魔法",
+                    "冒险",
+                    "动作",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "en_GB": "Hugtto！Pretty Cure",
+                "ja_JP": "ＨＵＧっと！プリキュア",
+                "zh_CN": "拥抱！光之美少女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/db6e926d8860a995905845a8f592669840942344.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　远离本土、漂浮在海洋中的“浦岛”。那里有让人错认为是乐园的富裕自然资源，以及生活着被复杂过去和古老习俗所束缚的居民们。在这块被本土抛弃、逐渐遗忘的土地上，居民们几乎不抱任何希望地在生活着。\r\n　　突然某一天，一位自称“时间旅行者”的青年漂流到这座岛屿。除了“刹那”这个名字和“某个使命”以外丧失全部记忆的青年，与凛音、夏莲、纱罗相遇，并展开改变未来的行动。\r\n　　围绕隐藏着古老习俗与各种谜团的浦岛，青年少女们的物语揭开了序幕。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102292/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-01T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "恋爱",
+                    "悬疑",
+                    "科幻",
+                    "“岛学”"
+                ]
+            },
+            "title": {
+                "en_GB": "ISLAND",
+                "ja_JP": "ISLAND",
+                "zh_CN": "ISLAND"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic4.qiyipic.com/image/20180626/9e/08/a_100156847_m_601_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh6yfyh.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-08T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "颜艺",
+                    "搞笑",
+                    "校园",
+                    "日常"
+                ]
+            },
+            "title": {
+                "en_GB": "Asobi Asobase",
+                "ja_JP": "あそびあそばせ",
+                "zh_CN": "游戏3人娘"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic5.qiyipic.com/image/20180401/b5/c7/a_100137094_m_601_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“我是想要让我成为同伴之人的同伴。仅此而已！”\r\n　　失去了过去的记忆，平稳地生活着的高中生·黑井宗矢。某天，他的城市突然遭到神秘的巨大兵器“星云兵器”的袭击。宗矢与长得像猫的“老师”和哥特萝莉银子一起被卷入战斗当中，但，没想到对手竟然是保护城市的7位英雄！\r\n　　隐藏在宗矢记忆中的战斗理由究竟是？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrgytgjp.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-08T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "燃"
+                ]
+            },
+            "title": {
+                "en_GB": "Planet With",
+                "ja_JP": "プラネット·ウィズ",
+                "zh_CN": "行星与共"
+            }
+        }
+    ]
+}

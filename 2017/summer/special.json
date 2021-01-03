@@ -1,0 +1,136 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4926e06a5a9d03ab7a6e971a7faa48d50d6d5765/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5952660e1d41c81f831f8741/videos#c=episode"
+                }
+            },
+            "rating": 46,
+            "release": "2017-07-01T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Musashino!",
+                "ja_JP": "むさしの！",
+                "zh_CN": "武藏野!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/162b203570e9d3992be2b542850797a1aed4bf87/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5953b7131d41c85a1e8d2119/videos#c=episode"
+                }
+            },
+            "rating": 1,
+            "release": "2017-07-01T00:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Piko Tarou no Lullaby Lullaby",
+                "ja_JP": "ピコ太郎のララバイラーラバイ",
+                "zh_CN": "Piko太郎的摇阿摇篮曲"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/94441e69fdab154585cecff5ea217e6be2052329/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594abb0e1d41c81f831eb65a/videos#c=episode"
+                }
+            },
+            "rating": 98,
+            "release": "2017-07-01T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Owarimonogatari 2nd Season",
+                "ja_JP": "終物語",
+                "zh_CN": "终物语 下"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/65501573746452889bc9ad7f44af850be03c46c0/w220"
+            },
+            "intro": {
+                "zh_CN": "动画《女高网球部》是根据由Roots（ルーツ）原作、Piyo作画的同名漫画改编的动画作品。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595086561d41c85a1e8ce6a2/videos#c=episode"
+                }
+            },
+            "rating": 21,
+            "release": "2017-07-12T13:40:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "泡面番",
+                    "喜剧",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Teekyuu 9",
+                "ja_JP": "てーきゅう 第9期",
+                "zh_CN": "网球并不可笑嘛 (第9季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/66ae307abb8e6d91ef884f0400e97a5f186c951f/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595294691d41c81f831f8e0e/videos#c=episode"
+                }
+            },
+            "rating": 5,
+            "release": "2017-07-01T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "ja_JP": "ROBOMASTERS THE ANIMATED SERIES",
+                "zh_CN": "ROBOMASTERS THE ANIMATED SERIES"
+            }
+        }
+    ]
+}

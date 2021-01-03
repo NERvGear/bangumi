@@ -1,0 +1,180 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/52b0f663defdf421300c03d915977d6f71c0f1ec/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f460c71d41c85c0bc638a3/videos#c=episode"
+                }
+            },
+            "rating": 44,
+            "release": "2016-04-07T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kuromukuro",
+                "ja_JP": "クロムクロ",
+                "zh_CN": "黑色残骸"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/89a4d31f8163e9942fea816589732e663538e85c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5775712b1d41c81e64be05f8/videos#c=episode"
+                }
+            },
+            "rating": 21,
+            "release": "2016-06-30T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "ReLIFE",
+                "ja_JP": "ReLIFE",
+                "zh_CN": "ReLIFE 重返17岁"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/43a1e5c2988455e349d9ede44e43a86469e935e2/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756bc41d41c82f870fb460/videos#c=episode"
+                }
+            },
+            "rating": 67,
+            "release": "2016-07-06T16:58:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Handa-kun",
+                "ja_JP": "はんだくん",
+                "zh_CN": "半田君传说"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2536dc2bfb53f7349c00a8e95c9702a40297e47c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756c271d41c82f870fb49b/videos#c=episode"
+                }
+            },
+            "rating": 60,
+            "release": "2016-07-06T17:28:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Kono Bijutsubu ni wa Mondai ga Aru!",
+                "ja_JP": "この美術部には問題がある！",
+                "zh_CN": "这个美术社大有问题！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e1c8c16ba17f4513c4c2d3be1488a17bb3df7153/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577570aa1d41c8307e662e80/videos#c=episode"
+                }
+            },
+            "rating": 28,
+            "release": "2016-07-06T17:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Cute High Earth Defense Club Love! Love!",
+                "ja_JP": "美男高校地球防衛部LOVE!LOVE!",
+                "zh_CN": "美男高校地球防衛部LOVE！LOVE！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/83897c5123f67e0576d31664e53c015cddff7657/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577569e91d41c8307e6628a7/videos#c=episode"
+                }
+            },
+            "rating": 84,
+            "release": "2016-07-07T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Regalia: The Three Sacred Stars",
+                "ja_JP": "レガリア The Three Sacred Stars",
+                "zh_CN": "Regalia 三圣星"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1837c6445fb44faec4afd1b5f3c2adf971daa033/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756c881d41c85c0b20edd0/videos#c=episode"
+                }
+            },
+            "rating": 56,
+            "release": "2016-07-14T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Danganronpa 3: The End of Hope's Peak Academy Side: Despair",
+                "ja_JP": "ダンガンロンパ３ The End of 希望ヶ峰学園 絶望編",
+                "zh_CN": "弹丸论破3 －The End of 希望峰学园－ 绝望篇"
+            }
+        }
+    ]
+}

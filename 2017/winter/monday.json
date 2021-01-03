@@ -1,0 +1,112 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://h6.86.cc/walls/20151008/mid_cc841859303d4fb.jpg"
+            },
+            "intro": {
+                "zh_CN": "学校发生了件不得了的大事件。手握解决这措手不及事件关键的阿科，同萝特和苏西一同面对着学校分崩离析的危机！\""
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5788"
+                }
+            },
+            "rating": 66,
+            "release": "2017-01-09T09:57:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "魔法",
+                    "搞笑",
+                    "原创?"
+                ]
+            },
+            "title": {
+                "ja_JP": "リトル ウィッチ アカデミア",
+                "zh_CN": "小魔女学园"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://ww3.sinaimg.cn/large/d63ab74bgw1f8141s157aj20af0dw0wf.jpg"
+            },
+            "intro": {
+                "zh_CN": "「烙阳决战篇」改编成 TV 动画，可能是最后的银魂了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://list.youku.com/show/id_zcc0026e0962411de83b1.html"
+                }
+            },
+            "rating": 23,
+            "release": "2017-01-08T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "搞笑",
+                    "历史"
+                ]
+            },
+            "title": {
+                "ja_JP": "銀魂",
+                "zh_CN": "銀魂 第四季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://ww3.sinaimg.cn/large/d63ab74bjw1fadss3caqfj20dw0d5796.jpg"
+            },
+            "intro": {
+                "zh_CN": "每到黄昏五点 戴着诡异面具的江湖艺人在街上敲锣打鼓 ，招揽顾客，摇着纸芝居为前来围观的观众讲述一个个短小精悍却又恐怖阴森的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5832"
+                }
+            },
+            "rating": 66,
+            "release": "2017-01-15T18:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "恐怖",
+                    "猎奇"
+                ]
+            },
+            "title": {
+                "ja_JP": "闇芝居（やみしばい）",
+                "zh_CN": "暗芝居 第四季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://2t.5068.com/uploads/allimg/160727/1-160HG12147.jpg"
+            },
+            "intro": {
+                "zh_CN": "珈百璃在下凡到人间历练之前是个很有上进心也被大家看好的天使，但是下凡后珈百璃迅速迷上了人类的文化，于是沉迷在漫画、动画、网游中一发不可收拾。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5793"
+                }
+            },
+            "rating": 66,
+            "release": "2017-01-09T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "日常",
+                    "漫改"
+                ]
+            },
+            "title": {
+                "ja_JP": "ガヴリールドロップアウト",
+                "zh_CN": "珈百璃的堕落"
+            }
+        }
+    ]
+}

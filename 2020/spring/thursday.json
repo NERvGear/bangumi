@@ -1,0 +1,124 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/23523b8986885db62bcc7874e294aa7b5fb767f2.png"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　在名为“废弃战争”的前所未有之大战后的世界，艾尔西亚。那里是强者从弱者之处夺取显示自身存在的“数字”，弱肉强食的世界。在这样的世界中，两人相遇了。用假面具隐藏自己的身份，虽然好色却会为了弱者挥舞太刀的青年·里希特。根据母亲的遗言踏上寻找“传说的击坠王”之旅，坚强而执着的少女·阳菜。以两人的相遇为契机，“数字”支配一切的世界之谜，逐渐揭晓—— "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28224117/"
+                }
+            },
+            "rating": 80,
+            "release": "2020-01-08T17:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "战斗",
+                    "爽片",
+                    "杀必死"
+                ]
+            },
+            "title": {
+                "en_GB": "Plunderer",
+                "ja_JP": "プランダラ",
+                "zh_CN": "星掠者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/5c68e3007278390e935c63ac62eb1cfc16123e1e.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　随着激烈的战斗结束后，地球同步卫星放射出的光，并非弘人他们一直战斗的网络游戏Gunpla Battle Nexus Online（GBN）世界的艾尔多拉星球，而是出现了闯入现实世界的可能性。能够阻止这种情况的是创形者。然而，与爪子作战的芙蕾迪和艾尔多拉人民的羁绊，使弘人、风见、芽衣和帕尔维兹再次聚在一起。而仍然对艾尔多拉存有意识的创形者西多雅树的动向。以及导致爪子的神秘存在，即亚尔斯的身份。最重要的是，拯救不可替代的同伴。是的，艾尔多拉仍有待清除的“任务”。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228448/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-04-09T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "机战",
+                    "科幻",
+                    "热血",
+                    "卖胶"
+                ]
+            },
+            "title": {
+                "en_GB": "Gundam Build Divers Re:Rise 2nd Season",
+                "ja_JP": "ガンダムビルドダイバーズRe:RISE 2nd Season",
+                "zh_CN": "高达创形者 再起 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/4ebae4d1b126d84db3949bb06c41c70900871b9a.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　某一天，二十五岁上班族一觉醒来，成为了异世界少年·威德林。对出生于贫穷贵族的第八个儿子所绝望，靠着魔法的才能而独立，最后作为贵族发迹的威德林，不断被卷入错综复杂的贵族社会中，“不管怎么样出人头地，我内心也只是个上班族”，在异世界等待他的，是权力和贵族社会的阻碍——"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228168/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-04-02T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "穿越",
+                    "奇幻",
+                    "冒险",
+                    "后宫"
+                ]
+            },
+            "title": {
+                "en_GB": "The 8th son? Are you kidding me?",
+                "ja_JP": "八男って、それはないでしょう！",
+                "zh_CN": "八男？别闹了！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://tx-free-imgs.acfun.cn/qCwDTCoRYK-6FvY3a-QN3Ybi-IvmuUf-rIbYzm.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　漫画家后藤可久士老师正在周刊少年漫画杂志上连载有点下流的漫画！但是一想到这件事可能会被就读小学4年级的独生女·姬发现，他就害怕得每天晚上都睡不好……爱与欢笑的漫画家爸爸☓女儿感人家庭故事就此开幕！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6001745"
+                }
+            },
+            "rating": 100,
+            "release": "2020-04-02T15:45:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "日常",
+                    "父女",
+                    "治愈"
+                ]
+            },
+            "title": {
+                "en_GB": "Hidden Things",
+                "ja_JP": "かくしごと",
+                "zh_CN": "隐瞒之事"
+            }
+        }
+    ]
+}

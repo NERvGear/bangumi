@@ -1,0 +1,179 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+            },
+            "episode": 13,
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://movie.douban.com/subject/34991580/"
+                }
+            },
+            "rating": 40,
+            "release": "2020-04-06T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "搞笑",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "en_GB": " In the Other World, Ghost Groups Are Everything!",
+                "ja_JP": "あの世のすべては、おばけぐみっ！",
+                "zh_CN": "那个世界属于妖怪组"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/7c1e843f6ba4c9dde10756bfe6bc33013cadc843.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　东京郊外的街道——天鹅绒町，这里有着被剧团成员们称之为天鹅绒之路的圣地。身为原舞台演员、因一纸来信而站在此地的你，将会遇到的是……负债累累！没有客人！团员只有一位！失去过去辉煌即将倒闭的落魄剧团！因机缘巧合，你成为了剧团的团长兼【总监督】，身负把剧团重整起来的重任？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28224077/"
+                }
+            },
+            "rating": 40,
+            "release": "2020-04-27T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "偶像",
+                    "剧团",
+                    "乙女向"
+                ]
+            },
+            "title": {
+                "en_GB": "A3! SEASON SPRING & SUMMER",
+                "ja_JP": "A3! SEASON SPRING & SUMMER",
+                "zh_CN": "A3!满开剧团 春&夏"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/240846e734ce79b6f8d4a4b4a11798e409ec9564.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　本田透入住草摩紫吴家后一年即将过去，除了草摩由希和草摩夹外，与草摩家的其他人也有了更深入的了解，但小透到现在还放不下的，依然是那不详的「诅咒」的真相。理应前进的道路，无法改变的命运，面临永无尽头的——十二生肖的——宴会，小透、由希以及夹，他们在考虑什么，会做出怎样的决定呢。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228434/"
+                }
+            },
+            "rating": 100,
+            "release": "2020-04-06T17:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "校园",
+                    "恋爱",
+                    "乙女向"
+                ]
+            },
+            "title": {
+                "en_GB": "Fruits Basket 2nd Season",
+                "ja_JP": "フルーツバスケット 2nd season",
+                "zh_CN": "水果篮子 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/42fa93fc553d97276812d051cae208c6be414ca6.png"
+            },
+            "episode": 48,
+            "intro": {
+                "zh_CN": "　　故事发生在久远的时代，在遍地纷争的洪荒世界里，一棵充满了神秘气息的大树突然伫立在世人面前，引发了惊天地震，让饱受战乱的人民愈发凄惨。于是，不明真相的人们将其称之为“天启之树”。然而，睿智的长者们知道，那是引导人类走向终焉的光芒，也是一个前往新世界的大门。当世界被黑暗完全覆盖之时，传说中就是异世大门开启的瞬间。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228277/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-04-07T09:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "卡片",
+                    "竞技",
+                    "游戏之王"
+                ]
+            },
+            "title": {
+                "en_GB": "Shadowverse",
+                "ja_JP": "シャドウバース",
+                "zh_CN": "影之诗"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg"
+            },
+            "episode": 102,
+            "intro": {
+                "zh_CN": "　　眼看人类就要被魔神灭亡了…\r\n　　拯救了这一切的，仅仅是一名魔道士。\r\n　　他被称为“魔法帝”，成为了传说——\r\n　　在某个魔法至上的世界——\r\n　　生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6422"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-03T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "魔法",
+                    "热血",
+                    "咆哮帝"
+                ]
+            },
+            "title": {
+                "en_GB": "Black Clover",
+                "ja_JP": "ブラッククローバー",
+                "zh_CN": "黑色四叶草"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/f09aebfad1f9a5d712540d76bf299482a057527c.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　从都市搬家到乡下的鹤木阳渚，是个不擅长应付生物的室内派。\r\n　　她原本打算要加入手工艺部并度过愉快的高中生活，但随着在散步途中遇到了黑岩悠希，而被要求加入了谜一般的「堤防部」，并开始了钓鱼…。\r\n　　被充满个性的部员们包围着，阳渚的高中生活会变得怎样呢！？ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228414"
+                }
+            },
+            "rating": 100,
+            "release": "2020-04-07T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "搞笑",
+                    "钓鱼",
+                    "猛男必看"
+                ]
+            },
+            "title": {
+                "en_GB": "Diary of Our Days at the Breakwater",
+                "ja_JP": "放課後ていぼう日誌",
+                "zh_CN": "放学后海堤日记"
+            }
+        }
+    ]
+}

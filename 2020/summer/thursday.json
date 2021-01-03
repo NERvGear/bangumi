@@ -1,0 +1,62 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/02b06f20064b50add3fdb58eeb3e83b5ee37ecb4.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　自从人类因突然出现的未知生命体《伽德鲁》而陷入灭亡的危机，已经过了漫长的岁月。残存的人们为了从《伽德鲁》的威胁当中自保，而建造了全高3,000M的巨大移动要塞《DECA-DENCE》，并在其中生活。住在《DECA-DENCE》当中的是日夜与《伽德鲁》战斗的战士《齿轮》，以及没有战斗力的《油轮》。憧憬着与伽德鲁战斗的战士《齿轮》、并梦想着自己也能成为《齿轮》的《油轮》少女·枣，某天遇到了态度冷淡的DECA-DENCE装甲修理人·镝木。不放弃梦想的乐观少女，与放弃了梦想的现实主义男人。这两个乍一看完全相反之人的邂逅，在不久的将来会给这个世界的未来带来巨大的动荡。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28229234/"
+                }
+            },
+            "rating": 80,
+            "release": "2020-06-27T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "en_GB": "DECA-DENCE",
+                "ja_JP": "デカダンス",
+                "zh_CN": "没落要塞"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/5c68e3007278390e935c63ac62eb1cfc16123e1e.png"
+            },
+            "episode": 50,
+            "intro": {
+                "zh_CN": "　　随着激烈的战斗结束后，地球同步卫星放射出的光，并非弘人他们一直战斗的网络游戏Gunpla Battle Nexus Online（GBN）世界的艾尔多拉星球，而是出现了闯入现实世界的可能性。能够阻止这种情况的是创形者。然而，与爪子作战的芙蕾迪和艾尔多拉人民的羁绊，使弘人、风见、芽衣和帕尔维兹再次聚在一起。而仍然对艾尔多拉存有意识的创形者西多雅树的动向。以及导致爪子的神秘存在，即亚尔斯的身份。最重要的是，拯救不可替代的同伴。是的，艾尔多拉仍有待清除的“任务”。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228448/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-07-09T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "机战",
+                    "科幻",
+                    "热血",
+                    "卖胶"
+                ]
+            },
+            "title": {
+                "en_GB": "Gundam Build Divers Re:Rise 2nd Season",
+                "ja_JP": "ガンダムビルドダイバーズRe:RISE 2nd Season",
+                "zh_CN": "高达创形者 再起 第二季"
+            }
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d8e2f9290f0f0e457c088826eb0846b153a521ea/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dedad11d41c82f87bc4377/videos#c=episode"
+                }
+            },
+            "rating": 71,
+            "release": "2017-03-25T08:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "My Hero Academia",
+                "ja_JP": "僕のヒーローアカデミア第2期",
+                "zh_CN": "我的英雄学院 2期"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/add78feda34c6af1278cca7c4d600d1d4a9eb5c9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee76e1d41c85a1e5d764b/videos#c=episode"
+                }
+            },
+            "rating": 22,
+            "release": "2017-03-31T23:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Future Card Buddyfight Battsu",
+                "ja_JP": "フューチャーカード バディファイトＸ",
+                "zh_CN": "未来卡搭档对战X"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/042ddd90aae6848f22185e3aee7a44dddf975a6b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee6f71d41c81f83e13e12/videos#c=episode"
+                }
+            },
+            "rating": 23,
+            "release": "2017-04-01T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "The Silver Guardian",
+                "ja_JP": "銀の墓守り",
+                "zh_CN": "银之守墓人"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0255e4446c18994bc9818a3a9cf07df88b27b62b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded23c1d41c81e642a7d5c/videos#c=episode"
+                }
+            },
+            "rating": 96,
+            "release": "2017-04-01T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Attack on Titan season 2",
+                "ja_JP": "進撃の巨人第2期",
+                "zh_CN": "进击的巨人 season 2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/25a27a51037afccf2b252b3b5c3eb169ce2559bd/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded89f1d41c81f83e133df/videos#c=episode"
+                }
+            },
+            "rating": 89,
+            "release": "2017-04-01T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Granblue Fantasy the Animation",
+                "ja_JP": "GRANBLUE FANTASY The Animation",
+                "zh_CN": "碧蓝幻想 The Animation"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/256726932e60b31d2136314ceb09e528fad6e3cf/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deeb6b1d41c81f83e1421e/videos#c=episode"
+                }
+            },
+            "rating": 10,
+            "release": "2017-04-07T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "信長の忍び～伊勢・金ヶ崎篇～",
+                "zh_CN": "信长的忍者～伊势·金崎篇～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f16636761d07beb95766fd76f8846163cdc3a207/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded5571d41c81f83e13172/videos#c=episode"
+                }
+            },
+            "rating": 62,
+            "release": "2017-04-07T16:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Rage of Bahamut: Virgin Soul",
+                "ja_JP": "神撃のバハムート VIRGIN SOUL",
+                "zh_CN": "巴哈姆特之怒 VIRGIN SOUL"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b64c6949b2dae82b18404e8ef2e986beee78e36d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee2221d41c81f83e13b27/videos#c=episode"
+                }
+            },
+            "rating": 40,
+            "release": "2017-04-08T08:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "RIN-NE 3",
+                "ja_JP": "境界のRINNE第3シリーズ",
+                "zh_CN": "境界之轮回3"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e9247b07fcd27235868f84bb8ab17393235b8181/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded3bb1d41c81f83e13072/videos#c=episode"
+                }
+            },
+            "rating": 84,
+            "release": "2017-04-08T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Re:CREATORS",
+                "ja_JP": "Re：CREATORS",
+                "zh_CN": "Re:CREATORS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5a4c03d18a4b914b4638b9f74643869bc840ca9c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded4e51d41c81f83e13123/videos#c=episode"
+                }
+            },
+            "rating": 88,
+            "release": "2017-04-08T15:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Eromanga Sensei",
+                "ja_JP": "エロマンガ先生",
+                "zh_CN": "我的妹妹是工口漫画老师"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4737e25a5734121c96eaac623935216af8cb3867/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deeac61d41c81e642a810b/videos#c=episode"
+                }
+            },
+            "rating": 15,
+            "release": "2017-04-14T21:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "100% Pascal-sensei",
+                "ja_JP": "100%パスカル先生",
+                "zh_CN": "100%帕斯卡老师"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/39dd5dfa3c210d8ccdf5900a486d5fff1a5b78c4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deeb011d41c82f87bc486e/videos#c=episode"
+                }
+            },
+            "rating": 13,
+            "release": "2017-04-14T21:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "PriPri Chii-chan!!",
+                "ja_JP": "プリプリちぃちゃん!!",
+                "zh_CN": "水嫩小叽!!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/64abedf9fec493008d64ccb2680684ff43deadd3/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deeb2e1d41c85a1e5d7907/videos#c=episode"
+                }
+            },
+            "rating": 11,
+            "release": "2017-04-14T22:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Tomica Hyper Rescue Drive Head Kidō Kyūkyū Keisatsu",
+                "ja_JP": "トミカハイパーレスキュー ドライブヘッド機動救急警察",
+                "zh_CN": "Tomica Hyper Rescue Drive Head 机动救急警察"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6fce55c5752322a5b87ebd043d4eb388b8b21fd6/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dedb8c1d41c82f87bc43af/videos#c=episode"
+                }
+            },
+            "rating": 54,
+            "release": "2017-04-15T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Atom The Beginning",
+                "ja_JP": "アトム ザ・ビギニング",
+                "zh_CN": "阿童木起源"
+            }
+        }
+    ]
+}

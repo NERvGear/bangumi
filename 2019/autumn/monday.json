@@ -1,0 +1,174 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/c30401817895e67399094b4e669785a104270cdf.jpg@450w_600h.png"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　在千年期结束之际，出现在各地、极尽暴虐之能事的最强民族，维京人。\r\n　　被赞颂为最强的战士之子托尔芬，自幼就把战场当作生存之地，以幻想中的大陆“文兰”为目标——\r\n　　这是产生于那个激烈动荡的时代，真正的战士物语。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28220475/"
+                }
+            },
+            "rating": 100,
+            "release": "2019-07-07T16:10:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "战斗",
+                    "复仇",
+                    "历史"
+                ]
+            },
+            "title": {
+                "en_GB": "Vinland Saga",
+                "ja_JP": "ヴィンランド・サガ",
+                "zh_CN": "冰海战记"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://tx-free-imgs.acfun.cn/tnGC7G8dtW-ayeUV3-niQ3Yr-BFJNzu-jU77ni.JPG?imageView2/1/w/135/h/184"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　与稀树草原及食物链都毫无关系。生活在日式社会的非洲上班族们充满汗与泪的社畜喜剧☆\r\n　　在非洲的大牌企业就职的狮子、蜥蜴、大嘴鸟3人——不对，3只所编织而成的，是通过粗鲁的暴言与特立独行突破日本人社会的日常。强行施加的项目、毫不留情的降薪……。动物们面对超越人类的艰辛上班族生活展开大奋斗！\r\n　　绝对会令全日本的上班族产生共鸣！将稀树草原及食物链完全忘却，动物会社员的日常就在这里!! "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6000217"
+                }
+            },
+            "rating": 60,
+            "release": "2019-10-06T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "动物",
+                    "职场"
+                ]
+            },
+            "title": {
+                "en_GB": "Africa Salaryman",
+                "ja_JP": "アフリカのサラリーマン",
+                "zh_CN": "非洲动物上班族"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566344205.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　「这一启示，安静地悄悄来访——」\r\n　　东京地检特搜部检察官·正崎善，在追查制药公司的非法事件时，发现了一封奇怪的文书。残留在那上面的是混杂着毛发和皮肤的异样血迹，以及覆盖了纸张整整一面的拉丁字母『F』的文字。正崎造访了在搜查线上浮出水面的参考人，但难以置信的场景却在那里延展开来。与此同时，东京都西部即将诞生被称作『新域』的新生独立自治体。在正崎追寻事件之谜的过程中，逐渐发现了巨大的阴谋——？ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://movie.douban.com/subject/30174413/"
+                }
+            },
+            "rating": 40,
+            "release": "2019-10-07T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "悬疑",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Babylon",
+                "ja_JP": "バビロン",
+                "zh_CN": "巴比伦"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/b46f577e8b557bb5990eb466d261c7cf4e53da34.png@450w_600h.png"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　由游戏原作1~3章剧情，再构成改编的全新故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28222752/"
+                }
+            },
+            "rating": 80,
+            "release": "2019-10-07T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "战斗",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Phantasy Star Online 2: Episode Oracle",
+                "ja_JP": "ファンタシースターオンライン2 エピソード・オラクル",
+                "zh_CN": "梦幻之星 神谕篇"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/1de6c86fe3f8d6bee13918995c7d9a1dfc25bf0a.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　STAND MY HEROES PIECE OF TRUTH是由麻药搜查官，警察，情报贩子，知名人士，名流等不论身份地位的人们所组成的，关于麻药事件的独立搜查部门。而新人泉玲负责对 STand Alone National Department 的候补人员进行侦察和监视工作。而那名候补人员所面临的，是各个伸张正义的组织间的对立和因某个未知药品联系起来的一串待解决的事件。他最后得知的真相会是——"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28222722/"
+                }
+            },
+            "rating": 60,
+            "release": "2019-10-07T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "女性向"
+                ]
+            },
+            "title": {
+                "en_GB": "Stand My Heroes: Piece of Truth",
+                "ja_JP": "スタンドマイヒーローズ PIECE OF TRUTH",
+                "zh_CN": "慕恋英雄"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/9a3ce7ccfb2f20bf1cee49c5859add6f41bdec4c.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　就因为比一般人要稍微「能干」那么一点，而变得孤独、无法随心所欲生活的女高中生·栗原海里。由于遭遇事故而转生到异世界的她，「想要普通地交朋友，过普通的生活——」 怀着这样的愿望，向神明许了一个心愿。「请将我的能力变成这个世界的平均值吧！」 但神明赐予她的，并非「平均的能力」…… 转生到存在魔法的世界中，少女为追求「普通的幸福」而展开奋斗！随着与魔术师烈娜、立志成为剑士的梅维丝、商家之女珀琳的相遇，少女·麦露的全新异世界生活开始了！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28222622/"
+                }
+            },
+            "rating": 100,
+            "release": "2019-10-07T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "穿越",
+                    "凤傲天",
+                    "奇幻",
+                    "萌系"
+                ]
+            },
+            "title": {
+                "en_GB": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+                "ja_JP": "私、能力は平均値でって言ったよね！",
+                "zh_CN": "我，不是说了能力要平均值么！"
+            }
+        }
+    ]
+}

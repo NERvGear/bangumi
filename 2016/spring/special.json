@@ -1,0 +1,124 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/df749c38f5caa9191176cd2cedf43e5969563a83/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f464b71d41c84caa423d63/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2016-03-24T22:05:43Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Sword Gai",
+                "ja_JP": "ソードガイ 装刀凱",
+                "zh_CN": "swordgai装刀凯"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d1c9083f7e7b54fe32d13d571314f76491d00501/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f464d01d41c804ee88e94f/videos#c=episode"
+                }
+            },
+            "rating": 16,
+            "release": "2016-03-24T22:06:08Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "LEGO NEXO KNIGHTS",
+                "ja_JP": "レゴネックスナイツ",
+                "zh_CN": "LEGO NEXO KNIGHTS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c299cd328a27c647337083bd9a3ebced12a0726d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f464e91d41c84caa423d99/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2016-03-24T22:06:33Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Gekidol",
+                "ja_JP": "ゲキドル",
+                "zh_CN": "演剧偶像"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/609d92c6787d8b6a73f2dcd4b33e47ebb40c5e51/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4580d1d41c8051af45921/videos#c=episode"
+                }
+            },
+            "rating": 22,
+            "release": "2016-03-24T21:11:41Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Rage of Bahamut Manaria Friends",
+                "ja_JP": "神撃のバハムート マナリアフレンズ",
+                "zh_CN": "神击之巴哈姆特 Manaria Friends"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c47ac1b4827afbc10cfe915e0fb7ac58f4d9d1bd/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5afa71d41c804ee89652a/videos#c=episode"
+                }
+            },
+            "rating": 7,
+            "release": "2016-04-08T00:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "CoCO & NiCO",
+                "ja_JP": "CoCO & NiCO",
+                "zh_CN": "CoCO & NiCO"
+            }
+        }
+    ]
+}

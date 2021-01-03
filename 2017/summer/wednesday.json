@@ -1,0 +1,333 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cf31e2a4b9cf32fea49ba074da96f99afb1a9caa/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dede5b1d41c81f83e13871/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2017-04-05T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Sagrada Reset",
+                "ja_JP": "サクラダリセット",
+                "zh_CN": "重启咲良田"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/bd016b348131c64c05328b2a87f339a556c2b7b8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded3371d41c81f83e1300d/videos#c=episode"
+                }
+            },
+            "rating": 85,
+            "release": "2017-04-05T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Sakura Quest",
+                "ja_JP": "サクラクエスト",
+                "zh_CN": "樱花任务"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4a729f1445fa2e91342d023b2815545f88f4cbb7/w220"
+            },
+            "intro": {
+                "zh_CN": "主人公・越山識は、ひょんなことから新入生歓迎会で「クイズ研究会」による早押しクイズ大会に参加することになる。クラスメイトの競技クイズ経験者・深見真理の押しに圧倒され、最初は戸惑うばかりだった識だが、彼女の押しを見ているうちに、「早押しクイズの問いには答えを確定できるポイントがある」ことを理解する。そして知識と推理を駆使して難問に正解し、それまで経験したことのない感動を得る。その後、真理に知識量を見込まれ、新入生向けのクイズ大会に誘われた識は、そこで0.1秒を争う「競技クイズ」の世界を目の当たりにする。大会で出会った御来屋千智の実力に圧倒されながらも、識は競技クイズにのめり込んでいく。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594af0371d41c81f831ec175/videos#c=episode"
+                }
+            },
+            "rating": 38,
+            "release": "2017-07-04T16:59:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Nana Maru San Batsu",
+                "ja_JP": "ナナマル サンバツ",
+                "zh_CN": "猜谜王"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c73fbb60c8d7d70ea730cd73122a6e79df5cc915/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594ad9221d41c81f831ebee1/videos#c=episode"
+                }
+            },
+            "rating": 88,
+            "release": "2017-07-05T11:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "NTR: Netsuzou Trap",
+                "ja_JP": "捏造トラップ-NTR-",
+                "zh_CN": "捏造陷阱NTR"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4263fb442c00b2af0d6633fc62995f355b9cc227/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5950325d1d41c81f831f41fc/videos#c=episode"
+                }
+            },
+            "rating": 32,
+            "release": "2017-07-05T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Saiyuuki Reload Blast",
+                "ja_JP": "最遊記RELOAD BLAST",
+                "zh_CN": "最游记RELOAD BLAST"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ebf86eed9a3e7321890b5ec2f304000d25c69303/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594af1d01d41c85a1e8c8ad9/videos#c=episode"
+                }
+            },
+            "rating": 25,
+            "release": "2017-07-11T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Mahoujin Guru Guru",
+                "ja_JP": "魔法陣グルグル",
+                "zh_CN": "咕噜咕噜魔法阵"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ac9c0d41a5caa04b5889478ff93e13269c58d63a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/59525f231d41c82f87d75fa4/videos#c=episode"
+                }
+            },
+            "rating": 53,
+            "release": "2017-07-12T11:10:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Kaito × Ansa",
+                "ja_JP": "カイトアンサ",
+                "zh_CN": "Kaito Ansa"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/005b64d7e712d3d4987c2e8a6795c73644033a29/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/59505fae1d41c85a1e8ce1f1/videos#c=episode"
+                }
+            },
+            "rating": 28,
+            "release": "2017-07-12T11:20:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Clione no Akari",
+                "ja_JP": "クリオネの灯り",
+                "zh_CN": "海天使的灯火"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/bed8475595927abaaf421f0495ff464e594ffe62/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595354dc1d41c81f831fa3b4/videos#c=episode"
+                }
+            },
+            "rating": 19,
+            "release": "2017-07-12T13:10:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Ikemen Sengoku: Toki o Kakeru ga Koi wa Hajimaranai",
+                "ja_JP": "イケメン戦国◆時をかけるが恋は始まらない",
+                "zh_CN": "美男战国：穿越时空的爱恋"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a1523ca2a4bdaccdf08852237d7450779bfbe066/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595084361d41c81f831f500e/videos#c=episode"
+                }
+            },
+            "rating": 15,
+            "release": "2017-07-12T13:45:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Nora, Princess, and Stray Cat",
+                "ja_JP": "ノラと皇女と野良猫ハート",
+                "zh_CN": "野良与皇女与流浪猫之心"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c6a76d9b8b140df4a8bf2a3fac10bdb3abc300cb/w220"
+            },
+            "episode": 12,
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5953a1441d41c81f831facb1/videos#c=episode"
+                }
+            },
+            "rating": 3,
+            "release": "2017-07-12T13:50:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "泡面番"
+                ]
+            },
+            "title": {
+                "ja_JP": "SHADOW OF LAFFANDOR ラファンドール国物語～FANTASY PICTURE STORY～",
+                "zh_CN": "SHADOW OF LAFFANDOR LAFFANDOR国物语"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/24bc0cf7542da679ff462767f95516de8426f499/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594acff31d41c81f831ebca8/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2017-07-12T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Hajimete no Gal",
+                "ja_JP": "はじめてのギャル",
+                "zh_CN": "第一次的辣妹"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/569c22ee9dc755595c9c3af4d2c90078bcd1b365/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594ac59b1d41c85a1e8c86c9/videos#c=episode"
+                }
+            },
+            "rating": 71,
+            "release": "2017-07-12T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Classroom of the Elite",
+                "ja_JP": "ようこそ実力至上主義の教室へ",
+                "zh_CN": "欢迎来到实力至上主义的教室"
+            }
+        }
+    ]
+}

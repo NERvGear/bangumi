@@ -1,0 +1,159 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/98386214444de50c48ce42f6a89d3520c2f8757b/w220"
+            },
+            "intro": {
+                "zh_CN": "《塔麻可吉！》系列是日本的电视动画， 于2009年10月12日在东京电视台中开始播放第1季。最新作品将在2014年4月3日播出。塔麻可吉原型为电子宠物蛋。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/531e9a901d41c82cf34f96e2/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2014-04-03T09:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "奇幻",
+                    "拟人化"
+                ]
+            },
+            "title": {
+                "en_GB": "Go-Go Tamagotchi!",
+                "ja_JP": "GO-GO たまごっち！",
+                "zh_CN": "GO-GO 塔麻可吉!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5ba886c6d4f89c0197417cc4444010149e02c065/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "故事讲述日本江户后期“黑船”让日本陷入了巨大的危机之中。之后日本自古就存在的巨大机器人“鬼神”打败黑船实现了攘夷。故事时代背景为“明治维新”并未发生的日本。故事的主题是“机器人与恋爱”。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52bbfb101d41c821f9b4488a/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2014-04-09T16:35:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "燃",
+                    "卖肉",
+                    "科幻",
+                    "言情"
+                ]
+            },
+            "title": {
+                "en_GB": "Dai - Shogun - Great Revolution",
+                "ja_JP": "風雲維新ダイ☆ショーグン",
+                "zh_CN": "风云维新大将军"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1d38055fe4f5b74749d50e822c965b42d778f4de/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "这里，是一个迎接了无数次黄昏，渐渐迈向终焉的世界。以位于「黄昏大地」之遥远西方，在过去曾经存在着以炼金术而繁荣的国家的地方为舞台，由称为「中央」的都市派遣而来的青年，与生长在这边境小城的少女，相约要一同为所属的开发班奉献心力。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Gust's_Atelier_Escha_Logy/videos#c=episode"
+                }
+            },
+            "rating": 65,
+            "release": "2014-04-10T13:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "en_GB": "Gust's Atelier Escha & Logy",
+                "ja_JP": "エスカ&ロジーのアトリエ 〜黄昏の空の錬金術士〜",
+                "zh_CN": "艾斯卡与罗吉的工作室 ~黄昏之空的炼金术士~"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6481b0d0ba86c669061b5118285e1d2524b09aee/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": " “兔子～兔子～”天真地边这么唱着歌，边为了高中入学寻找著寄宿地点而迷路的心爱，意外发现了一间名叫“Rabbit House”的咖啡店。当心爱一边喝着咖啡，一边询问地点时，才发现原来这里就是自己正在寻找的寄宿之家。由于心爱就读的高中规定，必须帮忙寄宿的家庭工作以当作借住的报答。于是心爱便自称是智乃的姐姐，成为了“Rabbit House”的店员，展开一段新生活。心爱在店里所遇到的女孩子们，除了又酷又小只的智乃，还有军人气质的理世、沉稳中带有日式气息的千夜，以及庶民派纱路。毛茸茸软绵绵的兔子与女孩子们，为您献上从各个角度看来都百分百可爱的有趣故事"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5289973e1d41c810d53008c3/videos#c=episode"
+                }
+            },
+            "rating": 55,
+            "release": "2014-04-10T13:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "情感",
+                    "百合",
+                    "萝莉"
+                ]
+            },
+            "title": {
+                "en_GB": "Is the order a rabbit？",
+                "ja_JP": "ご注文はうさぎですか？",
+                "zh_CN": "请问您今天要来点兔子吗？"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/52e8aca62dff2264abd2d99a0f4137deeae3e261/w220"
+            },
+            "episode": 11,
+            "intro": {
+                "zh_CN": "故事以星野裕和月本诚的奇妙友谊为主线。二人从小一起长大，星野裕教月本诚打乒乓球，后来二人升读片濑高校，并一起参加了校内的乒乓球队，每次对垒，星野裕总是占上风，其实是月本诚未尽全力。后来月本诚在小泉教练的指导下渐露头角，而星野裕却败给佐久间而放弃乒乓球。新一届比赛来临，星野裕重新振作，跟恶魔、留学日本的上海留学生孔文革（这名字…）、高校乒乓球冠军风间等高手比试，而最后一战的对手是好友月本诚。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/pingpong_the_animation/videos#c=episode"
+                }
+            },
+            "rating": 68,
+            "release": "2014-04-10T15:50:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志",
+                    "动作",
+                    "竞技",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "PingPong",
+                "ja_JP": "ピンポン",
+                "zh_CN": "乒乓"
+            }
+        }
+    ]
+}

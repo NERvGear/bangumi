@@ -1,0 +1,33 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3abbb6e52dbc74203b0fc3120ab415823fe30c10/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/549f63de1d41c85626ef96b7/videos#c=episode"
+                }
+            },
+            "rating": 78,
+            "release": "2015-04-08T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "日常",
+                    "奇幻",
+                    "动作"
+                ]
+            },
+            "title": {
+                "ja_JP": "銀魂 TVアニメ新シリーズ",
+                "zh_CN": "銀魂 第四季"
+            }
+        }
+    ]
+}

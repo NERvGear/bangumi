@@ -1,0 +1,117 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3b758ca8bf63234c942f4cf93662e6b520977afd/w220"
+            },
+            "episode": 4,
+            "intro": {
+                "zh_CN": "主人公田宫丸二郎是个拥有比一般人多出一倍的吃食方式怪咖，作品既是描写他苦思冥想如何用与别人不同的方式吃东西，并因此而烦恼的故事……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/536c863a1d41c8037c85751b/videos#c=episode"
+                }
+            },
+            "rating": 10,
+            "release": "2014-08-01T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "日常",
+                    "喜剧",
+                    "美食"
+                ]
+            },
+            "title": {
+                "ja_JP": "目玉焼きの黄身 いつつぶす？",
+                "zh_CN": "何时捣碎煎蛋黄？"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/71656f549b878b180f58ab81f0b59bcc6afd20ca/w220"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "动画《法兰雀丝卡》的主人公法兰雀丝卡是北海道的不死系偶像，她在活着的时候，有着阴暗的过去，因此死后经常忘记东西。常常会肚子饿，所以很喜欢吃。总是喜欢追女孩子的驱魔师总是和法兰雀丝卡一起行动。还有许多和北海道历史有因缘的人物也都会登场哦。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52c61f8c1d41c82e23c5d2b1/videos#c=episode"
+                }
+            },
+            "rating": 40,
+            "release": "2014-07-10T00:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌"
+                ]
+            },
+            "title": {
+                "en_GB": "Francesca: Girls Be Ambitious",
+                "ja_JP": "フランチェスカ",
+                "zh_CN": "法兰雀丝卡"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2d36dce0723fa8ea53c0674ae1ba53d5845edb67/w220"
+            },
+            "intro": {
+                "zh_CN": "音声合成ソフト「ヴァーチャルディーバ」シリーズの蒼井ルリと春音ウイ。まだ無名で誰にも曲を作ってもらえない２人が、大先輩・葉山シェリーのような人気絶頂の歌姫になるべく“自作自演”を決意！「何かヒット曲があれば有名になれるはず！」と自分たちで代表曲を作って発表することに。毎回、専用アプリでフリーの楽曲を製作し、テーマ、タイトル、詩を自分たちで相談しながら考案！エンディングでは出来上がったばかりの曲を生歌唱して披露！見習いヴァーチャルディーバ２人のサクセス（？）ストーリーです。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Mirai_Diva/videos#c=episode"
+                }
+            },
+            "rating": 31,
+            "release": "2014-07-01T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Mirai Diva",
+                "ja_JP": "みならいディーバ",
+                "zh_CN": "见习歌姬"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c82858406130a9c5d19205f9fe54c855d1966637/w220"
+            },
+            "intro": {
+                "zh_CN": "Beware that the light is fading /Beware as the dark returns /This world&#39;s unforgiving /Even brilliant lights will cease to burn..."
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/RWBY_vol2/videos#c=episode"
+                }
+            },
+            "rating": 4,
+            "release": "2014-07-24T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "冒险",
+                    "动作"
+                ]
+            },
+            "title": {
+                "ja_JP": "RWBY Volume 2",
+                "zh_CN": "RWBY第二章"
+            }
+        }
+    ]
+}

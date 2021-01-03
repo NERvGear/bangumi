@@ -1,0 +1,123 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://r1.ykimg.com/051600005D83461A8B74395DE606DD78"
+            },
+            "episode": 50,
+            "intro": {
+                "zh_CN": "　　车谷空的体格矮小，在篮球方面绝对算不上有利。\r\n　　中学时代因为身高而没被选上首发队员的空，怀着对高中篮球部的期待，升入了通称九头高的九头龙高中。\r\n　　但那里的篮球部几乎处于机能停止状态。并不是能够打篮球的环境。\r\n　　但空凭着对篮球的热情，与九头高篮球部成员们在相互冲突当中共同成长。在接连面临的种种困难面前，九头高篮球部的成员们将会如何面对……！？ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://list.youku.com/show/id_zabddedbc2df84271b13e.html"
+                }
+            },
+            "rating": 100,
+            "release": "2019-10-02T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "运动",
+                    "篮球",
+                    "热血",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "Ahiru no Sora",
+                "ja_JP": "あひるの空",
+                "zh_CN": "鸭子的天空"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://tx-free-imgs.acfun.cn/kM4bFpuTr6-QZneEv-nEZRfi-z6bmIj-Z7V7ra.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　埼玉县，新越谷高校。这年春天入学的武田咏深，在那里与儿时好友的山崎珠姬重逢。中学时代，由于没有捕手能接住咏深的球，因此她那激烈变化的“魔球”无法投出，于是中途放弃了棒球。但在强豪队伍中磨练了实力的珠姬，成功地接下了咏深的变化球。实现了幼时的约定，再次相遇的两人，与同班的川口姐妹及其他同伴们一起让停止活动中的棒球部复活。目标是全国！\r\n　　新生·新越谷高校棒球部的挑战从这里开始——。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6001746"
+                }
+            },
+            "rating": 80,
+            "release": "2020-04-08T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "运动",
+                    "棒球",
+                    "校园",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Tamayomi",
+                "ja_JP": "球詠",
+                "zh_CN": "球咏"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/b7ce6fd3aacb2edd1bd75e368e8838c2d768dab8.png"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　如果登上塔，一切就都可以得到。塔顶上有着这世界上的一切，可以得到这个世界……成为神。为了欣赏星空而登塔的少女·蕾哈尔，以及如果有蕾哈尔这样的女朋友就什么也不需要了的少年·二十五夜，他们之间的故事开始了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228355"
+                }
+            },
+            "rating": 60,
+            "release": "2020-04-08T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "冒险",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "en_GB": "Tower of God",
+                "ja_JP": "タワー・オブ・ゴッド",
+                "zh_CN": "神之塔 -Tower of God-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/2f84dd532ae5dfc16980dacdb5830423e29207d7.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　21世纪，一直以来被隐藏在历史暗处的兽人们的存在开始为人所知。曾是普通人类的影森满，某天突然变成了狸兽人。她为了逃避人类而前往的兽人特区『ANIMA CITY』，是十年前兽人为了像兽人一样活着而建造的兽人专属的城镇。满在那里与厌恶人类的狼兽人·大神士郎相遇，并和他一起行动。在此期间，她学习到自己在人类世界所不知道的『兽人们』的烦恼、生活以及喜悦。满为何会变成兽人呢？就在追寻谜底的过程中，她被卷入了意想不到的巨大事件当中。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228266"
+                }
+            },
+            "rating": 100,
+            "release": "2020-03-21T15:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "冒险",
+                    "战斗",
+                    "furry"
+                ]
+            },
+            "title": {
+                "en_GB": "Brand New Animal",
+                "ja_JP": "ビー・エヌ・エー",
+                "zh_CN": "动物新世代"
+            }
+        }
+    ]
+}

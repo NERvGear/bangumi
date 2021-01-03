@@ -1,0 +1,239 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5e5f8ade310a9f37438d0fb52a4e74e3c43c3c65/w220"
+            },
+            "intro": {
+                "zh_CN": "拥有财富、名声、权力，这世界上的一切的男人 “海贼王”哥尔·D·罗杰，在被行刑受死之前说了一句话，让全世界的人都涌向了大海。“想要我的宝藏吗？如果想要的话，那就到海上去找吧，我全部都放在那里。”，世界开始迎接“大海贼时代”的来临。 时值“大海贼时代”，为了寻找传说中海贼王罗杰所留下的大秘宝“ONE PIECE”，无数海贼扬起旗帜，互相争斗。一个叫路飞的少年为了与因救他而断臂的香克斯的约定而出海，在旅途中不断寻找志同道合的伙伴，开始了以成为海贼王为目标的伟大冒险旅程。在海贼世界中，整个海被红土大陆和伟大航路划分为东、西、南、北四块海。伟大航路前半段海域“乐园”，东海与南海之间的海域，新人们在此展开激烈地交锋。伟大航路后半段海域“新世界”，世界三大势力之一“四皇”在此称霸，被称为“世界上最强的海”。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5207e5ab9f8ee92fd2e73f6a/videos#c=episode"
+                }
+            },
+            "rating": 34,
+            "release": "2267-12-30T05:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "冒险"
+                ]
+            },
+            "title": {
+                "ja_JP": "ONE PIECE",
+                "zh_CN": "航海王 (海贼王)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/db533a71a703c8cdc1c34b01621f53f283597825/w220"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "圣灵破碎者全集动画讲述的是主角将透过装有名为“铠金属”（ガイメタル）的道具“铠机”（ガイフォン），穿上特殊的“铠装甲”（ガイストギア），为了保卫地球和平与同样装备了铠金属的神秘金属生命体“铠兽”（ガイスト）对战。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52368a2d1d41c81888d6d743/videos#c=episode"
+                }
+            },
+            "rating": 55,
+            "release": "2013-10-02T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "动作",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "en_GB": "Gaist Crusher",
+                "ja_JP": "ガイストクラッシャー",
+                "zh_CN": "圣灵破碎者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/15c553f996dadf950017e13d29296b8411c31f2f/w220"
+            },
+            "intro": {
+                "zh_CN": " 主角在某个暑假上山捉虫的时候偶然发现了树下摆着一台破旧的扭蛋机，当他掏出身上唯一一枚硬币拧出扭蛋之后，却打开了不可思议的潘多拉的盒子。这扭蛋中飞出一只自称为“妖怪执事维斯帕”的幽灵，从此以后，主角就可以看到身边出现的各种不可思议的妖怪了。遇到困难的时候可以用硬币召唤妖怪，并且可以借助妖怪的力量，例如可以让人说出真相的“真言婆婆”，以及可以与恶灵对抗的拳师猫!"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/妖怪手表/videos#c=episode"
+                }
+            },
+            "rating": 44,
+            "release": "2014-01-08T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "欢乐",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "Youkai Watch",
+                "ja_JP": "妖怪ウォッチ",
+                "zh_CN": "妖怪手表"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f3992f39ab3bf0428903630ece23333ad6ad5c86/w220"
+            },
+            "intro": {
+                "zh_CN": "主要讲述的是钢铁侠、雷神、黑寡妇、美国队长、绿巨人和鹰眼等超级英雄集结在一起，组成强大“复仇者联盟”团队，共同惩恶扬善，为和平而战的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5267a0531d41c85249fd8dc6/videos#c=episode"
+                }
+            },
+            "rating": 62,
+            "release": "2014-04-02T09:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "科幻",
+                    "动作"
+                ]
+            },
+            "title": {
+                "en_GB": "Disc Wars Avengers",
+                "ja_JP": "アベンジャーズ",
+                "zh_CN": "Disc Wars 复仇者联盟"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/08d905e6b599f78aebf6fb7e3cbc3da6d2f5f45d/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "绝叫！热狂！超绝顶！用ROCK来发动日本革命！全新幕末物语登场！时值幕末。新选组作为最高偶像（TopIdol），被德川幕府利用，对人民进行洗脑。以坂本龙马为首的志士们开始使用ROCK的力量改变世界。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5319544c1d41c87002d6627b/videos#c=episode"
+                }
+            },
+            "rating": 27,
+            "release": "2014-07-02T14:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "欢乐",
+                    "卖肉",
+                    "偶像",
+                    "耽美",
+                    "音乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Bakumatsu Rock",
+                "ja_JP": "幕末 ロックが",
+                "zh_CN": "幕末摇滚"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3f795d6abc4b825713d8c709bc9c78fbc4472f1a/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "Free!动画改编自第2回“京都动画大赏”奖励赏的小说《High☆速度》（おおじ こうじ著），故事以水泳部为舞台，描写跃动感洋溢的男子高中生们关于游泳、青春以及羁绊的故事。第一季最后一集的最后画面上出现了“see you next summer”（明年夏天再见）的字样，在当时这也暗示了动画将会推出第二季。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Free_Eternal_Summer/videos#c=episode"
+                }
+            },
+            "rating": 87,
+            "release": "2014-07-02T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "励志",
+                    "耽美",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Free! -Eternal Summer-",
+                "ja_JP": "Free! -Eternal Summer-",
+                "zh_CN": "Free! ~永恒夏日~"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3f3a14d688198fab124e38b408939b3a1f255856/w220"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "经常宅在家里并且有恐高症的“雪村葵”和非常喜欢登山的“日向”从小就是好朋友。为了能再次欣赏到儿时曾在山顶看到过的美丽日出，她们打算挑战自我，再次登上山顶…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/前进吧！登山少女_第2季/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2014-07-09T01:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "喜剧",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Encouragement of Climb 2",
+                "ja_JP": "ヤマノススメ 2",
+                "zh_CN": "前进吧！登山少女 第2季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/91bdf0b073a06e2d463f522b6492e441535ae470/w220"
+            },
+            "intro": {
+                "zh_CN": "故事讲述所属于超自然社团“不可思议发现CLUB”的平凡且单身的高中生柴木耕太偶然发现了一本魔导书，并且误打误撞地使用魔导书的力量召唤出了能够实现 愿望的魔女“璐璐萌”，其代价则是付出生命。知道代价后的柴木非常恐慌，但由于璐璐萌违反规则而被判了130年的禁锢之刑，契约被无效化了。虽然柴木因此 得救，然而他依旧铁下心想要拯救璐璐萌。其后柴木开始与璐璐萌一同生活，恋爱校园喜剧就此展开。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5358c6e71d41c82013a7dbc1/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2014-07-09T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "魔幻",
+                    "魔法少女"
+                ]
+            },
+            "title": {
+                "en_GB": "Majimoji Rurumo",
+                "ja_JP": "まじもじるるも",
+                "zh_CN": "修业魔女璐璐萌"
+            }
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/33353d30a6d53600ab8250744336b0e7ee84b6ab/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594ad19a1d41c85a1e8c885a/videos#c=episode"
+                }
+            },
+            "rating": 57,
+            "release": "2017-07-03T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Restaurant to Another World",
+                "ja_JP": "異世界食堂",
+                "zh_CN": "异世界食堂"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4f16765b75856d08ce46ad6b96143bf8145b4a97/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/59504e791d41c81f831f45de/videos#c=episode"
+                }
+            },
+            "rating": 51,
+            "release": "2017-07-04T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Aho Girl",
+                "ja_JP": "アホガール",
+                "zh_CN": "笨女孩"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4acbc05228f158122e4c15896e79cfab2e12605c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595051561d41c81f831f469e/videos#c=episode"
+                }
+            },
+            "rating": 59,
+            "release": "2017-07-04T14:15:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Tsuredure Children",
+                "ja_JP": "徒然チルドレン",
+                "zh_CN": "徒然喜欢你"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/83b4373849b0695210c97625bdb8d8c401c879c9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594add3f1d41c81f831ebf93/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2017-07-11T11:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "后宫",
+                    "穿越"
+                ]
+            },
+            "title": {
+                "en_GB": "In Another World With My Smartphone",
+                "ja_JP": "異世界はスマートフォンとともに。",
+                "zh_CN": "带着智能手机闯荡异世界"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/12acbf21605612de7f4a7fbfe375e98b69aaea9f/w220"
+            },
+            "intro": {
+                "zh_CN": "────かなえたい、夢がある！ 「まんがタイムきららキャラット」にて連載中の大人気4コマ「NEW GAME!」のTVアニメ続編が待望の製作決定！ 高校卒業後、ゲーム制作会社「イーグルジャンプ」に入社した涼風青葉は、幼い頃に夢中になって遊んでいたゲームソフト「フェアリーズストーリー」のシリーズ最新作「フェアリーズストーリー3」の制作に携わることに。キャラクターデザイナーを志すきっかけになった八神コウとの出会いを始め、頼りになる先輩たちに助けられながら少しずつ成長していく青葉。そして「フェアリーズストーリー3」も無事に完成を迎え、青葉が入社してからちょうど1年が過ぎ、イーグルジャンプに新入社員が入社する季節がやってきた。右も左も分からない新入社員だった自分が、ついに先輩になることを考えると、どうしようもなく胸が高鳴る青葉。「先輩の涼風青葉だよ！よろしくね！」とイーグルジャンプの入り口で青葉は挨拶の練習を繰り返すのだが……。ゲーム会社で働く女の子たちの日常を描いたお仕事ガールズコメディが再び幕を開ける！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/592218971d41c82f87d5cb16/videos#c=episode"
+                }
+            },
+            "rating": 92,
+            "release": "2017-07-11T12:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "NEW GAME!!",
+                "ja_JP": "NEW GAME!!",
+                "zh_CN": "NEW GAME!!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7fb43f9eb90f8709ffacd7e0be7869d1a5cb45af/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595091c71d41c85a1e8ce80d/videos#c=episode"
+                }
+            },
+            "rating": 13,
+            "release": "2017-07-11T12:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Musekinin Galaxy Tylor",
+                "ja_JP": "無責任ギャラクシー☆タイラー",
+                "zh_CN": "无责任银河☆泰勒"
+            }
+        }
+    ]
+}

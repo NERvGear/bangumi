@@ -1,0 +1,186 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/54f79513b1f44d6ca7463084c5da9d4800fb52b0/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560409371d41c849eb2d25c2/videos#c=episode"
+                }
+            },
+            "rating": 75,
+            "release": "2015-10-03T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Utawarerumono: Itsuwari no Kamen",
+                "ja_JP": "うたわれるもの 偽りの仮面",
+                "zh_CN": "传颂之物 虚伪的假面"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/90845798ad53a058f919db5d04687feb98504eef/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "从前层发生被称为“厄祭战”的大战。战争结束后经过了三百多年。地球圈失去了以往的统治方式，改由新的支配体系构筑了全新的世界。然而短暂的和平到来的另一面，却是有新的战火即将从遥远的火星圈延烧而来。主角三日月·奥格斯所属的民间警备公司克里塞保安公司（以下称：CGS），接受了护卫一名想让受到地球一支势力支配的火星都市克里塞独立的少女古荻莉亚·蓝那·伯恩斯坦的任务。然而CGS却遭到负责消灭任何叛乱因子的武装组织加拉尔霍恩的袭击，于是公司的大人门利用三日月等小孩作为诱饵展开撤退。少年们的领袖奥尔加·伊兹卡，就趁机向过去欺凌他们的大人揭起反旗，发动政变。而三日月受托负责击退加拉尔霍恩之后，便驾驶一直作为CGS能源炉使用的“厄祭战”时代的MS敢达·巴巴托斯，挺身而战。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/55f531601d41c849eb20c683/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2015-10-04T08:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "燃",
+                    "科幻",
+                    "动作",
+                    "战争",
+                    "机战"
+                ]
+            },
+            "title": {
+                "en_GB": "Mobile Suit Gundam: Iron-Blooded Orphans",
+                "ja_JP": "機動戦士ガンダム 鉄血のオルフェンズ",
+                "zh_CN": "机动战士敢达 铁血的奥尔芬斯"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/138ceebd553703f66ff109d88b459280a2842da3/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dcfcd1d41c80180adc014/videos#c=episode"
+                }
+            },
+            "rating": 46,
+            "release": "2016-01-09T17:25:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Nurse Witch Komugi-chan R",
+                "ja_JP": "ナースウィッチ小麦ちゃんＲ",
+                "zh_CN": "魔法护士小麦R"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0c8527678504dee6c280157dbd170db16d23eaf9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dd2811d41c80180adc1c2/videos#c=episode"
+                }
+            },
+            "rating": 41,
+            "release": "2016-01-10T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Nijiiro Days",
+                "ja_JP": "虹色デイズ",
+                "zh_CN": "虹色时光"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2517a765a9b5b206576f4c9b2a1260860cc075f9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dd3291d41c80180adc288/videos#c=episode"
+                }
+            },
+            "rating": 39,
+            "release": "2016-01-10T13:27:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Ooyasan wa Shishunki!",
+                "ja_JP": "大家さんは思春期！",
+                "zh_CN": "房东小姐青春期"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/38db59de126845e781f8e64d4a49a9b32a21874e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56302ff21d41c80180663a3c/videos#c=episode"
+                }
+            },
+            "rating": 36,
+            "release": "2016-01-10T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Dimension W",
+                "ja_JP": "ディメンションW",
+                "zh_CN": "维度战记"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5eb1c3a4e0fe3207a9ec6ee766afc2051f46388a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dd4b11d41c80180adc393/videos#c=episode"
+                }
+            },
+            "rating": 34,
+            "release": "2016-01-10T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "en_GB": "Grimgar of Fantasy and Ash",
+                "ja_JP": "灰と幻想のグリムガル",
+                "zh_CN": "灰与幻想的格林姆迦尔"
+            }
+        }
+    ]
+}

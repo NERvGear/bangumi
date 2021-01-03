@@ -1,0 +1,31 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d06832cdfe183e5469c071c9b7424f50341a46bb/w220"
+            },
+            "intro": {
+                "zh_CN": "本作是1984年《鲁邦三世 (第3部)》后第一部完全属于鲁邦三世的正统续作。2014年嘎纳电影节上公布了该作的消息。本作将以意大利和圣马力诺为舞台，讲述鲁邦三世的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/543f79871d41c8273f01d3d0/videos#c=episode"
+                }
+            },
+            "rating": 40,
+            "release": "2015-10-01T16:29:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Lupin III (2015)",
+                "ja_JP": "ルパン三世 (2015)",
+                "zh_CN": "鲁邦三世 (2015)"
+            }
+        }
+    ]
+}

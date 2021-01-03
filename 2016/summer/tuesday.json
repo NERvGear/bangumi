@@ -1,0 +1,179 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/258f2a24197e4b748e0d0979941f943a3ff6a27e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756bf21d41c81e64be036a/videos#c=episode"
+                }
+            },
+            "rating": 63,
+            "release": "2016-06-28T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "The Morose Mononokean",
+                "ja_JP": "不機嫌なモノノケ庵",
+                "zh_CN": "不愉快的妖怪庵"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8ffaf572f3b5581d14a12d61adf3559d9e07b286/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577571911d41c82f870fb849/videos#c=episode"
+                }
+            },
+            "rating": 19,
+            "release": "2016-07-04T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Scared Rider Xechs",
+                "ja_JP": "スカーレッドライダーゼクス",
+                "zh_CN": "红伤骑士X"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8f8b1ae9112e295edb9964d3d5f5d62dfb2d5147/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577572081d41c8307e662fa6/videos#c=episode"
+                }
+            },
+            "rating": 10,
+            "release": "2016-07-05T13:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Fudanshi Koukou Seikatsu",
+                "ja_JP": "腐男子高校生活",
+                "zh_CN": "腐男子高中生活"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b37a0961e073e27ef65c5f8232f72acbd003b3c4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756f001d41c82f870fb698/videos#c=episode"
+                }
+            },
+            "rating": 36,
+            "release": "2016-07-05T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Servamp",
+                "ja_JP": "SERVAMP-サーヴァンプ-",
+                "zh_CN": "吸血鬼仆人"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/875c1dfc1a1e53a1a47b673e0967265019d030f4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577570841d41c82f870fb780/videos#c=episode"
+                }
+            },
+            "rating": 32,
+            "release": "2016-07-05T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Cheer Boys!!",
+                "ja_JP": "チア男子!!",
+                "zh_CN": "男子啦啦队！！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e007e8707ece39aac23768cf9e6fbadc36487246/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577571c21d41c85c0b20ef1e/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2016-07-05T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "OZMAFIA!!",
+                "ja_JP": "OZMAFIA!!",
+                "zh_CN": "OZMAFIA!!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c0de286f09459a5f8cd7b78e781de96eba2f5705/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577571f01d41c8307e662f89/videos#c=episode"
+                }
+            },
+            "rating": 13,
+            "release": "2016-07-05T15:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Mahou Shoujo? Naria☆Girls",
+                "ja_JP": "魔法少女？なりあ☆がーるず",
+                "zh_CN": "魔法少女？Naria☆Girls"
+            }
+        }
+    ]
+}

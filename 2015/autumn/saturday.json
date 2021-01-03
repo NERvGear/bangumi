@@ -1,0 +1,419 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/09c7fa193080de44260d1585a2029501dba8d0fc/w220"
+            },
+            "intro": {
+                "zh_CN": "2014年7月开播的TV动画《PriPara美妙天堂》的续作。动画《PriPara美妙天堂》（プリパラ）改编自龙之子Production与东宇动画制片株式会社共同开发的日本卡片互动街机游戏，同时也是少女向偶像动画《美妙旋律》的全新系列，原名“プリパラ”（PriPara，Prism Paradise的缩写）。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5490d5aa1d41c85628b37f46/videos#c=episode"
+                }
+            },
+            "rating": 33,
+            "release": "2015-04-04T01:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "改编",
+                    "萌",
+                    "励志",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "en_GB": "PriPara (Season 2)",
+                "ja_JP": "プリパラ (2期)",
+                "zh_CN": "PriPara美妙天堂 (第2季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e735b0223c5aaa5d694bcb1f93a30e257cb28cdf/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560405991d41c83cb1f2956f/videos#c=episode"
+                }
+            },
+            "rating": 58,
+            "release": "2015-10-02T16:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "K RETURN OF KINGS",
+                "ja_JP": "K RETURN OF KINGS",
+                "zh_CN": "K RETURN OF KINGS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/93553c6ea7420f64917c19f83e3ae2a0e6e6c1a7/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "在人间与阴间的交界处，八百万的神明和服侍他们的死灵——神器，以及被称为妖的魑魅魍魉一同生活着。可爱的女中学生在那儿遇到了居无定所、没有工作、自称是“神”的穿着运动衫的人。像这样一个性格粗心大意、性情不定，而且不能很好地听祈愿、没有人知道的神明却有一个能力，那就是将此岸与彼岸以及其夹缝——世上各种杂七杂八的东西斩断。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/55e4a12b1d41c849eb129e53/videos#c=episode"
+                }
+            },
+            "rating": 60,
+            "release": "2015-10-02T17:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "奇幻",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "en_GB": "Noragami ARAGOTO",
+                "ja_JP": "ノラガミ ARAGOTO",
+                "zh_CN": "野良神 ARAGOTO"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2870c3c733fd9e048ecc04b3cdad9ea273910e27/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56042a391d41c83cb1f2a7ce/videos#c=episode"
+                }
+            },
+            "rating": 62,
+            "release": "2015-10-02T17:40:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Fafner in the Azure: -EXODUS- Season 2",
+                "ja_JP": "蒼穹のファフナーEXODUS",
+                "zh_CN": "苍穹的法夫纳 EXODUS 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ce70c08b34193bc79003bfb1cafcb17aa3d703eb/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560406561d41c849eb2d2193/videos#c=episode"
+                }
+            },
+            "rating": 36,
+            "release": "2015-10-03T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Peeping Life",
+                "ja_JP": "Peeping Life TV シーズン1 ？？",
+                "zh_CN": "Peeping Life"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/76d3d86713e054915bd5a91f6346df83546b88c5/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560408aa1d41c808a1d502a9/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2015-10-03T00:14:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Lovely Muco",
+                "ja_JP": "いとしのムーコ",
+                "zh_CN": "可愛的Muco"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/32a8f2a95e9f33ec58aac7e2dd1ee2816f24d59f/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604260e1d41c849eb2d4e7e/videos#c=episode"
+                }
+            },
+            "rating": 26,
+            "release": "2015-10-03T08:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Kindaichi Case R New Series",
+                "ja_JP": "金田一少年の事件簿R新作シリーズ",
+                "zh_CN": "金田一少年之事件簿R 新系列"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a2e4af015755c3c06401f29b9816fe86c1c71340/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560425c51d41c849eb2d4e36/videos#c=episode"
+                }
+            },
+            "rating": 78,
+            "release": "2015-10-03T11:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "The Asterisk War",
+                "ja_JP": "学戦都市アスタリスク",
+                "zh_CN": "学战都市Asterisk"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a148060449d7ea081f1c774d55ccde9f9b68b96b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560429891d41c83cb1f2a786/videos#c=episode"
+                }
+            },
+            "rating": 58,
+            "release": "2015-10-03T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Rakudai Kishi no Cavalry",
+                "ja_JP": "落第騎士の英雄譚",
+                "zh_CN": "落第骑士英雄谭"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c39cf65546ff61aeae5a6a6ce83a9617314a10ba/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560428691d41c849eb2d50e6/videos#c=episode"
+                }
+            },
+            "rating": 94,
+            "release": "2015-10-03T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Owarimonogatari",
+                "ja_JP": "終物語",
+                "zh_CN": "终物语"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/93e9193ea6fa412d758c98bbd2bd2c886405a7f0/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604231f1d41c849eb2d4bdf/videos#c=episode"
+                }
+            },
+            "rating": 40,
+            "release": "2015-10-09T16:23:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Garo -Guren no Tsuki-",
+                "ja_JP": "牙狼 -紅蓮ノ月-",
+                "zh_CN": "牙狼 -紅蓮之月-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/bc8e1c8eb613488860154404be97972287413ced/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604293a1d41c849eb2d51dd/videos#c=episode"
+                }
+            },
+            "rating": 64,
+            "release": "2015-10-09T16:40:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Testament of Sister New Devil BURST",
+                "ja_JP": "新妹魔王の契約者 BURST",
+                "zh_CN": "新妹魔王的契约者 BURST"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b59b85e8b5ae51ce40130558c4413c1df5f8bd49/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604121e1d41c849eb2d33ea/videos#c=episode"
+                }
+            },
+            "rating": 98,
+            "release": "2015-10-10T12:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Is the Order a Rabbit??",
+                "ja_JP": "ご注文はうさぎですか？？",
+                "zh_CN": "请问您今天要来点兔子吗？？"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9f3bbb41b6fd0bf710a48e719ad2e12affce7412/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560427671d41c849eb2d4f7c/videos#c=episode"
+                }
+            },
+            "rating": 56,
+            "release": "2015-10-10T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Seraph of the end 2nd season",
+                "ja_JP": "終わりのセラフ",
+                "zh_CN": "终结的炽天使 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5b490c2435bcf13dc76b91af3cd77e9c6fe47dba/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/55e3992d1d41c849eb119ddd/videos#c=episode"
+                }
+            },
+            "rating": 70,
+            "release": "2015-10-10T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "ja_JP": "ヴァルキリードライヴ　マーメイド",
+                "zh_CN": "VALKYRIE DRIVE -MERMAID-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ef0401568c7fc7b99e77ade934aba391eeef5af3/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560424bf1d41c849e3b7f376/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2015-10-16T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Hokuto no Ken: Ichigo Aji",
+                "ja_JP": "北斗の拳 イチゴ味",
+                "zh_CN": "北斗神拳：草莓味"
+            }
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1760cc8f00dbc5eefb1d64fd99eb626c5aede04a/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "走出便利店要回家的高中生菜月昴突然被召唤到异世界，并遭遇强盗迅速面临性命危机。这时，一名神秘银发美少女和猫精灵拯救了一筹莫展的他。以报恩为名义，昴自告奋勇要帮助少女找东西。然而，好不容易才掌握到线索，昴和少女却被不明人士攻击而殒命。本来应该就这样结束，但回过神来，昴却发现自己置身在第一次被召唤到这个异世界时所在的位置。“死亡回归”──无力的少年得到的唯一能力，是死后时间会倒转回到开始那一刻。跨越无数绝望，从死亡的命运中开拓未来！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45c531d41c84caa4237b7/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2016-04-03T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "催泪",
+                    "萌",
+                    "励志",
+                    "奇幻",
+                    "冒险",
+                    "悬疑",
+                    "后宫",
+                    "游戏世界观",
+                    "穿越",
+                    "宅",
+                    "萝莉"
+                ]
+            },
+            "title": {
+                "en_GB": "Re: Life in a Different World from Zero",
+                "ja_JP": "Re：ゼロから始める異世界生活",
+                "zh_CN": "Re：从零开始的异世界生活"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/885e8c11057ddb00090abf52be6c2cacfa8ea4fa/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577571da1d41c82f870fb860/videos#c=episode"
+                }
+            },
+            "rating": 15,
+            "release": "2016-07-03T16:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "SHOW BY ROCK!! SHORT!!",
+                "ja_JP": "SHOW BY ROCK!! しょ～と!!",
+                "zh_CN": "SHOW BY ROCK!! SHORT!!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cb47376d3d6a1523672f7fc5b005b9cc43200aa6/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756bd81d41c82f870fb46b/videos#c=episode"
+                }
+            },
+            "rating": 65,
+            "release": "2016-07-03T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Sweetness and Lightning",
+                "ja_JP": "甘々と稲妻",
+                "zh_CN": "天真与闪电"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/957c33bcefdc7a70465a4b4005825d66ef86e777/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756ca21d41c82f870fb4e2/videos#c=episode"
+                }
+            },
+            "rating": 54,
+            "release": "2016-07-03T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "D.Gray-man HALLOW",
+                "ja_JP": "D.Gray-man ＨＡＬＬＯＷ",
+                "zh_CN": "驱魔少年HALLOW"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/449f73cfe181c490b64280e80398bded128622d8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577572de1d41c85c0b20ef55/videos#c=episode"
+                }
+            },
+            "rating": 43,
+            "release": "2016-07-03T17:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Taboo Tattoo",
+                "ja_JP": "タブー・タトゥー",
+                "zh_CN": "TABOO TATTOO－禁忌咒紋－"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a00c9ef1299f1d491344833b790e3a295cce585a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756cc21d41c8307e662b30/videos#c=episode"
+                }
+            },
+            "rating": 52,
+            "release": "2016-07-03T22:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Saiki Kusuo no Psi-nan ",
+                "ja_JP": "斉木楠雄のΨ難",
+                "zh_CN": "齐木楠雄的灾难"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/27c27c3350531f8c4ce2e1a536ac17615214d697/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5775723c1d41c8307e662fcf/videos#c=episode"
+                }
+            },
+            "rating": 8,
+            "release": "2016-07-04T08:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Puzzle & Dragons X",
+                "ja_JP": "パズドラクロス",
+                "zh_CN": "智龙迷城X"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/66ec1098fad8bce9101e71d653cc760339e5a5d6/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577572c71d41c8307e663051/videos#c=episode"
+                }
+            },
+            "rating": 2,
+            "release": "2016-07-04T11:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Bananya",
+                "ja_JP": "ばなにゃ",
+                "zh_CN": "香蕉喵"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2ded298aafd316494a6c0c88fe1b47b97ce00142/w220"
+            },
+            "intro": {
+                "zh_CN": "高中毕业后的主角凉风青叶在游戏公司“飞鹰跃动”工作。在那里，有她从小崇拜的角色设计师及其他前辈。除了会画图外而没别的专长的凉风青叶便在那里展开她的游戏人生。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/575cacc61d41c81e64b2d2fb/videos#c=episode"
+                }
+            },
+            "rating": 97,
+            "release": "2016-07-04T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "NEW GAME!",
+                "ja_JP": "NEW GAME!",
+                "zh_CN": "NEW GAME!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/637baad1123f9b5c998dacb98af27a560edcae47/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756cf01d41c81e64be0425/videos#c=episode"
+                }
+            },
+            "rating": 47,
+            "release": "2016-07-04T15:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Hybrid x Heart Magias Academy Ataraxia",
+                "ja_JP": "魔装学園H×H",
+                "zh_CN": "魔装学园H×H"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a2dc8982448ade9b8ae5d63ee78d14d78366a2ed/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756c4e1d41c81e64be03aa/videos#c=episode"
+                }
+            },
+            "rating": 58,
+            "release": "2016-07-11T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Danganronpa 3: The End of Hope's Peak Academy Side: Future",
+                "ja_JP": "ダンガンロンパ３ The End of 希望ヶ峰学園 未来編",
+                "zh_CN": "弹丸论破3 －The End of 希望峰学园－ 未来篇"
+            }
+        }
+    ]
+}

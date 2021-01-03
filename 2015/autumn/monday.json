@@ -1,0 +1,79 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/bebc35035370dc60c4b5bc453674d7012d3347f3/w220"
+            },
+            "intro": {
+                "zh_CN": "故事讲述了在就职过程中寻不到出路的主人公琦玉，在遭遇到要夺走一位少年生命的螃蟹异变人后，迸发出了孩童时代“想要成为英雄”的想法，于是奋起与对方战斗并救下了少年。重拾对于成为英雄的志向后，琦玉通过努力锻炼终于获得了最强的力量，但因此导致脱发变成了光头。之后他与弟子杰诺斯一起加入了英雄协会，开始了与众多英雄对抗各种怪物的生活"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560420d31d41c849eb2d4903/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2015-10-04T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "One-Punch Man",
+                "ja_JP": "ワンパンマン",
+                "zh_CN": "ONE-PUNCH MAN 一拳超人"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cd606f7871b04c59b89677594ab6074becf9240e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604133f1d41c849e3b7e08b/videos#c=episode"
+                }
+            },
+            "rating": 46,
+            "release": "2015-10-05T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "High School Star Musical",
+                "ja_JP": "ハイスクールスター・ミュージカル",
+                "zh_CN": "高校星歌剧"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6f117fb8c00eb99253220676a7edc7f00c74c987/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560408091d41c849eb2d23e7/videos#c=episode"
+                }
+            },
+            "rating": 20,
+            "release": "2015-10-12T14:11:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "ANITORE!EX",
+                "ja_JP": "あにトレ！EX",
+                "zh_CN": "动画锻炼!EX"
+            }
+        }
+    ]
+}

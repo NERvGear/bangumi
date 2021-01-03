@@ -1,0 +1,151 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1760cc8f00dbc5eefb1d64fd99eb626c5aede04a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45c531d41c84caa4237b7/videos#c=episode"
+                }
+            },
+            "rating": 95,
+            "release": "2016-04-03T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Re: Life in a Different World from Zero",
+                "ja_JP": "Re：ゼロから始める異世界生活",
+                "zh_CN": "Re：从零开始的异世界生活"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4a87c87e5e2bb2148c10849a54664d6babafe287/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45c991d41c804ee88e689/videos#c=episode"
+                }
+            },
+            "rating": 47,
+            "release": "2016-04-04T08:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Beyblade Burst",
+                "ja_JP": "ベイブレードバースト",
+                "zh_CN": "战斗陀螺 Burst"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a347ea57ae738de49678de2547820fb9e63450ab/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45cb51d41c84caa423800/videos#c=episode"
+                }
+            },
+            "rating": 30,
+            "release": "2016-04-04T10:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Mysterious Joker S3",
+                "ja_JP": "怪盗ジョーカー シーズン3",
+                "zh_CN": "怪盜小丑第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/65e59009bebf5e831073cf454319b7621332626a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45e5a1d41c85c0bc63676/videos#c=episode"
+                }
+            },
+            "rating": 41,
+            "release": "2016-04-04T10:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Age 12: A Little Heart-Pounding",
+                "ja_JP": "12歳。～ちっちゃなムネのトキメキ～",
+                "zh_CN": "12岁。〜小小的胸口心跳加速〜"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f42f9e11cc87481da544ee56ef0276922fc17ebe/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45eeb1d41c85c0bc63707/videos#c=episode"
+                }
+            },
+            "rating": 36,
+            "release": "2016-04-04T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Sailor Moon Crystal Season 3",
+                "ja_JP": "美少女戦士セーラームーンCrystal第3期＜デス・バスターズ編＞",
+                "zh_CN": "美少女战士Crystal:第3季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9ff47c4cb2d3171a84c33f2cb45404bd7559d826/w220"
+            },
+            "intro": {
+                "zh_CN": "刚进入丘乃上女子高等学校就读的女学生佐仓羽音，原本过着与骑乘摩托车无缘的生活。开学第一天，羽音骑脚踏车吃力地爬上坡道时，她遇见了骑着摩托车上学的天野恩纱，为此感到震撼，而开始对摩托车有了兴趣。之后，羽音与刚好成为同班同学的恩纱加入了摩托车社，并打算考取摩托车驾照、过着能骑摩托车上学的生活。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56e0dda11d41c84caa35af5c/videos#c=episode"
+                }
+            },
+            "rating": 61,
+            "release": "2016-04-04T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Bakuon!!",
+                "ja_JP": "ばくおん!!",
+                "zh_CN": "爆音少女！！"
+            }
+        }
+    ]
+}

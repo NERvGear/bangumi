@@ -1,0 +1,158 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e248f7459599771ac92d130dbc56ba48f88911df/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560405061d41c849e3b7cedc/videos#c=episode"
+                }
+            },
+            "rating": 34,
+            "release": "2015-09-23T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "DIABOLIK LOVERS MORE,BLOOD",
+                "ja_JP": "DIABOLIK LOVERS MORE,BLOOD",
+                "zh_CN": "魔鬼愛人 MORE,BLOOD"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f340b729448cd4893f1cf6186290399a6a2decf8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/560427141d41c849eb2d4f25/videos#c=episode"
+                }
+            },
+            "rating": 2,
+            "release": "2015-10-07T09:45:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Tantei Team KZ Jiken Not",
+                "ja_JP": "探偵チームＫＺ事件ノート",
+                "zh_CN": "侦探小队KZ事件簿"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8be8d6d209aedb2251575335d833bd7474b81b71/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53b620e11d41c86f2a9d8602/videos#c=episode"
+                }
+            },
+            "rating": 74,
+            "release": "2015-10-07T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "喜剧",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Ore ga Ojō-sama Gakkō ni \"Shomin Sample\" Toshite Gets Sareta Ken",
+                "ja_JP": "俺がお嬢様学校に「庶民サンプル」としてゲッツされた件",
+                "zh_CN": "我被抓到贵族女校当“庶民样本”"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c1c9dde60401177aa3ffcb3282e6908fcf47fccb/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604049e1d41c849e3b7ce6d/videos#c=episode"
+                }
+            },
+            "rating": 44,
+            "release": "2015-10-07T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Dance with Devils",
+                "ja_JP": "Dance with Devils",
+                "zh_CN": "Dance with Devils"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3e1f09736d099384a175b1741662723f16cd3b16/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604229b1d41c849eb2d4b37/videos#c=episode"
+                }
+            },
+            "rating": 22,
+            "release": "2015-10-07T14:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Fushigi na Somera-chan",
+                "ja_JP": "不思議なソメラちゃん",
+                "zh_CN": "不思議美眉"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e73edcc41dabcc07e2edccab2edd292b07fddebc/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56042c361d41c849eb2d5628/videos#c=episode"
+                }
+            },
+            "rating": 68,
+            "release": "2015-10-07T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Beautiful Bones -Sakurako's Investigation-",
+                "ja_JP": "櫻子さんの足下には死体が埋まっている",
+                "zh_CN": "樱子小姐的脚下埋着尸体"
+            }
+        }
+    ]
+}

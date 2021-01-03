@@ -1,0 +1,132 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/cf/9d/212278_zwYLL.jpg"
+            },
+            "intro": {
+                "zh_CN": "高中三年级的冬天、剩下没多久的高中生活，大家都认为会在毫无变化的情况下迎来毕业之日……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6427"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-05T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Just because!",
+                "ja_JP": "Just because!",
+                "zh_CN": "Just because!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/ee/45/206273_nMHZX.jpg"
+            },
+            "intro": {
+                "zh_CN": "“DYNAMIC CHORD”是一所音乐事务所，同时也是唱片制作公司，旗下有许多备受瞩目的艺人。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/v_19rrdys8yo.html"
+                }
+            },
+            "rating": 30,
+            "release": "2017-10-06T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "游戏改编"
+                ]
+            },
+            "title": {
+                "en_GB": "DYNAMIC CHORD",
+                "ja_JP": "DYNAMIC CHORD",
+                "zh_CN": "DYNAMIC CHORD"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/c5/8b/218707_DBmO2.jpg"
+            },
+            "intro": {
+                "zh_CN": "距离极尽繁荣与荣华的人类文明迎来末日，已经经过了漫长的岁月。人类几乎死绝，就连生物都消失的迎来末日的世界。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6463"
+                }
+            },
+            "rating": 60,
+            "release": "2017-10-06T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫画改编",
+                    "百合"
+                ]
+            },
+            "title": {
+                "ja_JP": "少女終末旅行",
+                "zh_CN": "少女终末旅行"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/02/27/198707_jS0ex.jpg"
+            },
+            "intro": {
+                "zh_CN": "改编自大正末期为舞台的BL游戏《大正莫比乌斯线》的衍生作品"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/198707"
+                }
+            },
+            "rating": 26,
+            "release": "2017-10-06T12:54:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "游戏改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "大正ちっちゃいさん",
+                "zh_CN": "大正小小先生"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/b2/37/221293_J8NRr.jpg"
+            },
+            "intro": {
+                "zh_CN": "盛冈森子，30岁·单身·宅女。脱离了现实世界。她追求着安息之地而到达的地方是——网络世界！！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/v_19rrdyy8ss.html"
+                }
+            },
+            "rating": 26,
+            "release": "2017-10-06T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫画改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "ネト充のススメ ",
+                "zh_CN": "网络胜利组"
+            }
+        }
+    ]
+}

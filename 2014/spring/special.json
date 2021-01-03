@@ -1,0 +1,60 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/52669ad495e791da2c39a6c0f986de2b1e9b1be5/w220"
+            },
+            "intro": {
+                "zh_CN": "本次动画是八十八寺建寺1200周年的纪念，也是一部观光游记类动画，不止是寺庙，同样会记录各地的旅游景点。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/536afe0b1d41c8666026f3f7/videos#c=episode"
+                }
+            },
+            "rating": 3,
+            "release": "2014-05-03T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "欢乐",
+                    "萌",
+                    "泡面番"
+                ]
+            },
+            "title": {
+                "en_GB": "Japanese Temple Pilgrimage",
+                "ja_JP": "おへんろ。～八十八歩記から",
+                "zh_CN": "朝圣之路 从八十八所开始"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/189d203193eeb6af53c755091d7a8fb4fac58204/w220"
+            },
+            "intro": {
+                "zh_CN": "是一部讲述了住在东京葛饰区的野猫（苏格兰折耳猫）与街上的居民之间的日常短篇动画。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/535a0aab1d41c8411447c461/videos#c=episode"
+                }
+            },
+            "rating": 6,
+            "release": "2014-05-01T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "萌",
+                    "日常"
+                ]
+            },
+            "title": {
+                "ja_JP": "野良スコ",
+                "zh_CN": "野良折耳猫"
+            }
+        }
+    ]
+}

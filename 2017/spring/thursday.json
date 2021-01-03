@@ -1,0 +1,129 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/841cae65ca39b41e74bf3644cc6bfb32a9d38fe3/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4608e1d41c85c0bc63862/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2016-04-07T09:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Aikatsu Stars!",
+                "ja_JP": "アイカツスターズ！",
+                "zh_CN": "偶像活动STARS！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/acb9a914086805404297723c37feb5e8ded5a29b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deec9e1d41c82f87bc49d1/videos#c=episode"
+                }
+            },
+            "rating": 1,
+            "release": "2017-04-05T16:46:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Panpaka Pants O New-san",
+                "ja_JP": "パンパカパンツ おNEWさん",
+                "zh_CN": "胖胖裤猪 O-NEW-SAN"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/221500d14451b78a8e3c88aa60482b0e9ff21de2/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded9fd1d41c81e642a7e88/videos#c=episode"
+                }
+            },
+            "rating": 86,
+            "release": "2017-04-06T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Tsuki ga Kirei",
+                "ja_JP": "月がきれい",
+                "zh_CN": "月色真美"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/13c2e3d49747cdd95b0801edae325b6bc9ef50dd/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee61d1d41c85a1e5d75a8/videos#c=episode"
+                }
+            },
+            "rating": 27,
+            "release": "2017-04-13T10:25:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "スナックワールド",
+                "zh_CN": "SNACK WORLD"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/888ddc29cb0d1decd353a31878d7f65d984143f4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded41d1d41c85a1e5d6cfb/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2017-04-13T15:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Saekano: How to Raise a Boring Girlfriend Flat",
+                "ja_JP": "冴えない彼女の育てかた♭",
+                "zh_CN": "路人女主的养成方法♭"
+            }
+        }
+    ]
+}

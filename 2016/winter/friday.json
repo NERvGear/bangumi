@@ -1,0 +1,316 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d06832cdfe183e5469c071c9b7424f50341a46bb/w220"
+            },
+            "intro": {
+                "zh_CN": "本作是1984年《鲁邦三世 (第3部)》后第一部完全属于鲁邦三世的正统续作。2014年嘎纳电影节上公布了该作的消息。本作将以意大利和圣马力诺为舞台，讲述鲁邦三世的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/543f79871d41c8273f01d3d0/videos#c=episode"
+                }
+            },
+            "rating": 83,
+            "release": "2015-10-01T16:29:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Lupin III (2015)",
+                "ja_JP": "ルパン三世 (2015)",
+                "zh_CN": "鲁邦三世 (2015)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8012ad47670416a4198f09010ae58700900e9df5/w220"
+            },
+            "intro": {
+                "zh_CN": "充满战争的未来，重复又重复的杀戮中，存在着一架架超大型兵器OBJECT。以设计OBJECT为理想的学生库温瑟以派遣留学生的身份亲自到战场去，在那里和OBJECT的操纵者ELITE公主殿下相遇，并且在一次作战后，与伙伴贺维亚一同以士兵的身份对抗超大型兵器OBJECT。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Heavy_Object_anime/videos#c=episode"
+                }
+            },
+            "rating": 91,
+            "release": "2015-10-02T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Heavy Object",
+                "ja_JP": "ヘヴィーオブジェクト",
+                "zh_CN": "重装武器"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c14cda78f2bda131d5fba3e3261a6cb910c169ea/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567d8a821d41c80180ad9470/videos#c=episode"
+                }
+            },
+            "rating": 80,
+            "release": "2016-01-07T16:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Ojisan to Marshmallow",
+                "ja_JP": "おじさんとマシュマロ",
+                "zh_CN": "大叔与棉花糖"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/419e848e33c0484bd5df33170215a960fd6b0b0c/w220"
+            },
+            "intro": {
+                "zh_CN": "将月球炸掉了七成并扬言要炸掉地球的“杀老师”，赴任椚丘中学3年E班的教师。而以日本为首的各国首脑在得知这一消息后决定将暗杀他的重任交付给3年E班的学生们，寄望他们能在一年之内把老师除掉，成功得手后的报酬为一百亿日元。于是，各路同学想尽办法在不让别人知晓的情况下进行暗杀老师的计划，这场教师与学生之间非日常的授业大戏随即拉开了帷幕……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567db67b1d41c80180adae8d/videos#c=episode"
+                }
+            },
+            "rating": 73,
+            "release": "2016-01-07T16:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "动作",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Assassination Classroom 2nd Season",
+                "ja_JP": "暗殺教室 第2期",
+                "zh_CN": "暗杀教室 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/be0d088cfcf9127bb56bf26c5a24b6b4b670ae08/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567db4811d41c8064100bc06/videos#c=episode"
+                }
+            },
+            "rating": 78,
+            "release": "2016-01-07T16:46:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Phantasy Star Online 2 The Animation",
+                "ja_JP": "ファンタシースターオンライン2",
+                "zh_CN": "梦幻之星online2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/32013e7b13d49dcd7575b404c779810ad6075fae/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567db54c1d41c80180adadc3/videos#c=episode"
+                }
+            },
+            "rating": 75,
+            "release": "2016-01-07T17:16:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "日常"
+                ]
+            },
+            "title": {
+                "en_GB": "Dagashi Kashi",
+                "ja_JP": "だがしかし",
+                "zh_CN": "粗点心战争"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a166c5a985ba8add691b15dc25ac4fda78b83e6b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dbdd11d41c80180adb232/videos#c=episode"
+                }
+            },
+            "rating": 70,
+            "release": "2016-01-08T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Please Tell Me! Galko-chan",
+                "ja_JP": "おしえて！ギャル子ちゃん",
+                "zh_CN": "告诉我！辣妹子酱"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f9da3dca0483d9ce560ace2af11f8bd7ade68d25/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dbed61d41c8064100c035/videos#c=episode"
+                }
+            },
+            "rating": 68,
+            "release": "2016-01-08T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Divine Gate",
+                "ja_JP": "ディバインゲート",
+                "zh_CN": "神圣之门"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0e69c0040632cd6092eff8b11c46ec2c73607c13/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dc1151d41c849e3e8d88f/videos#c=episode"
+                }
+            },
+            "rating": 65,
+            "release": "2016-01-08T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "喜剧",
+                    "偶像",
+                    "拟人化"
+                ]
+            },
+            "title": {
+                "en_GB": "Sekkou Boys",
+                "ja_JP": "石膏ボーイズ",
+                "zh_CN": "石膏BOYS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4e8d4b93205356639b5ba0a4e8f55a29dcc02152/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dc57b1d41c8064100c446/videos#c=episode"
+                }
+            },
+            "rating": 63,
+            "release": "2016-01-08T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Koukaku no Pandora",
+                "ja_JP": "紅殻のパンドラ",
+                "zh_CN": "红壳的潘多拉"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b7fecb69e8d62dcb80927cea0bebc4e1190b80ce/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567de4421d41c849e3e8e2d3/videos#c=episode"
+                }
+            },
+            "rating": 2,
+            "release": "2016-01-08T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Tabi Machi Late Show",
+                "ja_JP": "旅街レイトショー",
+                "zh_CN": "旅街晚间秀"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/19041b199bf8ca511871a69c4ad1d6258140922d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dc7b11d41c8064100c550/videos#c=episode"
+                }
+            },
+            "rating": 60,
+            "release": "2016-01-08T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Reikenzan: Hoshikuzu-tachi no Utage",
+                "ja_JP": "霊剣山　星屑たちの宴",
+                "zh_CN": "从前有座灵剑山"
+            }
+        }
+    ]
+}

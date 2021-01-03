@@ -1,0 +1,178 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/9bf9e66968f85b33ec3769a16c86b36dc984abbc.png@450w_600h.webp"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　利用能检测出人们杀意的装置以及利用思想粒子做出的“井”，来探知时间真相的科幻故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28224080/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-01-05T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "悬疑",
+                    "科幻",
+                    "剧情向"
+                ]
+            },
+            "title": {
+                "en_GB": "ID:INVADED",
+                "ja_JP": "ID:INVADED",
+                "zh_CN": "异度侵入"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://tx-free-imgs.acfun.cn/vOH3Hh70Hr-BjIfUr-vAB7bi-MrErqm-7zeUVj.png?imageView2/1/w/135/h/184|imageslim"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　高中1年级的浅草绿，是个极力主张在动画中“设定即生命”的动画迷。她在素描本上保存自己所画的各种点子，但一个人无法有所行动，没能向动画制作踏出脚步。这样的浅草的才能，马上就被具备制作人气质的金森沙耶香注意到了。再加上身为时尚读者模特的同级生水崎燕实际上是以动画师为志愿，3人为了表现出存在于脑内的“最强世界”而设立了映像研…… "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6000902"
+                }
+            },
+            "rating": 100,
+            "release": "2020-01-05T17:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "青春",
+                    "动画制作"
+                ]
+            },
+            "title": {
+                "en_GB": "Hands off the Motion Pictures Club!",
+                "ja_JP": "映像研には手を出すな！",
+                "zh_CN": "别对映像研出手！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://tx-free-imgs.acfun.cn/DaiNmszUuI-y6NrAz-Izem6z-aaaaQr-NFN3im.png?imageView2/1/w/135/h/184|imageMogr2/format/webp/quality/75!"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　TV动画《摇曳露营》的番外篇。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6000901"
+                }
+            },
+            "rating": 60,
+            "release": "2020-01-06T12:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "日常",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Heya Camp△",
+                "ja_JP": "へやキャン△",
+                "zh_CN": "房间露营△"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2574113901.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　最新AR技术孕育出的4人AR歌舞组合——ARP。\r\n　　从Avex出道，以高水准的歌舞表演加上引人瞩目的Talk与粉丝们的应援，形成了不断变化的参与型Live。凭借这一特征，成为了当下最受瞩目的新型艺人。他们出道至今的演绎轨迹，终于动画化！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://movie.douban.com/subject/34446033/"
+                }
+            },
+            "rating": 40,
+            "release": "2020-01-13T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "音乐",
+                    "偶像团体",
+                    "AR技术"
+                ]
+            },
+            "title": {
+                "en_GB": "ARP Backstage Pass",
+                "ja_JP": "ARP Backstage Pass",
+                "zh_CN": "ARP Backstage Pass"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/b46f577e8b557bb5990eb466d261c7cf4e53da34.png@450w_600h.png"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　由游戏原作1~3章剧情，再构成改编的全新故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28222752/"
+                }
+            },
+            "rating": 80,
+            "release": "2019-10-07T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "战斗",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Phantasy Star Online 2: Episode Oracle",
+                "ja_JP": "ファンタシースターオンライン2 エピソード・オラクル",
+                "zh_CN": "梦幻之星 神谕篇"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://tx-free-imgs.acfun.cn/rPOq3qOyp0-QbumYb-zmEBj2-rymiMv-ZJjQRv.jpg?imageView2/1/w/135/h/184|imageMogr2/format/webp/quality/75!"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　各种各样动物共同生活在其中的动物学院——私立西顿学院。是培育学生们弱肉强食精神的神圣之所。各个赌上性命，异族之间永无断绝的争斗每天都在上演。讨厌动物的“人类”间样人与独行侠狼少女大狼兰华。一人一狼命运般的邂逅，风中凌乱的校园生活开始了……\r\n　　即使形态各异，舔一舔就能加入群体。“舔一舔就是伙伴！欢迎来我们种群！”"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa6000898"
+                }
+            },
+            "rating": 80,
+            "release": "2020-01-06T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "高兴",
+                    "兽娘",
+                    "后宫"
+                ]
+            },
+            "title": {
+                "en_GB": "Come Together! to the Seton Academy",
+                "ja_JP": "群れなせ！シートン学園",
+                "zh_CN": "成群逐队！西顿学园"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f9ec99648cf663685fc471c989437bd24635581e/w220"
+            },
+            "episode": 3,
+            "intro": {
+                "zh_CN": "没有一个女生是天生希望自己不可爱，不被人喜欢的，就算有个再优秀的平面模特的姐姐，自己也要变得更加的可爱才好。如月麻琴有着一位过于优秀的姐姐，对于她来说“可爱”这个词是专为姐姐而存在的。然而却因为自己的不自信伤害到了别人。在升上高中以后，一直在努力的变可爱的麻琴仍然感到摆脱不掉姐姐的影子。但是开学时邂逅的入谷同学却认同了这样的她，并相约一起努力……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52bd2f3b1d41c8729b481469/videos#c=episode"
+                }
+            },
+            "rating": 33,
+            "release": "2014-01-14T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "言情"
+                ]
+            },
+            "title": {
+                "en_GB": "Sugar Soldier",
+                "ja_JP": "シュガーソルジャー",
+                "zh_CN": "白砂糖战士"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/26737354da428cfab7045f8529fa157c49f233de/w220"
+            },
+            "episode": 3,
+            "intro": {
+                "zh_CN": "美丽活泼的杏花音，聪明又喜欢小动物的苍。这两个一见面就吵架的人 居然会是双胞胎兄妹…！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52bd35151d41c8729d95cf01/videos#c=episode"
+                }
+            },
+            "rating": 31,
+            "release": "2014-02-04T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "言情"
+                ]
+            },
+            "title": {
+                "en_GB": "Romantica Clock",
+                "ja_JP": "ロマンチカクロック",
+                "zh_CN": "浪漫时钟"
+            }
+        }
+    ]
+}

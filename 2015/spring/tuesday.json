@@ -1,0 +1,117 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/02c392276db00669deae16e61c64813f409eb776/w220"
+            },
+            "intro": {
+                "zh_CN": "动画《女高网球部》是根据由Roots（ルーツ）原作、Piyo作画的同名漫画改编的动画作品。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/549f4a561d41c875251bbc79/videos#c=episode"
+                }
+            },
+            "rating": 19,
+            "release": "2015-04-06T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "泡面番",
+                    "喜剧",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Teekyuu 4",
+                "ja_JP": "てーきゅう 第4期",
+                "zh_CN": "网球并不可笑嘛 (第4季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0f580e6276696d009559b82fb98c72e2f539ee22/w220"
+            },
+            "intro": {
+                "zh_CN": "押本百合的弟弟——押本阳太当上了大小姐高宫茄乃的管家，故事讲述他在大小姐家中一边工作一边负责吐槽的喜剧故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/549fa00a1d41c875251c05a5/videos#c=episode"
+                }
+            },
+            "rating": 16,
+            "release": "2015-04-06T16:08:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "泡面番",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "ja_JP": "『てーきゅう』スピンオフ「高宮なすのです！」",
+                "zh_CN": "我是高宮茹乃！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/262ba973f4a5d549fbd899baaaabcd5ce13714e2/w220"
+            },
+            "intro": {
+                "zh_CN": "一宫绘留奈在国中时期过著单纯的御宅生活。在亲人与表哥二宫时雨的说服下开始挑选想要就读的高中，挑选条件毫无疑问是“可爱的制服”。最终挑选的结果是私立御神乐学园，虽然原本因为“二宫就读”而在最初就剔除，不过一宫在招生指南上看到御神乐星锁穿着制服的模样后马上就回心转意。不过，开学当天对今后生活心情激动的一宫，却在新生欢迎会上见到学长姐们暴走的身影。而且，这所学校里存在着“一个月内未参加任何社团活动的人将被强制退学”这样的校规。一宫能在学园中度过理想中的校园生活吗？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5493bde41d41c85629ed2e0c/videos#c=episode"
+                }
+            },
+            "rating": 4,
+            "release": "2015-04-06T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Mikagura School Suite",
+                "ja_JP": "ミカグラ学園組曲",
+                "zh_CN": "御神乐学园组曲"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/fbad442aa3f74f1101b4f823f334e7e7f501b7fc/w220"
+            },
+            "intro": {
+                "zh_CN": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54448d4f1d41c84a7cd0ed15/videos#c=episode"
+                }
+            },
+            "rating": 76,
+            "release": "2015-04-07T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "日常",
+                    "校园",
+                    "音乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Sound! Euphonium Welcome to Kitauji High School's Musical Instrument Club",
+                "ja_JP": "響け！ユーフォニアム",
+                "zh_CN": "吹响！次中音号"
+            }
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9e0d99362909c2d0941be7e8887d61ce51aea66b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56040af11d41c849eb2d2863/videos#c=episode"
+                }
+            },
+            "rating": 66,
+            "release": "2015-10-01T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kami-sama Minarai: Himitsu no Cocotama",
+                "ja_JP": "かみさまみならい ヒミツのここたま",
+                "zh_CN": "见习神仙秘密心灵告知"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e9f8b1e0248c5ad557b1e7645ea5ff0dcadb92b9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/561bd3451d41c80641bbe050/videos#c=episode"
+                }
+            },
+            "rating": 16,
+            "release": "2015-10-01T09:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "ja_JP": "アイカツ!  4thシーズン",
+                "zh_CN": "偶像活动"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b8feea2de72de597a46c1db2b7d21b964ec3a53c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567d58e21d41c80641008311/videos#c=episode"
+                }
+            },
+            "rating": 92,
+            "release": "2016-01-06T16:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Sushi Police",
+                "ja_JP": "SUSHI POLICE",
+                "zh_CN": "寿司警察"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/caf9ebb607594344b265b09cc596dbe8a8e3b3d5/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "讲述了在即将面临废部的弱小吹奏乐部，以吹奏乐的甲子园“普门馆”为目标的一对青梅竹马·穗村千夏和上条春太的故事。他们在努力练习以及募集新入部员当中度过着热闹的每一天，但各种谜团也接踵而至……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56302e411d41c80641cc9f39/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2016-01-06T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "日常",
+                    "奇幻",
+                    "校园"
+                ]
+            },
+            "title": {
+                "ja_JP": "ハルチカ ～ハルタとチカは青春する～",
+                "zh_CN": "春&amp;amp;夏推理事件簿"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9884f09110abf5661bd6910eadd31efdddc0523b/w220"
+            },
+            "intro": {
+                "zh_CN": "一首歌曲将少年带到了另一个时空。当回过神来的时候，少年发现自己正站在一个陌生的地方。古老的街道，墨色的风景。简直就像是教科书里看到的明治、大正时代的风景。穿越了时空的少年见到了三位少女和9位年轻人。少年与他们一起，展开了时空之旅。“无法持续的友情，看得到终点的恋爱。即便如此，人类也无法孤独一人”他们旅行的理由是？目的地是哪里？这个世界，到底是怎么回事？带着众多迷团，船向前行。朝向故事的终点，羁绊构筑的未来，现在开始——"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/531553f11d41c84d97ae573c/videos#c=episode"
+                }
+            },
+            "rating": 90,
+            "release": "2016-01-07T12:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Norn9: Norn+Nonet",
+                "ja_JP": "NORN9 ノルン+ノネット",
+                "zh_CN": "命运九重奏"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4d9af2fb222d7ba94b3db0695c60129bd718b380/w220"
+            },
+            "intro": {
+                "zh_CN": "《Code Geass 反叛的鲁路修》系列动画的谷口悟朗担任总监督的原创动画"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56302a8c1d41c849e3cab66d/videos#c=episode"
+                }
+            },
+            "rating": 87,
+            "release": "2016-01-07T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "机战"
+                ]
+            },
+            "title": {
+                "en_GB": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei",
+                "ja_JP": "アクティヴレイド-機動強襲室第八係-",
+                "zh_CN": "Active Raid -机动强袭室第八系-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/93f306377d18299797174d49a7e14619fc054f09/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567d666c1d41c849e3e8bbac/videos#c=episode"
+                }
+            },
+            "rating": 85,
+            "release": "2016-01-07T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Shoujo-tachi wa Kouya wo Mezasu",
+                "ja_JP": "少女たちは荒野を目指す",
+                "zh_CN": "少女们向荒野进发"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d02b6092606674e514ac7a49604874ffb41d92a0/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567d7ed41d41c80180ad8aaa/videos#c=episode"
+                }
+            },
+            "rating": 82,
+            "release": "2016-01-07T15:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "ERASED",
+                "ja_JP": "僕だけがいない街",
+                "zh_CN": "只有我不在的城市"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f500260be6e7e38d0bda1d206c1f1d6557a5b761/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dddca1d41c80180adca7c/videos#c=episode"
+                }
+            },
+            "rating": 12,
+            "release": "2016-01-13T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Kono Subarashii Sekai ni Shukufuku wo!",
+                "ja_JP": "この素晴らしい世界に祝福を！",
+                "zh_CN": "为美好的世界献上祝福"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/48d0f14ee70c017065d51c2f6247ee58721f1fa5/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567de05c1d41c80180adccc6/videos#c=episode"
+                }
+            },
+            "rating": 7,
+            "release": "2016-01-20T21:40:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Ganbare! Lulu Lolo 3rd Season",
+                "ja_JP": "がんばれ！ルルロロ TINY☆TWIN☆BEARS",
+                "zh_CN": "加油！魯魯洛洛（第3期）"
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f1e49c9843cf4d1b783e4448bae21ad0e37ae8d1/w220"
+            },
+            "intro": {
+                "zh_CN": "魔神之骨全集动画讲述了身为一个平凡高中生的主人公龙神翔悟，突然遭到了神秘敌人“黑暗战士”的袭击，而其目的就是为了获得“骨之卡”。而后，翔悟等年轻人开始肩负起了守护地球，并使用骨之卡变身成为“骨之战士”的使命。为何会有骨之卡？黑暗战士的真身究竟是什么？魔神又是怎样的存在？全新的传说，就此开始！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/529bf9d91d41c82421f0ce49/videos#c=episode"
+                }
+            },
+            "rating": 18,
+            "release": "2014-04-01T09:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "动作",
+                    "游戏世界观"
+                ]
+            },
+            "title": {
+                "en_GB": "Majin Bone",
+                "ja_JP": "マジンボーン",
+                "zh_CN": "魔神之骨"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9befe7f38bd30d62690ea6f33d1affe84d299c7b/w220"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "《飙速宅男》（日语：弱虫ペダル）原作是渡边航作画的漫画作品，从秋田书店的《周刊少年Champion》2008年第12号开始连载。至2013年8月为止，已发行29卷单行本。2012年12月时累计发行415万册。内容为自行车竞技的少年漫画兼运动漫画。2012年决定舞台化、2013年10月播放电视动画。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53798b261d41c8295d5a649b/videos#c=episode"
+                }
+            },
+            "rating": 77,
+            "release": "2014-10-06T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "励志",
+                    "动作",
+                    "竞技",
+                    "体育",
+                    "宅",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Yowamushi Pedal Season 2",
+                "ja_JP": "弱虫ペダル GRANDE ROAD",
+                "zh_CN": "飙速宅男 GRAND ROAD"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4a61001dbf71e3e394ac8d30cdd361fb1cdd2e6e/w220"
+            },
+            "intro": {
+                "zh_CN": "改编自草凪瑞穗连载在少女漫画志《花与梦》同名作品。又名《晨曦公主》"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53b26fc71d41c83510308237/videos#c=episode"
+                }
+            },
+            "rating": 36,
+            "release": "2014-10-07T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "奇幻",
+                    "情感"
+                ]
+            },
+            "title": {
+                "ja_JP": "暁のヨナ",
+                "zh_CN": "晨曦公主"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e917dd59313599562b848c4c12308c41e93c92d8/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "在东京之中，某个人的绝望正在潜伏着， 在群众中潜伏着，狩猎着人类，这个吞食着死尸的怪人，人们称其为食尸鬼，在青年和怪人相遇之时，充满波折的命运的齿轮开始转动了……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/tokyo_ghoul_s2/videos#c=episode"
+                }
+            },
+            "rating": 94,
+            "release": "2015-01-06T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "奇幻",
+                    "悬疑"
+                ]
+            },
+            "title": {
+                "en_GB": "Tokyo Ghoul √A",
+                "ja_JP": "東京喰種√A",
+                "zh_CN": "东京食尸鬼√A"
+            }
+        }
+    ]
+}

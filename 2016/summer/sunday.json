@@ -1,0 +1,206 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/dc7155aad0b37b6fa2f45065243d552122655208/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45adb1d41c85c0bc632e3/videos#c=episode"
+                }
+            },
+            "rating": 88,
+            "release": "2016-04-02T17:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "ENDRIDE",
+                "ja_JP": "エンドライド",
+                "zh_CN": "ENDRIDE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/dfe40808d6edd5c8420b7bf8feb01f91fdbb2cb1/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45c801d41c85c0bc6347b/videos#c=episode"
+                }
+            },
+            "rating": 77,
+            "release": "2016-04-02T22:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Mobile Suit Gundam Unicorn RE:0096",
+                "ja_JP": "機動戦士ガンダムＵＣ　RE:0096",
+                "zh_CN": "机动战士钢弹 UC RE:0096"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6ae3239d4fff8e61f6b3f167c9db959771738df8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45bab1d41c8051af459b2/videos#c=episode"
+                }
+            },
+            "rating": 11,
+            "release": "2016-04-03T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Macross Delta",
+                "ja_JP": "マクロスΔ（デルタ）",
+                "zh_CN": "超時空要塞 Δ"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4caec33c71f08b97d0200ea945219fdd6aeddc0c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756b931d41c82f870fb428/videos#c=episode"
+                }
+            },
+            "rating": 71,
+            "release": "2016-07-03T08:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "The Heroic Legend of Arslan: Dust Storm Dance ",
+                "ja_JP": "アルスラーン戦記 風塵乱舞",
+                "zh_CN": "亚尔斯兰战记 风尘乱舞"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7b341b535c9b978885828864c6bafdedc9491770/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756cdc1d41c8307e662b4d/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2016-07-03T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Tales of Zestiria the X",
+                "ja_JP": "テイルズ オブ ゼスティリア ザ クロス",
+                "zh_CN": "情热传说 The X"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ab01e253ac1aa1baff1f89844cd6ebc632d75bba/w220"
+            },
+            "intro": {
+                "zh_CN": "动画《圣洁天使]》（アンジュ・ヴィエルジュ）改编自角川旗下富士见书房和Media Factory联手推出的同名美少女集换式卡牌游戏。游戏原作的卡牌由监督 (Kantoku)、狗神煌、深崎暮人、abec等人气ACG画师绘制，这些画师也是角川旗下作品的插画师。同时也推出名为L.I.N.K.s的少女声优偶像团体（成员：相坂优歌、石原舞、山本希望、高桥李依、生田善子）"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5490e3421d41c875250ad423/videos#c=episode"
+                }
+            },
+            "rating": 41,
+            "release": "2016-07-09T16:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "改编",
+                    "萌"
+                ]
+            },
+            "title": {
+                "en_GB": "Ange Vierge",
+                "ja_JP": "アンジュ・ヴィエルジュ",
+                "zh_CN": "圣洁天使"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/167115a5ea64533fa9449520568740995c508532/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756b341d41c82f870fb3e9/videos#c=episode"
+                }
+            },
+            "rating": 76,
+            "release": "2016-07-10T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Mob Psycho 100",
+                "ja_JP": "モブサイコ100",
+                "zh_CN": "路人超能100"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b6cd0c5b467c5470fe0e0c3979ad9ea46a672a7d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756ba91d41c85c0b20ed83/videos#c=episode"
+                }
+            },
+            "rating": 69,
+            "release": "2016-08-28T08:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "The Seven Deadly Sins: Signs of Holy War ",
+                "ja_JP": "七つの大罪 聖戦の予兆",
+                "zh_CN": "七大罪 圣战的预兆"
+            }
+        }
+    ]
+}

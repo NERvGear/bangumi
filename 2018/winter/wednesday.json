@@ -1,0 +1,88 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/76/ee/220458_koud0.jpg"
+            },
+            "episode": 30,
+            "intro": {
+                "zh_CN": "\r\n        弱小国「伊纳科」的公主艾妮为了武装国「米历德尼亚」和宗教国「塞涟法连」之间的和平调停，造访了签署仪式会场所在地的塞涟法连。\r\n        签署仪式本应能圆满结束但她在那里遇到的都是非同一般的王子…！？\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.mgtv.com/h/321321.html"
+                }
+            },
+            "rating": 22,
+            "release": "2018-01-10T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "手游改"
+                ]
+            },
+            "title": {
+                "en_GB": "DAME×PRINCE",
+                "ja_JP": "ダメプリ ANIME CARAVAN",
+                "zh_CN": "废柴王子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5e32e992cbb666d42b931a1ab8e3752f9d490b93.jpg_225x300.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "\r\n        高中生·齐木楠雄是超能力者。心灵感应、念动力、透视、预知、瞬间移动、千里眼等，不论任何事情都自由自在。但这任谁都羡慕不已的最强能力，实际上对于本人而言是引来灾难的不幸元凶。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21469"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-16T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "喜剧",
+                    "异能"
+                ]
+            },
+            "title": {
+                "ja_JP": "斉木楠雄のΨ難 第2期",
+                "zh_CN": "齐木楠雄的灾难 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/70/65/202661_Xx5X3.jpg"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "和平的同时也在飞速近代化的木叶村。高楼耸立、巨大荧屏中播放着影像、链接区域与区域之间的电车在村中驰骋。虽说是忍者之村普通人也开始增加、忍者们的生活方式也发生改变的那个时代……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5978"
+                }
+            },
+            "rating": 60,
+            "release": "2017-07-04T09:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "热血",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "en_GB": "Kaito × Ansa",
+                "ja_JP": "カイトアンサ",
+                "zh_CN": "博人传 火影忍者新时代"
+            }
+        }
+    ]
+}

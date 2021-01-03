@@ -1,0 +1,119 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/e2442c3a7d7416d872aafd5daaddde4cd5a8fa70.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　讲述的是一群藏在香蕉里的猫的奇幻故事，故事情节从某一天中午空无一人的厨房中从香蕉里钻出的香蕉喵说起。香蕉喵们在家里没人的时候，就会偷偷溜出来玩耍。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28222687/"
+                }
+            },
+            "rating": 60,
+            "release": "2019-09-30T23:33:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "治愈"
+                ]
+            },
+            "title": {
+                "en_GB": "Bananya: Fushigi na Nakama-tachi",
+                "ja_JP": "ばなにゃ ふしぎななかまたち",
+                "zh_CN": "香蕉猫 不可思议的伙伴们"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg_225x300.jpg"
+            },
+            "episode": 102,
+            "intro": {
+                "zh_CN": "　　眼看人类就要被魔神灭亡了…\r\n　　拯救了这一切的，仅仅是一名魔道士。\r\n　　他被称为“魔法帝”，成为了传说——\r\n　　在某个魔法至上的世界——\r\n　　生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6422"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-03T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "魔法",
+                    "热血",
+                    "咆哮帝"
+                ]
+            },
+            "title": {
+                "en_GB": "Black Clover",
+                "ja_JP": "ブラッククローバー",
+                "zh_CN": "黑色四叶草"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b8d656fdb0931e812373daf3d4cb04eb93b4c227.jpg@450w_600h.jpg"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "　　春季选拔，根据各都道府县地方大赛的成绩选拔出的32所学校进行对战，全程实行淘汰赛制。去年秋天称霸东京都大赛的青道高中，时隔七年再次将甲子园的门票收入囊中。泽村荣纯二年级篇，从甲子园开始！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md22940468"
+                }
+            },
+            "rating": 60,
+            "release": "2019-04-02T10:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "竞技",
+                    "棒球"
+                ]
+            },
+            "title": {
+                "en_GB": "Ace of Diamond Act II",
+                "ja_JP": "ダイヤのA actⅡ",
+                "zh_CN": "钻石王牌 actⅡ"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/7cde918be7b4bd3155b981d1713dc96ec96e7b4f.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　少女们投身战斗 为了重要的同伴！\r\n　　一直在相互争斗、来自5个异世界的来访者「Z/X」缔结了休战条约，人类因此回避了灭亡的危机。\r\n　　主人公·各务原安昙接受青之世界的命令，与成为其搭档的Z/X·利盖尔一同前往新设的女子学校「富士御崎学园」。\r\n　　在这所学园中，她们究竟会遭逢怎样的「命运」？ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28222672/"
+                }
+            },
+            "rating": 40,
+            "release": "2019-10-08T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "战斗",
+                    "萌系"
+                ]
+            },
+            "title": {
+                "en_GB": "Z/X Code reunion",
+                "ja_JP": "Z/X Code reunion",
+                "zh_CN": "异界群敌 代码重组"
+            }
+        }
+    ]
+}

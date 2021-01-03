@@ -1,0 +1,356 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ec36e44a34508cb48d4375eafad9a3126a9cd6f2/w220"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "于国中时期最后的大赛，统合即将被废止的赤城中学参赛，却在第一回战中投出暴投，而输掉比赛的投手泽村荣纯，本来决定要与国中时期的朋友一同考入故乡的高中，却被东京的棒球名校青道高中挖角，并在那里遇见了天才捕手御幸一也，就此改变了他的人生…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/diamond_no_ace/videos#c=episode"
+                }
+            },
+            "rating": 81,
+            "release": "2013-10-05T23:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志",
+                    "竞技",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Diamond no Ace",
+                "ja_JP": "ダイヤのA",
+                "zh_CN": "钻石王牌"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/97849d8195ee1633d448efbdcccb3fc7b0a24066/w220"
+            },
+            "intro": {
+                "zh_CN": "此前，《龙珠·改》只至人造人·赛鲁篇后便进入结局，现在官方再次把《龙珠Z魔人布欧篇》拿出来制作成《龙珠·改》，内容将围绕25届天下一武道会，以及大战来到地球的魔人布欧的故事展开。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5301c9741d41c8191e36ef98/videos#c=episode"
+                }
+            },
+            "rating": 22,
+            "release": "2014-04-06T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "励志",
+                    "奇幻",
+                    "动作",
+                    "战争"
+                ]
+            },
+            "title": {
+                "ja_JP": "ドラゴンボール·改 ブウ編",
+                "zh_CN": "龙珠改 魔人布欧篇"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2849256fad3bfc48768246951f74f0f71dfb9c5f/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "人类运用有著高度进化情报技术「玛那」的魔法之力克服了地球上战争、飢饿、污染等的所有问题，并且得到了和平与梦寐以求的理想乡，Misurugi 皇国的第一皇女『Angeriji 』就在这种气氛之下接受眾人的祝福载上王冠，但是她本人却被发现是位无法使用「玛那」被认定為「诺玛」遭到放逐。所有的一切都被夺走的她被隔离至离岛，而她在这将和只会战斗的「诺玛」少女以及变型人型兵器「Parameiru」一起展开狩猎超越次元侵攻而来的巨大生物「龙」的生活。名字被剥夺而成為士兵的『Ange』她所能相信的是什麼？手裡握住的又是什麼？一位自此不屈少女之物语即将开始。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/CrossAnge/videos#c=episode"
+                }
+            },
+            "rating": 90,
+            "release": "2014-10-04T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Cross Ange",
+                "ja_JP": "クロスアンジュ 天使と竜の輪舞",
+                "zh_CN": "Cross Ange 天使与龙的轮舞"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6afe1ce91ad261ddfa0ce8e8c8cc71a4b13d3b20/w220"
+            },
+            "intro": {
+                "zh_CN": "故事讲述发生在大不列颠的一个大国内，骑士们为了圣战而进行军备强化，因壮大骑士军团们的诸多暴行使得整个国家民不聊生。担忧着国家现状的第三王女伊丽莎白，将救国的希望寄托于10年前的事件而被通缉的骑士团”七原罪“从而独自踏上寻找的旅程。注定无果的旅程中，被追兵追赶伊丽莎白因误入某个酒店，被酒店的主人、一个少年救下，这名少年正是”七原罪“的团长。从此他们踏上了开拓国家未来的旅途。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5347c6411d41c81c6cb007ed/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2014-10-05T08:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "The Seven Deadly Sins",
+                "ja_JP": "七つの大罪",
+                "zh_CN": "七大罪"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a2f606c0ee5b62ae0ee7d23caaf476c4e0ad2549/w220"
+            },
+            "episode": 2,
+            "intro": {
+                "zh_CN": "改编自日本漫画家盐崎雄二同名漫画。2014年3月，《一骑当千》官网放出“2014年最新作始动”的消息。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/532e46761d41c8591582e8cf/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2014-12-21T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "卖肉"
+                ]
+            },
+            "title": {
+                "ja_JP": "一騎当千 Extravaganza Epoch",
+                "zh_CN": "一骑当千 Extravaganza Epoch"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f064ee894d0a558c5eaf35216ce2ea453a64640e/w220"
+            },
+            "intro": {
+                "zh_CN": "“焰牙”——那是藉由超化之後的精神力将自身灵魂具现化，所创造出的武器。我，九重透流，因为拥有这种千中选一的能力，进入传授使用“焰牙”作为战斗技术的学校“昊陵学园”就读。然而，不知为何，我的“焰牙”在具现化之後竟非以武器，而是以防具——“楯”的形式出现。当我因这样的异能受到全校瞩目时，在学园中被称为“绊双刃”的拍档制度之下，必须和银发美少女整天都在同一个房间里度过……!?"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53cc8faa1d41c842aed3b388/videos#c=episode"
+                }
+            },
+            "rating": 41,
+            "release": "2015-01-04T11:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "卖肉",
+                    "魔幻",
+                    "情感",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Absolute Duo",
+                "ja_JP": "アブソリュート・デュオ",
+                "zh_CN": "绝对双刃"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d674adc5741e06dce7cc33e540ba1fd0cb5c1b7f/w220"
+            },
+            "intro": {
+                "zh_CN": "作品讲述了《英雄传说 空之轨迹》中的艾丝蒂尔、约修亚，同《伊苏》系列的主人公亚特鲁·克里斯汀等人，因不明原因被召唤到了异世界“世外桃源”，在那里原本被设定为好人的角色成为了坏人，而本来就是怪人的家伙则会变得更加奇怪。各位英雄人物们为了从这个歪曲事理的世界返回原先的地方，便成立了“Falcom学园”。于是，打破常规的全明星无厘头的故事就此展开。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/548bb36c1d41c87525058804/videos#c=episode"
+                }
+            },
+            "rating": 8,
+            "release": "2015-01-04T13:27:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "泡面番"
+                ]
+            },
+            "title": {
+                "en_GB": "Minna Atsumare! Falcom Gakuen SC",
+                "ja_JP": "みんな集まれ！ファルコム学園 SC",
+                "zh_CN": "大家集合！Falcom 学园 SC"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/010a25b874b1f8ad65b2681401d78b9b09ff9dcd/w220"
+            },
+            "intro": {
+                "zh_CN": "椿辉红羽是名毫无存在感的女高中生，唯一一个愿意与她交流的人，只有刚转学进来的百合城银子。但红羽却一直觉得银子有著可疑的不协调感，这份感觉来自红羽的奇妙梦境，她一直觉得银子是熊不是人！？随著交情越来越深，带著纯纯百合感的校园故事才正要展开。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54295a051d41c84a7cb9dd09/videos#c=episode"
+                }
+            },
+            "rating": 61,
+            "release": "2015-01-04T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "萌",
+                    "百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Yuri Kuma Arashi",
+                "ja_JP": "ユリ熊嵐",
+                "zh_CN": "百合熊风暴"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/97e5443da241f1bbe05451299adbab4c87914aea/w220"
+            },
+            "intro": {
+                "zh_CN": "《翻转☆少女》（ローリング☆ガールズ）是由WIT STUDIO制作的原创动画作品，他们曾制作过《进击的巨人》《鬼灯的冷彻》等动画。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54353ab01d41c84a7cc56f6f/videos#c=episode"
+                }
+            },
+            "rating": 64,
+            "release": "2015-01-10T16:58:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "ja_JP": "THE ROLLING ☆ GIRLS",
+                "zh_CN": "翻转☆少女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/28ea4171b8714ad842f87bf114e8c77ca055d272/w220"
+            },
+            "intro": {
+                "zh_CN": "中学联赛三连霸的篮球强豪“帝光中学”，部员数超过百人，其中更有着被誉为“奇迹的世代”的五位天才篮球选手，以及一个被忽视的人－－梦幻的第六人！本作叙述的便是“梦幻的第六人”[黑子哲也]以及远从美国归来的天才篮球选手[火神大我]的故事。火神立志打败“奇迹的世代”并成为日本第一的篮球选手，而黑子也决定成为他的&lt;影子&gt;帮助他。两人一起正式加入篮球社后，面临的第一场友谊赛的对手，便是黑子在帝光时的队友、“奇迹的世代”中的黄濑凉太！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53869bfa1d41c812032e7b76/videos#c=episode"
+                }
+            },
+            "rating": 97,
+            "release": "2015-01-10T17:58:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "励志",
+                    "动作",
+                    "竞技",
+                    "体育",
+                    "校园"
+                ]
+            },
+            "title": {
+                "ja_JP": "黒子のバスケ（第3季）",
+                "zh_CN": "黑子的篮球（第3季）"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7a39ba191e07ef0cfc45fea0bddfe1f424dc9eb5/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "《夜之小双侠》以系列作品中的反派角色“杜伦布贼党”的后裔为主人公。小双侠在打败杜伦布后所建立的王国并非如此美好，相反地却让人民饱受苦难。新生杜伦布的首领继承了多龙芝之名，向小双侠发动了复仇……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/54477df61d41c8273f0a11ad/videos#c=episode"
+                }
+            },
+            "rating": 52,
+            "release": "2015-01-11T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "改编",
+                    "燃",
+                    "奇幻",
+                    "冒险",
+                    "历史",
+                    "灾难",
+                    "神话"
+                ]
+            },
+            "title": {
+                "en_GB": "Yoru no Yatterman",
+                "ja_JP": "夜ノヤッターマン",
+                "zh_CN": "夜之小双侠"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2c87cfba7b0a792591e94f72b379c8528763aecd/w220"
+            },
+            "intro": {
+                "zh_CN": "森林里住着讨厌战争的魔女，传说只要把写着想要阻止的战场的名字的箭射进玛丽亚森林的话，那么在夜晚的时候梦魔就会到来，第二天早上战场就会消失不见。但是，每天夜晚都放出梦魔品尝男人的荒淫无度的最强魔女，却是个连交往经验都没有过的。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/540934941d41c86e06eef986/videos#c=episode"
+                }
+            },
+            "rating": 29,
+            "release": "2015-01-11T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Maria the Virgin Witch",
+                "ja_JP": "純潔のマリア",
+                "zh_CN": "纯洁的玛丽亚"
+            }
+        }
+    ]
+}

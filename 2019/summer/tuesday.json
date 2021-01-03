@@ -1,0 +1,152 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg_225x300.jpg"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "　　眼看人类就要被魔神灭亡了…\r\n　　拯救了这一切的，仅仅是一名魔道士。\r\n　　他被称为“魔法帝”，成为了传说——\r\n　　在某个魔法至上的世界——\r\n　　生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6422"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-03T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "魔法",
+                    "热血",
+                    "咆哮帝"
+                ]
+            },
+            "title": {
+                "en_GB": "Black Clover",
+                "ja_JP": "ブラッククローバー",
+                "zh_CN": "黑色四叶草"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b8d656fdb0931e812373daf3d4cb04eb93b4c227.jpg@450w_600h.jpg"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "　　春季选拔，根据各都道府县地方大赛的成绩选拔出的32所学校进行对战，全程实行淘汰赛制。去年秋天称霸东京都大赛的青道高中，时隔七年再次将甲子园的门票收入囊中。泽村荣纯二年级篇，从甲子园开始！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md22940468"
+                }
+            },
+            "rating": 60,
+            "release": "2019-04-02T10:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "竞技",
+                    "棒球"
+                ]
+            },
+            "title": {
+                "en_GB": "Ace of Diamond Act II",
+                "ja_JP": "ダイヤのA actⅡ",
+                "zh_CN": "钻石王牌 actⅡ"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8b1ee76937d7425e981496df7b4edef69050a79d.jpg@450w_600h.jpg"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "　　主人公·有马拓也幼年丧母，身为历史学者的父亲也在两个月前因事故去世。在各个方面都失去了活力的高中最后的暑假。某天，他收到了装有镶嵌着用途不明的圆镜和玻璃珠的奇妙物体的小包裹。一起送来的信中有着令人想到父亲还活着的内容……？！“今晚10点，带着这个东西到剑之岬来。” 他按照指示前往那个地点，却发现神秘的女性倒在那里。而且，那里还有学园长和神秘转学生的身影。一瞬间，随着大地的轰鸣，他被光所包围……。前往并列世界的旅程，由此开始了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md21990982"
+                }
+            },
+            "rating": 40,
+            "release": "2019-04-02T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "恋爱",
+                    "悬疑",
+                    "轮回"
+                ]
+            },
+            "title": {
+                "en_GB": "YU-NO: A girl who chants love at the bound of this world",
+                "ja_JP": "この世の果てで恋を唄う少女YU-NO",
+                "zh_CN": "在世界尽头咏唱恋曲的少女YU-NO"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/2d26d727ecf55fd0b5e499294e79d2c98710afd7.jpg@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“我和她相遇了……，和虽然可爱却很‘奇怪’的学姐！”\r\n　　非常喜欢变戏法，却因为怯场而导致失败率100%！？\r\n　　被这样的“学姐”强行要求加入魔术部，结果还被当成“助手”使唤……。把街头艺人姐弟“阿咲”和“阿正”以及化学部的“斑”都给卷入其中，学姐今天也精神满满、稍微带些色气地大失败！\r\n　　画面太美不敢看但还是想看的笨拙戏法搞笑动画！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28221418/"
+                }
+            },
+            "rating": 60,
+            "release": "2019-07-02T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "校园",
+                    "搞笑",
+                    "肉"
+                ]
+            },
+            "title": {
+                "en_GB": "Magical Sempai ",
+                "ja_JP": "手品先輩",
+                "zh_CN": "魔术学姐"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://imgs.aixifan.com/image-manager_1561719218695-JFFSd6YMY9?imageView2/1/w/225/h/300"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　没有家……。没有食物、没有水……。女高中生4人组，在不知何处的无人岛上陷入遭难的大危机！……原本是这样的，但她们都相当有精神！因为一无所有，所以什么都可以制作！什么都可以吃！\r\n　　智慧与勇气的无人岛生存剧！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.acfun.cn/bangumi/aa5024886"
+                }
+            },
+            "rating": 100,
+            "release": "2019-07-02T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "生存",
+                    "搞笑",
+                    "轻百合",
+                    "科普"
+                ]
+            },
+            "title": {
+                "en_GB": "Are You Lost? ",
+                "ja_JP": "ソウナンですか？",
+                "zh_CN": "你遭难了吗？"
+            }
+        }
+    ]
+}

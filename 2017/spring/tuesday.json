@@ -1,0 +1,182 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/25d1d29c39427e3bc25b02716b1e466d513612b9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dedce51d41c81f83e1376f/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2017-04-03T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Frame Arms Girl",
+                "ja_JP": "フレームアームズ・ガール",
+                "zh_CN": "FRAME ARMS GIRL"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/efc3e1c1ec152a6f95b7865a759c454307388ecb/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee5cb1d41c81f83e13d28/videos#c=episode"
+                }
+            },
+            "rating": 28,
+            "release": "2017-04-04T08:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Idol Time PriPara",
+                "ja_JP": "アイドルタイムプリパラ",
+                "zh_CN": "偶像时光PriPara"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2ff007d12ab5ba68ffbb4137bf36124588f9d21f/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58deebb51d41c81f83e142c8/videos#c=episode"
+                }
+            },
+            "rating": 8,
+            "release": "2017-04-04T09:45:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Young Ashibe: Go! Go! Goma-chan 2",
+                "ja_JP": "少年アシベ GO! GO! ゴマちゃん 第2シリーズ",
+                "zh_CN": "少年阿贝 GO!GO!小芝麻 第2系列"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/32a10abd85e86de1bbcfe37b5b80c2a275b73ffa/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded7651d41c81f83e132e1/videos#c=episode"
+                }
+            },
+            "rating": 79,
+            "release": "2017-04-04T11:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Akashic Records of bastard magic instructor",
+                "ja_JP": "ロクでなし魔術講師と禁忌教典",
+                "zh_CN": "不正经的魔术讲师与禁忌教典"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f9ebb574971fc50d1570f57f613c056604b727b0/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee25b1d41c81e642a7fe2/videos#c=episode"
+                }
+            },
+            "rating": 69,
+            "release": "2017-04-04T12:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Idolm@ster Cinderella Girls Gekijō",
+                "ja_JP": "アイドルマスター シンデレラガールズ劇場",
+                "zh_CN": "灰姑娘女孩剧场"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c95596199b4a3394617b71fb9719fdf6daf54660/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58dee0951d41c85a1e5d7309/videos#c=episode"
+                }
+            },
+            "rating": 57,
+            "release": "2017-04-11T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Anonymous Noise",
+                "ja_JP": "覆面系ノイズ",
+                "zh_CN": "覆面系NOISE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cd283a327633a79dfb9da429e13055398796d48c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/58ded8291d41c85a1e5d6eef/videos#c=episode"
+                }
+            },
+            "rating": 77,
+            "release": "2017-04-11T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "What do you do at the end of the world? Are you busy? Will you save us?",
+                "ja_JP": "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+                "zh_CN": "末日时在做什么？有没有空？可以来拯救吗？"
+            }
+        }
+    ]
+}

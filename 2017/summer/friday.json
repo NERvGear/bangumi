@@ -1,0 +1,182 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0806094c4924f2fe7c938449255628d74c291ad3/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595078b51d41c81f831f4cad/videos#c=episode"
+                }
+            },
+            "rating": 44,
+            "release": "2017-07-06T16:58:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Konbini Kareshi",
+                "ja_JP": "コンビニカレシ",
+                "zh_CN": "便利店男友"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/50b5fbaeb91511fbb361cece2aadf212a3fba2e2/w220"
+            },
+            "intro": {
+                "zh_CN": "かつて、とある地方都市が企画した小さなお祭りから始まった。『ご当地ヒロイン戦士』として地元をモチーフにしたアクションが観衆を魅了し、その評判により大人気を獲得。ご当地ヒロイン”ブームが各地で巻き起こった。その勢いで『ふるさとヒロイン特例法』が成立し、各自治体がステージショーをプロデュース。ご当地ヒロインが群雄割拠するに至る。人気を競い合うヒロインたちのショーは、国民的人気コンテンツとしてランキング番組が全国放送されるまでとなり、その中心となる“アクションヒロイン”は子供から大人まで愛される憧れの存在となっていた。フルーツ産地ののどかな地方都市『陽菜野市』はその波に乗り遅れていた。陽菜野高校3年の城ヶ根御前は危機感を募らせている叔母の県知事から“アクションライブ”をプロデュースするよう唆される。とまどう御前だが、“アクションヒロイン”を成功させ、この街に活気を取り戻し、祖父が建設に尽力した文化ホールの閉館を覆すために、立ち上がる！！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594aca4c1d41c81f831ebb09/videos#c=episode"
+                }
+            },
+            "rating": 67,
+            "release": "2017-07-06T17:28:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Action Heroine Cheer Fruits",
+                "ja_JP": "アクションヒロイン チアフルーツ",
+                "zh_CN": "动作女主:水果应援团"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1a8ab8156a71d532c9532e29727fe3d14e11335a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594ab3431d41c81f831eb425/videos#c=episode"
+                }
+            },
+            "rating": 30,
+            "release": "2017-07-07T12:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Made in Abyss",
+                "ja_JP": "メイドインアビス",
+                "zh_CN": "来自深渊"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/75799b7f7852089212f3b763e1196a0d5722c122/w220"
+            },
+            "intro": {
+                "zh_CN": "いつも夢見る自分の部屋の中で、再び眠りにつこうとした月城遥人は、偶然にも他人の夢に紛れ込んでしまう。それは、この夢世界に心を囚われた魔女達の夢。現実を拒絶し、夢に逃げ、眠り続ける「眠り姫病」に陥った彼女達の夢の姿。魔女の夢世界に迷い込んだ遥人は出口の扉を探し、彼女達と出会い言葉を交わしていく。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/59506a311d41c82f87d751c4/videos#c=episode"
+                }
+            },
+            "rating": 26,
+            "release": "2017-07-07T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "18if",
+                "ja_JP": "18if",
+                "zh_CN": "18if"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/62b239020a2548304f7a891af898564d941a9f66/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594af6d21d41c81f831ec261/videos#c=episode"
+                }
+            },
+            "rating": 36,
+            "release": "2017-07-07T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Vatican Miracle Examiner",
+                "ja_JP": "バチカン奇跡調査官",
+                "zh_CN": "梵蒂冈奇迹调查官"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/210c2559a39dc1b6e38dfad527b33340a7fcd572/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/595010b21d41c81f831f3f8d/videos#c=episode"
+                }
+            },
+            "rating": 34,
+            "release": "2017-07-07T15:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Chronos Ruler",
+                "ja_JP": "時間の支配者",
+                "zh_CN": "时间支配者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0b48aa44b9596b06e46d449c6644a39d8c3af6ce/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/594ac3841d41c82f87d7308c/videos#c=episode"
+                }
+            },
+            "rating": 69,
+            "release": "2017-07-14T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Jigoku Shoujo: Yoi no Togi",
+                "ja_JP": "地獄少女 宵伽",
+                "zh_CN": "地狱少女 宵伽"
+            }
+        }
+    ]
+}

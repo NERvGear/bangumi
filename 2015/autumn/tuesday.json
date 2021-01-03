@@ -1,0 +1,133 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3fcc4be7cdc68355942036acb45db73ad2800694/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5604140a1d41c849eb2d3745/videos#c=episode"
+                }
+            },
+            "rating": 8,
+            "release": "2015-10-05T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Teekyu Season 6",
+                "ja_JP": "てーきゅう",
+                "zh_CN": "網球少女 第六季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/340c302ab85663c5309c1f472c2aa7bcaee6a326/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56040aad1d41c849eb2d27d3/videos#c=episode"
+                }
+            },
+            "rating": 50,
+            "release": "2015-10-05T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Osomatsu-san",
+                "ja_JP": "おそ松さん",
+                "zh_CN": "小松君"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/44c99aed706afa23d33751a004c3ad08d0a16d09/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56041ebf1d41c849e3b7eda2/videos#c=episode"
+                }
+            },
+            "rating": 90,
+            "release": "2015-10-05T17:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Yuruyuri San Hai!",
+                "ja_JP": "ゆるゆり さん☆ハイ！",
+                "zh_CN": "搖曳百合3☆High!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d9c3187842bc6b0230f5b6e2e4284e0523e113b9/w220"
+            },
+            "intro": {
+                "zh_CN": "警察无法完全应对的世界规模治安危机，导致了一种新职业——武侦的出现。武侦，即在法律框架内,解决个人或组织的委托，弥补警察的不足，维护社会和平的武装侦探。而本故事，就发生在那样一个时代的武侦培养学园——东京武侦高。发生在武侦高中，几位不给力的1年级女生与向往的最强学姐2年级的亚里亚之间友情的碰撞，各种惊险，高校的校园冒险故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5493dde11d41c85629ed5760/videos#c=episode"
+                }
+            },
+            "rating": 72,
+            "release": "2015-10-06T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "动作"
+                ]
+            },
+            "title": {
+                "en_GB": "Aria the Scarlet Ammo AA",
+                "ja_JP": "緋弾のアリアAA",
+                "zh_CN": "绯弹的亚里亚 AA"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a2d9e6f358f70b413e2b4d1f64d3290c1648caca/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56042daa1d41c808a1d51e88/videos#c=episode"
+                }
+            },
+            "rating": 18,
+            "release": "2015-10-12T16:08:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "A Simple Thinking About Blood Type S3",
+                "ja_JP": "血液型くん！3期",
+                "zh_CN": "血型君！3期"
+            }
+        }
+    ]
+}

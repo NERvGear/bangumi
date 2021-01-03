@@ -1,0 +1,528 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3fd6b5feeec0acc1c791dba382caef3c198d0adb/w220"
+            },
+            "episode": 148,
+            "intro": {
+                "zh_CN": "2011年8月1日、2度目のテレビアニメ化が発表された。同年10月2日より日本テレビ系列（NNN)で放送中。この放送よりハイビジョン制作。第1作からスタッフ・キャストは一新されている。ローカルセールス枠であり、ネット局の多くは深夜帯での遅れネットとなる。なお、日本テレビにおける日曜11時枠にアニメが放送されるのは1992年の『キン肉マン キン肉星王位争奪編』以来19年ぶりとなる。更に『それいけ!アンパンマン』を除く日本テレビ制作のアニメが深夜以外の枠で放送するのは『D・N・A² 〜何処かで失くしたあいつのアイツ〜』以来17年ぶりとなった。ナレーターは二又一成が務めている。また、日本テレビでは第5話まで『誰だって波瀾爆笑』終了後にジャンクションが放送されていた。タイトルの下のハンター文字もタイトル、オープニングの背景にはゴン達の名前が書かれたシーンがあり、アイキャッチはハンター語講座と題している（第26話まで）。また、アイキャッチ全体だけでなくタイトルの下、オープニングの背景にハンター文字が使われている。第27話から第58話までは本編後に「ゴンとキルアのハンサイクロペディア」という小コーナーがあり、劇中で登場する人物や用語などをゴンとキルアが簡単に解説している。第59話から第75話までは「G.Iちゅーとりある」という小コーナーがあり、グリードアイランドの詳しい説明が解説されている。2013年1月12日、劇場版アニメ『劇場版 HUNTER×HUNTER 緋色の幻影』が公開。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Hunter_Hunter_2011/videos#c=episode"
+                }
+            },
+            "rating": 58,
+            "release": "2011-10-02T01:55:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志",
+                    "奇幻",
+                    "魔幻",
+                    "科幻",
+                    "冒险",
+                    "动作",
+                    "竞技",
+                    "游戏世界观",
+                    "武侠"
+                ]
+            },
+            "title": {
+                "en_GB": "Hunter × Hunter",
+                "ja_JP": "HUNTER×HUNTER",
+                "zh_CN": "全职猎人"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e13239129fed024cedf16b1e671cedaba814162a/w220"
+            },
+            "episode": 49,
+            "intro": {
+                "zh_CN": "战斗之魂系列动画是BANDAI推出的卡牌游戏改编系列动画，描写变身寻宝宇宙冒险故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52367c721d41c81888d6d2fe/videos#c=episode"
+                }
+            },
+            "rating": 24,
+            "release": "2013-09-21T22:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "励志",
+                    "冒险",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Saikyou Ginga Ultimate Zero: Battle Spirits",
+                "ja_JP": "最強銀河 究極ゼロ 〜バトルスピリッツ〜",
+                "zh_CN": "最强银河 究极ZERO ～Battle Spirits～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ec36e44a34508cb48d4375eafad9a3126a9cd6f2/w220"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "于国中时期最后的大赛，统合即将被废止的赤城中学参赛，却在第一回战中投出暴投，而输掉比赛的投手泽村荣纯，本来决定要与国中时期的朋友一同考入故乡的高中，却被东京的棒球名校青道高中挖角，并在那里遇见了天才捕手御幸一也，就此改变了他的人生…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/diamond_no_ace/videos#c=episode"
+                }
+            },
+            "rating": 89,
+            "release": "2013-10-05T23:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志",
+                    "竞技",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Diamond no Ace",
+                "ja_JP": "ダイヤのA",
+                "zh_CN": "钻石王牌"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ac450f351caaa55c8d5b0720875903d6bd1d5b4e/w220"
+            },
+            "intro": {
+                "zh_CN": "光之美少女们在世界对抗“灾厄”的侵害，青空国的公主“白雪姬”也是光之美少女之一，但是和敌人的战斗无法打败敌人，荣誉被其他光之美少女抢走了！这时的公主得到提议去人类世界寻找自己的搭档，她遇到了“爱乃 爱”于是组队！ 后来知道了只要收集“Cure Card”就能实现任何一个愿望。于是和妖精“丝带”一起，为了保护世界和平，一起变装，变身，切换形态一起战斗！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/happiness_charge_precure/videos#c=episode"
+                }
+            },
+            "rating": 86,
+            "release": "2014-02-02T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "萌",
+                    "魔法少女"
+                ]
+            },
+            "title": {
+                "en_GB": "Happiness Charge Precure!",
+                "ja_JP": "ハピネスチャージ！プリキュア",
+                "zh_CN": "Happiness Charge 光之美少女！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1e95b3365f07e4583efb496c04a7ab74f226ec6f/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "“父亲因事故而死亡的谜题”“幼年时遇到过的不可思议的少女的记忆”复杂的思绪从胸口涌出。到达种子岛的大地因某设施的报警声而与“Earth Engine”相遇。“你就是队长吗…”伴随着询问声，大地看到的是从天王星袭来的谜的完全机械生命体“Kill-T-Gang”，少年的冒险也在这绚烂星空中拉开帷幕。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Captain_Earth/videos#c=episode"
+                }
+            },
+            "rating": 96,
+            "release": "2014-04-05T16:58:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "燃",
+                    "科幻",
+                    "机战"
+                ]
+            },
+            "title": {
+                "en_GB": "Captain Earth",
+                "ja_JP": "キャプテン・アース",
+                "zh_CN": "地球队长"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/97849d8195ee1633d448efbdcccb3fc7b0a24066/w220"
+            },
+            "intro": {
+                "zh_CN": "此前，《龙珠·改》只至人造人·赛鲁篇后便进入结局，现在官方再次把《龙珠Z魔人布欧篇》拿出来制作成《龙珠·改》，内容将围绕25届天下一武道会，以及大战来到地球的魔人布欧的故事展开。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5301c9741d41c8191e36ef98/videos#c=episode"
+                }
+            },
+            "rating": 20,
+            "release": "2014-04-06T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "励志",
+                    "奇幻",
+                    "动作",
+                    "战争"
+                ]
+            },
+            "title": {
+                "ja_JP": "ドラゴンボール·改 ブウ編",
+                "zh_CN": "龙珠改 魔人布欧篇"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/454127cb2a4ac568573b822c7a9acc4c54452dc2/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "小时候，日向翔阳从电视上看见排球比赛，乌野高中的一名小个子在球上的英姿，简直就是个“小巨人”，对此非常深刻，并开始迷上排球，一直想成为“小巨人”一样的人。初中时排球社不够人数，只好默默等待，后来在终于有新成员后，参与了第一次也是最后一赛的比赛，不幸对决了最强队伍，结果当然落败。单凭自己的话，是绝对无办法看见那景色的，不是自己一人的话，或许就能看见了…为了能够打出“胜利”的比赛，翔阳努力考入乌野高中，为了实现成为“小巨人”的排球梦想！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/525382e41d41c8488496f731/videos#c=episode"
+                }
+            },
+            "rating": 93,
+            "release": "2014-04-06T08:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "励志",
+                    "竞技",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Haikyuu!!",
+                "ja_JP": "ハイキュー！！",
+                "zh_CN": "排球少年!!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/208445afa8f4760611403eb494e16d018e64fc12/w220"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "故事的主人翁尾崎荣一郎，是个功课一直都拿优等的高中一年级生。原本他的生活只是努力用功念书，但为了解决运动不足的问题，他开始打算尝试运动，而就在他妈妈帮他找到一家网球俱乐部并逼他去看看后，他的人生开始起了大变化。他不仅喜欢上网球，也在练习过程中不断精进自己的网球技巧，更因网球与校园偶像有了更进一步的接触。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Baby_Steps/videos#c=episode"
+                }
+            },
+            "rating": 51,
+            "release": "2014-04-06T08:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "竞技",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Baby Steps",
+                "ja_JP": "Baby Steps ベイビーステップス",
+                "zh_CN": "Baby Steps 网球优等生"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/40ba0c422277bee3627680b927fc35195c89e958/w220"
+            },
+            "intro": {
+                "zh_CN": "卡片决斗者《游戏王》系列日前杂志公布新情报!继原作《游戏王》、《游戏王GX》、《游戏王5DS》、《游戏王ZEXAL》之后，第五部动画也来了!题为《游戏王ARC-V》，预定于2014年春开始放送，像前几作一样，本作也有很大可能在动画播出一段时间后推出游戏版本。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52a82fba1d41c86cacd108ed/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2014-04-06T08:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "改编",
+                    "燃",
+                    "魔幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Yu-Gi-Oh! Arc-V",
+                "ja_JP": "遊☆戯☆王ARC-V",
+                "zh_CN": "游戏王 ARC-V"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/083a4620973276d70d4610de11666c3ed6fe2a8c/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "改编自游戏《战国Basara》系列，本作为TV动画系列第3季"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5327be891d41c838da5788f8/videos#c=episode"
+                }
+            },
+            "rating": 61,
+            "release": "2014-07-05T16:05:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "动作",
+                    "战争",
+                    "历史"
+                ]
+            },
+            "title": {
+                "en_GB": "Sengoku Basara: Judge End",
+                "ja_JP": "戦国BASARA Judge End",
+                "zh_CN": "战国BASARA Judge End"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0a66d4085c7bffde071bcfafe5b869b04609a978/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "对转学感觉很平常的女高中生园川桃香，在转学到新学校的首日，就遭到一个长相美丽的金发少女，但是手上却拿着枪的怪咖纠缠。原来此人就是生存游戏社社长凤美煌。美煌发现桃香在用枪方面有惊人的才能之后，便想尽办法要拉桃香入社，而桃香最后也屈服在压力之下，加入了此社团。 但没想到除了社长之外，每个社员也都是怪人…"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52a80d991d41c86cacd10677/videos#c=episode"
+                }
+            },
+            "rating": 38,
+            "release": "2014-07-05T17:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "日常",
+                    "百合",
+                    "宅",
+                    "校园",
+                    "萝莉"
+                ]
+            },
+            "title": {
+                "en_GB": "Sabagebu!",
+                "ja_JP": "さばげぶっ！",
+                "zh_CN": "生存游戏社"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9148dded6ac2f4396a2288a4f8bbb75941148220/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "TV动画《元气囝仔》改编自同名漫画。将在2014年内在日本播出。以长崎县五岛列岛为舞台，描写在城市长大的帅哥书法家半田清舟，在移居小岛后与岛上的人们之间的往来日常。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5305a3221d41c809a69c4b23/videos#c=episode"
+                }
+            },
+            "rating": 12,
+            "release": "2014-07-05T17:20:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "日常"
+                ]
+            },
+            "title": {
+                "en_GB": "Barakamon",
+                "ja_JP": "ばらかもん",
+                "zh_CN": "元气囝仔"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ad04c129b650d8af2ec13eb4ac8aa54d19932558/w220"
+            },
+            "intro": {
+                "zh_CN": "让你笑到抓狂+跳脚的小铁又来了！这回小铁不仅升上了3年级，还和他的马吉兼好兄弟阿仁同班啰！而且导师不再是那个衰尾道人春卷，而是……另外，可尔必斯大胃王服雄碰上新转学生来自阿尔卑斯的大胃王肥少女．小莲，展开一场快食大胃王争夺战！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52f496811d41c80dff80aa53/videos#c=episode"
+                }
+            },
+            "rating": 6,
+            "release": "2014-07-06T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "欢乐",
+                    "萌"
+                ]
+            },
+            "title": {
+                "en_GB": "Super Radical Gag Family Sequel",
+                "ja_JP": "毎度!浦安鉄筋家族",
+                "zh_CN": "每度！浦安铁筋家族"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e5a9d8e35d2620ac853bcb487ce53bd001499667/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "来自月刊《高达ACE》（ガンダムエース）2014年8月号消息，庆祝《机动战士钢弹桑》TV动画化并在2014年7月放送开始。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53a931b61d41c83e2353e557/videos#c=episode"
+                }
+            },
+            "rating": 2,
+            "release": "2014-07-06T10:28:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "泡面番"
+                ]
+            },
+            "title": {
+                "ja_JP": "機動戦士 ガンダムさん",
+                "zh_CN": "机动战士 高达桑"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4cd4a486ecd82604bd5f6b51d991263f25fde871/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "故事讲述所属与九文学园第二新闻部的赤松勇树，刚刚入部就被部长二阶堂彩香授命，担任“人生相谈”板块的负责人。回应从学生处募集来的烦恼的是理科系女子 远藤梨乃、文科系女子九条文、体育会系铃木郁美三人，但是这三人的意见总是相悖……关于朋友、恋爱、学习、性癖、将来的事情，完美的回答你习以为常的烦 恼！超感性人生相谈开始！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/528ade131d41c810e503af5c/videos#c=episode"
+                }
+            },
+            "rating": 46,
+            "release": "2014-07-06T13:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "后宫",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Life",
+                "ja_JP": "人生",
+                "zh_CN": "人生相谈"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d6bf34f19c4ea167bf6fad1621883f7bb6ed5083/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "Space Dandy是宇宙侦探，同时他也是外星人猎人。 丹迪对未知的新型外星人进行探索与追捕，如果外星人被认定为新品种那么丹迪就可以奖金，颁发的准则是谁发现的早谁获得奖金。 因此外星人猎人的使命就是在宇宙中旅行，比任何人都早的发现无人知晓的新型外星人。 丹迪和他的机器人QT一起在宇宙中旅行，途中捡到了喵星人“喵”，并和各种未知的外星人相遇。 在宇宙的边境冒险，发现未知的外星人！这就是宇宙猎人的醍醐味！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Space_Dandy_Season_2/videos#c=episode"
+                }
+            },
+            "rating": 53,
+            "release": "2014-07-06T14:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "燃",
+                    "欢乐",
+                    "科幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Space ☆ Dandy (Season 2)",
+                "ja_JP": "スペース☆ダンディ (Season 2)",
+                "zh_CN": "太空丹迪 (第2季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/640e7275aeebf0f50625cdd6bdd43aa31db2a817/w220"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "帝都是一个充满可怕的城市，内里有贪污腐败的官员和没有实权的皇帝。然后，有一个名叫“Night Raid”（夜袭）的组织，以“正义”之名，去斩杀那些腐败官员。 塔兹米发现帝都的真面目后，便决意加入了Night Raid……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52d3716e1d41c864342ff0f1/videos#c=episode"
+                }
+            },
+            "rating": 80,
+            "release": "2014-07-06T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "催泪",
+                    "励志",
+                    "奇幻",
+                    "动作"
+                ]
+            },
+            "title": {
+                "en_GB": "Akame ga KILL!",
+                "ja_JP": "アカメが斬る!",
+                "zh_CN": "斩·赤红之瞳"
+            }
+        }
+    ]
+}

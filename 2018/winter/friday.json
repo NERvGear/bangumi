@@ -1,0 +1,329 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://pic2.qiyipic.com/image/20171215/bf/bd/a_100109551_m_601_m1_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "正在爆肝加班中的程序员，游戏中名为“佐藤”的铃木一郎（29岁）。原本应该在小睡片刻的他，回过神竟发现自己被放逐到了陌生的异世界。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh1oryd.html"
+                }
+            },
+            "rating": 70,
+            "release": "2018-01-11T16:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "穿越",
+                    "美食",
+                    "后宫",
+                    "龙傲天"
+                ]
+            },
+            "title": {
+                "en_GB": "从死亡之旅开始的异世界狂想曲",
+                "ja_JP": "デスマーチからはじまる異世界狂想曲",
+                "zh_CN": "爆肝工程师的异世界狂想曲"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/64f2a5e01f9cca99cef8e6e4415b9bb867281d0c.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "过着极其普通生活的男子高中生·柏木空，有一天突然从在埃及旅行自称“冒险家”的父亲那里送来一个木乃伊。“因为发现了一个有趣的木乃伊，所以先在你那里寄存一下！”父亲的信上这样写到，空被吓得不轻。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21720"
+                }
+            },
+            "rating": 30,
+            "release": "2018-01-12T07:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "喜剧",
+                    "宠物"
+                ]
+            },
+            "title": {
+                "en_GB": "木乃伊的饲养方法",
+                "ja_JP": "ミイラの飼い方",
+                "zh_CN": "小木乃伊到我家"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/97d8fde6b9b3783452e3109e0823fbf473c695c3.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "不愿继承家业粗点心店的鹿田九，与热爱粗点心的不可思议美少女·萤。萤为了让九继承粗点心店，而开始屡次造访店中。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21603"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-12T07:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "喜剧",
+                    "奶子"
+                ]
+            },
+            "title": {
+                "ja_JP": "だがしかし2",
+                "zh_CN": "粗点心战争 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9351ab9ddc3576c3275199d160eda2d4144ba311.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "二十岁的天月美知留由于工作调动来到东京。上京的她住在女性专用合租屋“Stella House春野”。虽然同住室友们的工作和年龄各不相同，但若有美酒佳肴的话，什么时候都很开心！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21594"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-12T07:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "品酒",
+                    "日常",
+                    "公寓",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "en_GB": "宅饮",
+                "ja_JP": "たくのみ。",
+                "zh_CN": "酒鬼妹子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://r1.ykimg.com/051600005A45A009ADBC094BCA0B075C"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "我，喜欢店长——”\r\n　　         曾是田径部的王牌，但由于某个事件而放弃跑步的17岁女高中生·橘晶。不擅长表现感情，总被人误会成待人冷淡的晶，其视线的前方是自己在打工的家庭餐厅“Garden”的万年店长·近藤正己。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://list.youku.com/show/id_zefbfbdefbfbd0360efbf.html"
+                }
+            },
+            "rating": 100,
+            "release": "2018-01-11T19:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "青春",
+                    "恋爱",
+                    "忘年恋",
+                    "倒A档"
+                ]
+            },
+            "title": {
+                "en_GB": "爱在雨过天晴时",
+                "ja_JP": "恋は雨上がりのように",
+                "zh_CN": "恋如雨止"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6283ab61cda2525f87a9481a4db5c9e10debd892.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n            哈库梅伊与蜜珂析。\r\n        　　在郁郁葱葱森林中生活着两个小小的女孩子。\r\n        　　依树洞建家、以叶片为伞、乘虫鸟而飞……身长九厘米，亦可为之。\r\n        　　不去偷偷看一下吗？她们那样安逸愉快，极其可爱的生活。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21717"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-12T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "治愈",
+                    "小人族",
+                    "童话风",
+                    "别样日常"
+                ]
+            },
+            "title": {
+                "en_GB": "哈库梅伊与蜜珂析",
+                "ja_JP": "ハクメイとミコチ",
+                "zh_CN": "妖精森林的小不点"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a70e608f6ea73ef2dc8ae987a85954d65fada537.jpg_225x300.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "\r\n        将自古以来威胁人世的异形存在·荒魂，以御刀祓除的神薙之巫女。以制服佩刀为主要装束的她们，被称作“刀使”。正式名称则是隶属警察组织的特别祭祀机动队。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21750"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-05T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "战斗",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "en_GB": "刀使的巫女",
+                "ja_JP": "刀使ノ巫女",
+                "zh_CN": "刀使巫女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ecb246e926c344840755701ffd36ee82cee7bd55.jpg_225x300.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        “你无论如何都有想要杀掉的人，无论怎样都想要杀人吗。”\r\n        福冈是个外表看起来很和平的城市，但暗中却蔓延着犯罪。如今在杀手行业的激战区，存在着专以杀手为目标的杀手——甚至出现了这样的都市传说。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/21769"
+                }
+            },
+            "rating": 44,
+            "release": "2018-01-12T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "都市",
+                    "群像",
+                    "杀手",
+                    "标题党"
+                ]
+            },
+            "title": {
+                "en_GB": "博多豚骨拉面",
+                "ja_JP": "博多豚骨ラーメンズ",
+                "zh_CN": "博多豚骨拉面团"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic1.qiyipic.com/image/20171220/c8/36/a_100109099_m_601_m1_195_260.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "\r\n        距今三千年余前的古中国，殷朝时代。当时的皇帝，纣王曾是一位文武双全的明君。但是，绝世美女妲己成为皇后之后，不知何时起这位明君如同丢了魂一般。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh1qpkt.html"
+                }
+            },
+            "rating": 44,
+            "release": "2018-01-12T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "神话",
+                    "再创作",
+                    "神仙打架",
+                    "有生之年"
+                ]
+            },
+            "title": {
+                "ja_JP": "覇穹 封神演義",
+                "zh_CN": "霸穹 封神演义"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic1.qiyipic.com/image/20171215/58/8f/a_100116626_m_601_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        日本恐怖漫画大师伊藤润二笔下的作品终于动画化了！本作收集了富江、十字路口的美少年、押切怪谈、双一等老师笔下知名的恐怖系列，相信喜欢老师的观众必定能享受到这一恐怖大餐！\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh1anh9.html"
+                }
+            },
+            "rating": 66,
+            "release": "2018-01-05T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "恐怖",
+                    "惊悚",
+                    "猎奇",
+                    "慎入"
+                ]
+            },
+            "title": {
+                "en_GB": "伊藤润二 Collection",
+                "ja_JP": "伊藤潤二『コレクション』",
+                "zh_CN": "伊藤润二 惊选集"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/2f/30/230764_aV4q2.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        世界中来自地狱的魔王们推进的“七大罪”开始蔓延。天界为了打破这种状况，送了七位天使去人间寻找具备“七种美德”的救世主候补。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/230764"
+                }
+            },
+            "rating": 22,
+            "release": "2018-01-26T15:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "神魔",
+                    "福利",
+                    "网盘见"
+                ]
+            },
+            "title": {
+                "en_GB": "THE SEVEN HEAVENLY VIRTUES",
+                "ja_JP": "七つの美徳",
+                "zh_CN": "七美德"
+            }
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8732c37be58b87dc0bbe7347621206ff5c793ec5.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　乐于助人的鸠谷小羽，在初中即将毕业时了解到了啦啦队活动并被其所吸引，在高中与有过啦啦队活动经验的有马日诘、青梅竹马的猿渡宇希一起成立了啦啦队同好会。\r\n　　她们那积极乐观、拼命努力的啦啦队活动，今天也能让他人精神振奋！！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md139392/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-10-07T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "萌豚",
+                    "治愈",
+                    "百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Anima Yell!",
+                "ja_JP": "アニマエール！",
+                "zh_CN": "Anima Yell!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e8f69149d5cba4a333938e71b74c00cf90f0d99c.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　本田挺身战斗！与工作！！与绝版！！与爱着漫画的人们！！\r\n　　没听说过书店的漫画区竟是个如此爆笑的地方！\r\n　　从某书店的漫画区为您送上洋溢着漫画之爱的日报。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md134952/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-10-07T16:45:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "喜剧",
+                    "日常"
+                ]
+            },
+            "title": {
+                "en_GB": "Gaikotsu Shotenin Honda-san",
+                "ja_JP": "ガイコツ書店員本田さん",
+                "zh_CN": "书店里的骷髅店员本田"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/638638a4a165ecad9954c10cd2115fcf7b800be8.jpg@450w_600h.jpg"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "　　生态系崩坏的肉弹battle。\r\n　　被称作肌肉斗争。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102672/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-01T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "格斗",
+                    "文艺复兴"
+                ]
+            },
+            "title": {
+                "en_GB": "Baki",
+                "ja_JP": "バキ",
+                "zh_CN": "新·刃牙"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/74209aab1b6a61614a0fa278da1078aa8698ed4b.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“弦音” 放箭之时，鸣响的弓弦之音。对于射手而言，让美妙的弦音响起便是一种喜悦，这一美妙的声音，能够紧紧抓住人们的心灵。即使同一个人使用同样的工具，也无法发出同样的弦音，正所谓一期一会。每一次发射，都是一生仅有一次的“相遇”与“别离”。对于鸣宫凑而言，弦音是一切“相遇”的开始……。如嫩叶般新鲜的高中一年级少年们，开始步上无尽的弓之道。他们通过弓道，经历着一生仅有一次、无可替代的经验，并获得了“同伴”。如同穿透树木的阳光一般，眩目的青春“弓道”动画，开幕！ "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md139292/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-10-14T17:10:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "青春",
+                    "友情",
+                    "竞技",
+                    "京阿尼"
+                ]
+            },
+            "title": {
+                "en_GB": "Tsurune: Kazemai Koukou Kyuudoubu",
+                "ja_JP": "ツルネ -風舞高校弓道部-",
+                "zh_CN": "弦音 -风舞高中弓道部-"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://lain.bgm.tv/pic/cover/c/18/86/217300_WGgTy.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　矗立百年岁月，将人类与世隔绝的城墙。城墙那侧未知的世界，广袤无垠。火焰之水、冰之大地、砂之雪原…… 书中记载的词语撩动着少年的探究心。不久之后的现在，城墙被巨人破坏，人类正一步一步接近世界的真相。巨人的真面目究竟是什么？为什么城墙中埋藏着巨人？巨人化的艾伦·耶格尔所持的“坐标”之力是什么？此外，希斯托利亚·雷斯知道这个世界怎样的秘密？随着104期兵的加入，利威尔班形成了新的体制。行动开始后，最强最恶的敌人出现在他们面前。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md117372/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-22T18:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "战斗",
+                    "奇幻",
+                    "猎奇"
+                ]
+            },
+            "title": {
+                "en_GB": "Shingeki no Kyojin Season 3",
+                "ja_JP": "進撃の巨人 Season 3",
+                "zh_CN": "进击的巨人 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://puui.qpic.cn/vcover_vt_pic/0/1lcp2pf46ms2r3o1530186053/0"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "      暴力的妹妹…欧打笨蛋的哥哥！？兄弟爱！恋！美食家…？全部加入的学园喜剧。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://v.qq.com/detail/1/1lcp2pf46ms2r3o.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-02T04:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "搞笑",
+                    "日常",
+                    "无厘头"
+                ]
+            },
+            "title": {
+                "en_GB": "Please Take My Brother Away 2",
+                "ja_JP": "兄に付ける薬はない！2",
+                "zh_CN": "快把我哥带走2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://imgs.aixifan.com/cms/2018_09_28/1538133142276.png?imageView2/1/w/225/h/300"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　2018年，10月。住在某地方都市的少女们，举行了某个仪式。她们是“矿石收音机研究会”。那是性格开朗的女孩子土宫明日架，与同所高中的朋友们所成立的社团。这个仅仅只是充满了都市传说味道的仪式，却在数种条件偶然重合之下，演变成了无法一笑了之的事态——。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.acfun.cn/bangumi/aa5022158"
+                }
+            },
+            "rating": 60,
+            "release": "2018-10-01T11:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "青春",
+                    "社团",
+                    "SF"
+                ]
+            },
+            "title": {
+                "en_GB": "The Girl in Twilight ",
+                "ja_JP": "あかねさす少女",
+                "zh_CN": "茜色少女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/live/33e150abbebaa8f81f8269deda96759230880875.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　在第一季故事结束的两年后，麒麟和犀为了实现成为偶像的梦想，坚持不懈地练习舞蹈，唱歌以及时尚感。BunnyP看到她们这么努力，便提议她们一起去参加Al偶像界最盛大的活动【Fever Pitch Fes】。尽管对于比赛严格的参加条件感到有点不安，且因为近期Al界产生的不明干扰电波也受到了一定的影响，但两人还是决定参加这场Al偶像界的梦想盛会。在重重干扰下，两人经过坚持不懈的训练变得越来越合拍。她们能否在【Fever Pitch Fes】的舞台上夺得桂冠呢？这是一个由横跨中日两国、虚实空间的偶像和各位观众一同创造的故事。通过实时直播的CG技术，您的参与将会改变故事的走向！尽请期待直播动画麟&犀Al韵律！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://space.bilibili.com/181559741/#/"
+                }
+            },
+            "rating": 20,
+            "release": "2018-10-08T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "中日合作",
+                    "偶像",
+                    "直播"
+                ]
+            },
+            "title": {
+                "en_GB": "Live Animation Heart × Algorhythm 2nd Season ",
+                "ja_JP": "直感×アルゴリズム♪ 2期",
+                "zh_CN": "麟&犀×AI韵律♪ 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic7.iqiyipic.com/image/20180925/fc/70/a_100117438_m_601_m3_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　为了实现日俄战争中死去好友寅次，临死之前「治好我妻子眼睛」的愿望，军人杉元为了筹集到金钱而从东京前往北海道，因为传说在北海道土著阿依努族中有大批金块存在，而在旅途中杉元结识了土著阿依努人女孩阿希莉。在阿希莉被熊袭击时，杉元及时出手救了女孩，杉元一方面感叹阿希莉所拥有的猎人技能和知识，但也知道阿希莉的父亲为了保护金块被人杀死。于是杉元向阿希莉提出自己只要能完成朋友遗愿的那部分金块，剩下的金块都给阿希莉作为替父亲报酬的资金，作为交换阿希莉要和自己一起去寻找金块，于是二人踏上寻找黄金的征途。另一方面，驻守在北海道第七师团也涉及到黄金寻宝当中蠢蠢欲动——"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh1gx6l.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-10-08T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "冒险",
+                    "美食",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "en_GB": "Golden Kamuy 2nd Season",
+                "ja_JP": "ゴールデンカムイ 2期",
+                "zh_CN": "黄金神威 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/c/d1/46/262112_X22Pp.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "基于布料越少防御能力越强的神秘准则，制造出让女性冒险者可以轻装上阵又能发挥强大保护作用的防具，就是这家防具店的宗旨！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/262112"
+                }
+            },
+            "rating": 20,
+            "release": "2018-10-08T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "漫改"
+                ]
+            },
+            "title": {
+                "en_GB": "Armor Shop for Ladies & Gentlemen ",
+                "ja_JP": "おとなの防具屋さん",
+                "zh_CN": "大人的防具店"
+            }
+        }
+    ]
+}

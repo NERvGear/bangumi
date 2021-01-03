@@ -1,0 +1,300 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cc27b47f07d14e3de0f6f7d60ede625fb9ae9727.png@450w_600h.png"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "《One Room》的舞台，发生在“主角（One）的居室（Room）”当中。观众们将会跟三位少女轮番邂逅，并跟三位少女展开一段以主角的居室为中心的故事"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md103032/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-02T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "恋爱",
+                    "第一视角",
+                    "新老婆"
+                ]
+            },
+            "title": {
+                "en_GB": "One Room 2nd Season",
+                "ja_JP": "One Room 第2期",
+                "zh_CN": "One Room 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3ee353d6d1a62712340d7b6a6ae26c5c097abffa.jpg_225x300.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　《苍天之拳》是北斗1800年的历史上最奔放苛烈、被称为最强的“第62代北斗神拳传承者霞拳志郎”的故事。这样的《苍天之拳》在原作者原哲夫的监修下，新的TV动画复苏！\r\n　　其名为《苍天之拳 REGENESIS》。\r\n　　最强北斗神拳传承者·霞拳志郎的人生信条，一起来见证吧！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://bangumi.bilibili.com/anime/23868"
+                }
+            },
+            "rating": 40,
+            "release": "2018-04-02T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "动作",
+                    "热血",
+                    "3DCG",
+                    "文艺复兴"
+                ]
+            },
+            "title": {
+                "en_GB": "Souten no Ken Re:Genesis",
+                "ja_JP": "蒼天の拳 REGENESIS",
+                "zh_CN": "苍天之拳 REGENESIS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://2img.hitv.com/preview/internettv/sp_images/ott/2018/dongman/322751/20180330182310111-new.jpg"
+            },
+            "episode": 52,
+            "intro": {
+                "zh_CN": "　　转入南葛小学的天才足球少年大空翼，在与若林源三、日向小次郎等来自全国各地的对手们对战的过程中，作为一个足球选手不断成长的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.mgtv.com/h/322751.html"
+                }
+            },
+            "rating": 70,
+            "release": "2018-04-02T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "运动",
+                    "足球",
+                    "热血",
+                    "文艺复兴"
+                ]
+            },
+            "title": {
+                "en_GB": "Captain Tsubasa",
+                "ja_JP": "キャプテン翼",
+                "zh_CN": "足球小将"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b0e49708533244ea59635b42282edf25bc499eab.jpg@450w_600h.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　喜爱室内活动、有恐高症的葵，在高中入学时与青梅竹马日向重逢，在日向的影响下，体验了登山等户外活动。葵渐渐发现了登山的乐趣。她们的季节从夏到秋。登山的机会逐渐增加，接下来去攀登哪一座山呢？葵总是这样想着。为了达成“登顶富士山”的目标而不断增强体力，葵变得积极挑战新户外活动。日向感受到她内心的坚强… 欢笑、泪水、登山… 尽情登山乐在其中的高中女孩们书写的“向山进发”。备受期待的第三季，终于开山！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102152/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-02T18:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "百合",
+                    "运动",
+                    "爬山真开心"
+                ]
+            },
+            "title": {
+                "en_GB": "Yama no Susume: Third Season",
+                "ja_JP": "ヤマノススメ サードシーズン",
+                "zh_CN": "向山进发 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dc17f4a6a4859e0ca7372b41fefdc4326fc29c9f.png_225x300.png"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "　　在电脑假象空间中，享受用钢普拉执行各种各样的任务的乐趣。最新款的网络游戏《钢普拉对战:NEXUSOnline（简称GBN）》。中学生米卡米利库和好朋友西塔卡尤吉欧把同级生夏洛摩摩卡给卷入了进来，进入这个广阔的世界。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/23595"
+                }
+            },
+            "rating": 60,
+            "release": "2018-04-03T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "机战",
+                    "热血"
+                ]
+            },
+            "title": {
+                "en_GB": "Gundam Build Divers",
+                "ja_JP": "ガンダムビルドダイバーズ",
+                "zh_CN": "高达创形者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg_225x300.jpg"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "　　眼看人类就要被魔神灭亡了…\r\n　　拯救了这一切的，仅仅是一名魔道士。\r\n　　他被称为“魔法帝”，成为了传说——\r\n　　在某个魔法至上的世界——\r\n　　生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6422"
+                }
+            },
+            "rating": 70,
+            "release": "2017-10-03T10:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "奇幻",
+                    "魔法",
+                    "热血",
+                    "咆哮帝"
+                ]
+            },
+            "title": {
+                "en_GB": "Black Clover",
+                "ja_JP": "ブラッククローバー",
+                "zh_CN": "黑色五叶草"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/84ee83f62b58c31455747e1cd503e2f5d26629ae.jpg@450w_600h.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "      熟悉的偶像们，今天也是非常地吵闹，包含平常未被描写的偶像们度过假期的方式，和偶像们的搞笑剧等丰富多彩内容的短篇动画，终于要开幕了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md103012/"
+                }
+            },
+            "rating": 40,
+            "release": "2018-07-03T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "偶像",
+                    "百合",
+                    "搞笑",
+                    "Q版"
+                ]
+            },
+            "title": {
+                "en_GB": "THE IDOLM@STER Cinderella Girls Theater 3rd Season",
+                "ja_JP": "アイドルマスター シンデレラガールズ劇場 第3期",
+                "zh_CN": "偶像大师 灰姑娘女孩剧场 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b308ed7b60b8f7ff70f8a122adeb75914702611f.jpg@450w_600h.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　时间为2138年。曾卷起一大风潮的虚拟现实体感型网络游戏《YGGDRASIL》即将迎来停服。玩家飞鼠在曾经以同伴和荣华自傲的根据地纳萨力克地下大坟墓，独自一人安静等待着那一刻。但是，不料发生了“过了结束时间却还没有登出”的异常事态。NPC们开始以自己的意志行动，不止如此，纳萨力克之外展开了从未见过的异世界。飞鼠为了寻找过去的同伴，以公会名安兹·乌尔·恭自称，决定在异世界扬名立万。他与宣誓绝对忠诚的部下一同，向新的地域进军。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102252"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-10T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "装逼",
+                    "奇幻",
+                    "斗智斗勇",
+                    "骨傲天"
+                ]
+            },
+            "title": {
+                "en_GB": "Overlord III ",
+                "ja_JP": "オーバーロードIII",
+                "zh_CN": "OVERLORD 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/067c41930ed0be6fac3882ddf37fe5a3702798b2.png@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　古枪 vs 现代枪，绝望之战——全世界因核战争而荒废，在那之后——。笼罩世界帝府的绝对统治之下，人们全都受到管制在被夺走了自由的世界中生存。但，在一切武力均被禁止之时，还存在着为了打破世界帝的独裁而暗中持续抗战的反抗运动。他们手持作为美术品留下的“古枪”，发起挑战。以及，如同呼应其灵魂般现身的古枪化身“贵铳士”。高贵华丽地战斗的他们所拥有的“绝对高贵”，给世界带来一线希望——！获得生命，生机勃勃地闪耀光辉的年轻贵铳士们的日常。欢笑、哭泣、喜悦、迷茫、时而受伤，即使如此也一心追求自身的“绝对高贵”而战的美丽年轻人们的故事。我们为何而战，又应守护何物——。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102832/"
+                }
+            },
+            "rating": 70,
+            "release": "2018-07-03T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "手游改",
+                    "乙女向",
+                    "枪男人"
+                ]
+            },
+            "title": {
+                "en_GB": "Senjuushi",
+                "ja_JP": "千銃士",
+                "zh_CN": "千铳士"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic1.qiyipic.com/image/20180401/aa/3d/a_100137083_m_601_195_260.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　恐怖的大王跨海而来！\r\n　　从崭新的视点描绘中世纪动摇日本的大事件“元寇”，镰仓武士·朽井迅三郎在流放犯人的对马岛，与蒙古岛兵刃相接！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrgytfb1.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-10T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "战争",
+                    "历史",
+                    "元朝"
+                ]
+            },
+            "title": {
+                "en_GB": "Angolmois: Genkou Kassenki",
+                "ja_JP": "アンゴルモア 元寇合戦記",
+                "zh_CN": "Angolmois 元寇合战记"
+            }
+        }
+    ]
+}

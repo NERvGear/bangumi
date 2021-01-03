@@ -1,0 +1,261 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cb6631b1e4906f60b5362aa8f72061b14a67636f/w220"
+            },
+            "intro": {
+                "zh_CN": "第三期将继续围绕着人气角色星宫莓的同时，迎来新人大空明的活跃表现。在前辈们的悉心照顾下，她将与同年级的龙崎紫罗兰、新条雏姫一起，以顶尖偶像为目标而努力。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53d725da1d41c83235049172/videos#c=episode"
+                }
+            },
+            "rating": 13,
+            "release": "2014-10-03T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "励志",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "zh_CN": "偶像活动! (第3季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/63628b02420184e69e1384bcc1cda19231f85db5/w220"
+            },
+            "intro": {
+                "zh_CN": "故事讲述了拥有少见才能的中学男生钢琴师有马公生，和小提琴手女生宫园薰共同努力、成长的青春物语。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/531840a71d41c843551ba4a7/videos#c=episode"
+                }
+            },
+            "rating": 86,
+            "release": "2014-10-09T16:15:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "音乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Shigatsu wa Kimi no Uso",
+                "ja_JP": "四月は君の嘘",
+                "zh_CN": "四月是你的谎言"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9871f5296b5dc4f1373998011ab04db066f63973/w220"
+            },
+            "intro": {
+                "zh_CN": "中学二年级的学生町子凉，因父母双方都身在海外工作，而原本照顾着自己的奶奶也已过世，开始独自生活后的凉才发现自己料理手艺退步的非常严重，开始后悔当初没有听奶奶的话进行厨艺训练。就在某一天家中突然来了一名寄宿少女——森野麒麟，在凉为麒麟作了一道火锅后才发现，原来变差的并不是手艺，而是因为餐桌上没有其他人陪伴的关系。以温暖人心的料理为重心，凉与麒麟的同局生活才正要开始！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/539ab1aa1d41c814a7915bad/videos#c=episode"
+                }
+            },
+            "rating": 58,
+            "release": "2015-01-08T16:46:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "萌",
+                    "百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Happy Cooking Graffiti",
+                "ja_JP": "幸腹グラフィティ",
+                "zh_CN": "幸腹涂鸦"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/aa88d9c0e1011aa8fcfa85c624853f8f5ddd3a79/w220"
+            },
+            "intro": {
+                "zh_CN": "地球突然出现总称为龙的怪物，从此世界为之一变，终於人类之中也诞生拥有龙之力，称之为“D”的异能少女们。某一天，世界唯一的男性“D”物部悠，带著一张调职令，来到聚集了全世界的“D”的学园密得加尔，在那里，他看到银发少女伊莉丝的裸体，又与三年前分离的妹妹深月再会，就此展开了在密得加尔的学生生活，在得知龙会以“D”为目标袭击而来，悠於是和少女们一起，展开了一连串与龙的战斗。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53abc18a1d41c86541d3adfa/videos#c=episode"
+                }
+            },
+            "rating": 26,
+            "release": "2015-01-08T17:16:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "卖肉",
+                    "魔幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Unlimited Fafnir Anime",
+                "ja_JP": "銃皇無尽のファフニール",
+                "zh_CN": "铳皇无尽的法夫纳"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/f429bb835fe1b08c5e898cdcc7a073accddfa3b7/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "HEAVEN AND EARTH2年半后，西历2151年―交战规定阿尔法，是人类禁忌的指令。二代目乙姫，其名为皆城织姬，新的篇章拉开帷幕……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/532e6e541d41c8591387589b/videos#c=episode"
+                }
+            },
+            "rating": 82,
+            "release": "2015-01-08T17:19:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "科幻",
+                    "战争"
+                ]
+            },
+            "title": {
+                "ja_JP": "蒼穹のファフナー Dead Aggressor - EXODUS",
+                "zh_CN": "苍穹的法芙娜 EXODUS"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/76f0fc777bdcd7b41729b2667b2186f97e6d1222/w220"
+            },
+            "intro": {
+                "zh_CN": "1989年，日本。乔纳森·乔斯达与DIO决战后的一百年，DIO复活了。同时，乔瑟夫的孙子，空条承太郎发现自己有幽波纹（替身）能力，DIO的复活影响了没有替身抵抗能力的母亲，陷入病危情况；为了拯救命在旦夕的母亲，承太郎与乔瑟夫出发前往DIO的所在地——埃及……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/543143cf1d41c8273ff1e01e/videos#c=episode"
+                }
+            },
+            "rating": 91,
+            "release": "2015-01-09T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "奇幻",
+                    "冒险",
+                    "动作",
+                    "变身"
+                ]
+            },
+            "title": {
+                "en_GB": "JoJo's Bizarre Adventure: Star Crusaders (Part 2 - Egypt)",
+                "ja_JP": "ジョジョの奇妙な冒険 スターダストクルセイダース（後半 - エジプト編）",
+                "zh_CN": "JOJO的奇妙冒险（第3部）：星尘斗士（后半 - 埃及篇）"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9bf48c989f1999b08be15cb6a47e38b9d2e36276/w220"
+            },
+            "intro": {
+                "zh_CN": "改编自同名卡牌游戏，部分主创人员来自于《偶像大师》TV动画版。预计2015年1月开播。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5340fca91d41c869c7ff03e8/videos#c=episode"
+                }
+            },
+            "rating": 67,
+            "release": "2015-01-09T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "改编",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "en_GB": "The IDOLM@STER Cinderella Girls",
+                "ja_JP": "アイドルマスター シンデレラガールズ",
+                "zh_CN": "偶像大师 灰姑娘女孩"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b898f4b98ddefbf1788b2e87f100146065d597e9/w220"
+            },
+            "intro": {
+                "zh_CN": "独自生活的贫穷高中生浅野真一郎，在级任老师的推荐下，来到校内同学年的岛津朔邪家打工当帮佣。真一郎才刚来到岛津家，就莫名其妙地被卷入与妖魔战斗的情况中！而且他还发现了原来封魔除妖是岛津朔邪的维生工作。就这样，真一郎打工帮佣的内容除了家事之外，还包括必须帮助岛津封魔除妖……而在各种因缘际会之下，事态突然出现激烈的转变!?"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53a0f85a1d41c848edc0be74/videos#c=episode"
+                }
+            },
+            "rating": 23,
+            "release": "2015-01-22T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "喜剧",
+                    "冒险",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "ISUCA",
+                "ja_JP": "ISUCA",
+                "zh_CN": "ISUCA 依丝卡"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/2ed1770d024f5e4cffaaae2b1efd791463f1a199/w220"
+            },
+            "intro": {
+                "zh_CN": "《动画心疗系》（アニメで分かる心療内科）改编自ゆうき ゆう的漫画《漫画心疗系》（マンガで分かる心療内科），原作插画由ソウ负责。本作由身心科里专业的医师、心理师与护士用搞笑妄想浅显易懂的方式，向各位介绍何谓“身心科”（鬼才信）。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/543b51741d41c84a7ecce543/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2015-02-12T20:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "泡面番",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "en_GB": "Anime Psychosomatic Medicine",
+                "ja_JP": "アニメで分かる心療内科",
+                "zh_CN": "动画心疗系"
+            }
+        }
+    ]
+}

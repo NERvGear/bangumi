@@ -1,0 +1,249 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://d.hiphotos.baidu.com/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=96bb7d9e3101213fdb3e468e358e5db4/35a85edf8db1cb1352ff7554d554564e93584be6.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "主要讲述在日本最大的监狱中，4个碎碎念囚犯不断逼疯狱卒的黑白来爆笑喜剧。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5548"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-04T19:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "喜剧",
+                    "日常",
+                    "搞笑"
+                ]
+            },
+            "title": {
+                "ja_JP": "ナンバカ",
+                "zh_CN": "黑白来看守所"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://d.hiphotos.baidu.com/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=a4ae6b988135e5dd8421ad8d17afcc8a/6d81800a19d8bc3e5a598d00868ba61ea9d345a3.jpg"
+            },
+            "intro": {
+                "zh_CN": "夏目与各种各样的妖怪与善良人们相遇，在构筑温暖的场所同时，也反复寄托着想要守护重要之物的想法。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5550"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-04T19:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "妖怪",
+                    "治愈"
+                ]
+            },
+            "title": {
+                "ja_JP": "夏目友人帳",
+                "zh_CN": "夏目友人帐第五季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://e.hiphotos.baidu.com/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=9d30c884b851f819e5280b18bbdd2188/0bd162d9f2d3572cb5fdd2738213632762d0c306.jpg"
+            },
+            "intro": {
+                "zh_CN": "某日，伢叔被吸入马桶中，获得了拯救地球的重要使命，而形象却从高富帅变成了矮挫丑。与此同时，外星侵略者如期而至。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5430"
+                }
+            },
+            "rating": 23,
+            "release": "2016-10-06T02:37:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "国漫",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "2BHERO",
+                "ja_JP": "トゥ・ビー・ヒーロー(ToBeHERO)",
+                "zh_CN": "凸变英雄"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://upload.cccnews.com.cn/2016/0311/1457676982689.jpg"
+            },
+            "intro": {
+                "zh_CN": "三人是唯一能拯救地球免受巨大陨石群毁灭的救星。她们被神秘组织代表小夜雇佣，当三人准备好成为偶像时，她们却进入了街机游戏里。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5555"
+                }
+            },
+            "rating": 23,
+            "release": "2016-10-05T15:15:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "偶像",
+                    "泡面"
+                ]
+            },
+            "title": {
+                "en_GB": "cranegamegirls",
+                "ja_JP": "Crane Game Girl ",
+                "zh_CN": "美少女游戏组合第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://a.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=46760f28fe246b606f03ba268a917129/11385343fbf2b2116b6cd435c28065380cd78e0f.jpg"
+            },
+            "intro": {
+                "zh_CN": "《NAZOTOKINE》剧情梗概仍未公开"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5557"
+                }
+            },
+            "rating": 66,
+            "release": "2016-10-05T15:28:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "推理",
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "NAZOTOKINE",
+                "ja_JP": "ナゾトキネ",
+                "zh_CN": "解谜之音"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://h.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=6c40f0e8a11ea8d39e2f7c56f6635b2b/1ad5ad6eddc451dade714bb8b1fd5266d11632d9.jpg"
+            },
+            "intro": {
+                "zh_CN": "作品主要是围绕着龟井户高校网球部的4个女生而展开的滑稽搞笑日常生活。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5561"
+                }
+            },
+            "rating": 66,
+            "release": "2016-10-05T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "泡面",
+                    "百合"
+                ]
+            },
+            "title": {
+                "ja_JP": "てーきゅう",
+                "zh_CN": "网球并不可笑嘛第八季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://g.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=78cf21efd8160924c828aa49b56e5e9f/6a63f6246b600c3349769871124c510fd9f9a178.jpg"
+            },
+            "intro": {
+                "zh_CN": "由于进入了禁止入内的仓库而被逐出本宅，被下令住到别馆的“奇异太郎”。在那里遇到了座敷童子“铃”，与并不可怕的怪异们度过的日常就此开始了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5556"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-05T13:33:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "妖怪",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "ja_JP": "奇異太郎少年的妖怪繪畫日記",
+                "zh_CN": "奇异太郎少年的妖怪绘画日记"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://d.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=4a8140e4d02a6059461de948495d5ffe/94cad1c8a786c91764b0fe14ce3d70cf3bc7576f.jpg"
+            },
+            "intro": {
+                "zh_CN": "“不会捡到‘这样的东西’……。”虽然变身成魔法少女，却对于变身后的装束泳装无论如何都没法习惯的柚华。究竟柚华接受魔法少女的那一天会不会到来呢！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5560"
+                }
+            },
+            "rating": 66,
+            "release": "2016-10-05T13:38:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "马猴烧酒",
+                    "搞笑"
+                ]
+            },
+            "title": {
+                "en_GB": "MahouShoujoNanteMouiidesukara.",
+                "ja_JP": "魔法少女なんてもういいですから。",
+                "zh_CN": "魔法少女什么的已经够了啦"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://a.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=6659f118c31349546a13e0363727f93d/d0c8a786c9177f3e5f8fb59478cf3bc79e3d56eb.jpg"
+            },
+            "intro": {
+                "zh_CN": "最近有一直没有在动的肌肉吗？通过动画一起愉快地运动，流下痛快的汗水吧！比前一期更上一层楼的锻炼种目满载！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5558"
+                }
+            },
+            "rating": 22,
+            "release": "2016-10-05T13:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "运动",
+                    "泡面"
+                ]
+            },
+            "title": {
+                "ja_JP": "あにトレ！XX〜ひとつ屋根の下で〜",
+                "zh_CN": "动画锻炼！第二季"
+            }
+        }
+    ]
+}

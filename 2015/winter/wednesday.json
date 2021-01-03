@@ -1,0 +1,150 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/15c553f996dadf950017e13d29296b8411c31f2f/w220"
+            },
+            "intro": {
+                "zh_CN": " 主角在某个暑假上山捉虫的时候偶然发现了树下摆着一台破旧的扭蛋机，当他掏出身上唯一一枚硬币拧出扭蛋之后，却打开了不可思议的潘多拉的盒子。这扭蛋中飞出一只自称为“妖怪执事维斯帕”的幽灵，从此以后，主角就可以看到身边出现的各种不可思议的妖怪了。遇到困难的时候可以用硬币召唤妖怪，并且可以借助妖怪的力量，例如可以让人说出真相的“真言婆婆”，以及可以与恶灵对抗的拳师猫!"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/妖怪手表/videos#c=episode"
+                }
+            },
+            "rating": 9,
+            "release": "2014-01-08T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "欢乐",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "Youkai Watch",
+                "ja_JP": "妖怪ウォッチ",
+                "zh_CN": "妖怪手表"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c7a28e5013ea7ade08835fc90e42a1098011489f/w220"
+            },
+            "intro": {
+                "zh_CN": "《敢达创战者》（英语：GUNDAM Build Fighters）为预定2013年10月7日起于东京电视台播放的日本电视动画。本作品为包含《SD敢达FORCE》与《SD 敢达三国传BraveBattleWarriors》在内的“敢达系列”第15部作品、同时也是系列再次以将敢达系列作品中的兵器立体化的塑胶模型产品，通称“GUNPLA”的系列为主题的作品。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Gundam_Build_Fighters_Try/videos#c=episode"
+                }
+            },
+            "rating": 59,
+            "release": "2014-10-08T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创",
+                    "燃",
+                    "励志",
+                    "竞技",
+                    "机战",
+                    "体育"
+                ]
+            },
+            "title": {
+                "en_GB": "Gundam Build Fighters Try",
+                "ja_JP": "ガンダムビルドファイターズトライ",
+                "zh_CN": "高达创战者 Try"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/762dbf61441ee9a5514c0e43a89f29c2dfac817a/w220"
+            },
+            "intro": {
+                "zh_CN": "网络动画《Wake Up, Girl Zoo!》（うぇいくあっぷがーるZOO！）是原创动画系列《Wake Up, Girls!》的番外篇。还记得本篇中7位少女在本作中主角们穿上小动物玩偶装去做天气预报的场景吗？在此番外篇中，Wake Up, Girls!（WUG）的7位少女再次穿上这些服装，并全员萌化！本系列计划共10集。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/wake_up_girls_zoo/videos#c=episode"
+                }
+            },
+            "rating": 72,
+            "release": "2014-11-12T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "泡面番",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "en_GB": "Wake Up, Girl Zoo!",
+                "ja_JP": "うぇいくあっぷがーるZOO！",
+                "zh_CN": "Wake Up, Girl Zoo!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e521e952eef24fc5f3dad1c8bde751a21def902d/w220"
+            },
+            "intro": {
+                "zh_CN": "《凭物语》（憑物語）改编自西尾维新所著同名轻小说，为继《化物语》、《伪物语》、《猫物语》、《物语系列 第2季》之后的第五部“物语系列”电视动画（《花物语》算作系列第二季），也是“物语系列”终季的首部改编动画。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/544776fa1d41c8273f0a0952/videos#c=episode"
+                }
+            },
+            "rating": 85,
+            "release": "2014-12-31T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "憑物語",
+                "zh_CN": "凭物语"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4ed1ca7edf02066f9cc37fc257a3a21a3f8cfaa6/w220"
+            },
+            "intro": {
+                "zh_CN": "平凡御宅高中生矢野宗平与中尉ルト和少尉ハルカ的4格喜剧漫画。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53d5fdf11d41c83237811418/videos#c=episode"
+                }
+            },
+            "rating": 11,
+            "release": "2015-01-07T14:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "战争"
+                ]
+            },
+            "title": {
+                "en_GB": "Military!",
+                "ja_JP": "みりたり!",
+                "zh_CN": "军人少女!"
+            }
+        }
+    ]
+}

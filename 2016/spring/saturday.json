@@ -1,0 +1,390 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e22a1bd68fd5539109bc2d6f24fe0260f5fe21d2/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45a551d41c804ee88e5e7/videos#c=episode"
+                }
+            },
+            "rating": 76,
+            "release": "2016-04-01T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Terra Formars Revenge",
+                "ja_JP": "テラフォーマーズリベンジ",
+                "zh_CN": "火星异种 复仇"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/eb8d14faff259d8c589834163cafe18fdac59b55/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45b0a1d41c84caa42369c/videos#c=episode"
+                }
+            },
+            "rating": 39,
+            "release": "2016-04-01T19:52:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "BONOBONO",
+                "ja_JP": "ほのぼの",
+                "zh_CN": "暖暖日记"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3ae68b49a272f8b5b72a541f6173071ca925f05b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5aff11d41c84caa4310fc/videos#c=episode"
+                }
+            },
+            "rating": 2,
+            "release": "2016-04-01T20:25:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Panpaka Pants W-O-New!",
+                "ja_JP": "パンパカパンツ WおNEW！",
+                "zh_CN": "胖胖裤猪 W-O-NEW"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/c0ad639c14120a85a88dccb30aae927086a20662/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5af5c1d41c84caa431083/videos#c=episode"
+                }
+            },
+            "rating": 8,
+            "release": "2016-04-01T23:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Future Card Buddyfight DDD",
+                "ja_JP": "フューチャーカード バディファイトトリプルディー",
+                "zh_CN": "未来卡搭档对战DDD"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/29d8455bc1665e1c5f5f9d1c341cc7b8bae5b2e1/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5afbc1d41c85c0bc75c41/videos#c=episode"
+                }
+            },
+            "rating": 5,
+            "release": "2016-04-02T03:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Aggressive Retsuko",
+                "ja_JP": "アグレッシブ烈子",
+                "zh_CN": "Aggressive烈子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/85fc570d42d0be18e1a53767966551de28521c26/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45a701d41c84caa42363e/videos#c=episode"
+                }
+            },
+            "rating": 58,
+            "release": "2016-04-02T08:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Ace Attorney",
+                "ja_JP": "逆転裁判",
+                "zh_CN": "逆转裁判"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8c5abce72aea17a9d075f037d66d3118112e934a/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45a961d41c85c0bc6329c/videos#c=episode"
+                }
+            },
+            "rating": 85,
+            "release": "2016-04-02T13:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "The Asterisk War S2",
+                "ja_JP": "学戦都市アスタリスク後半クール",
+                "zh_CN": "学战都市 Asterisk 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/83175348965eb92d868ffde8fdefdf3e17a82b4b/w220"
+            },
+            "episode": 12,
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f8223d1d41c8051af55e01/videos#c=episode"
+                }
+            },
+            "rating": 23,
+            "release": "2016-04-02T15:56:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Ragna Strike Angels",
+                "ja_JP": "ラグナストライクエンジェルズ",
+                "zh_CN": "Ragna Strike Angels"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/326423de881d2bb11013ccb3b3979fb027faba31/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4614f1d41c85c0bc6391b/videos#c=episode"
+                }
+            },
+            "rating": 79,
+            "release": "2016-04-08T17:10:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "mayoiga",
+                "ja_JP": "迷家‐マヨヒガ‐",
+                "zh_CN": "迷家"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/32fdf565421131f92619c1ae6e860668df6adbeb/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f461691d41c85c0bc63935/videos#c=episode"
+                }
+            },
+            "rating": 54,
+            "release": "2016-04-09T08:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Rin-ne S2",
+                "ja_JP": "境界のRINNE第2シリーズ",
+                "zh_CN": "境界之轮回 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/80a61f3600a8a1a913bd1da0650c1a350073157b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f461841d41c85c0bc63949/videos#c=episode"
+                }
+            },
+            "rating": 73,
+            "release": "2016-04-09T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Tanaka-kun wa Itsumo Kedaruge",
+                "ja_JP": "田中くんはいつもけだるげ",
+                "zh_CN": "田中君总是如此慵懒"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/48611a30f2ef4bbb10c7c22af7232c4f036638f4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4619e1d41c85c0bc63963/videos#c=episode"
+                }
+            },
+            "rating": 77,
+            "release": "2016-04-09T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kiznaiver",
+                "ja_JP": "キズナイーバー",
+                "zh_CN": "制约之绊"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b8a49025dcaf01dd892cdddad9fe51d22ae413cb/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f461b71d41c85c0bc63976/videos#c=episode"
+                }
+            },
+            "rating": 72,
+            "release": "2016-04-09T15:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Hai-Furi",
+                "ja_JP": "はいふり",
+                "zh_CN": "青春波纹"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9ba63a92f87de14b4c12cea2abe8eadaa315a94c/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f463111d41c85c0bc63aa5/videos#c=episode"
+                }
+            },
+            "rating": 51,
+            "release": "2016-04-15T16:40:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Big Order",
+                "ja_JP": "ビッグオーダー",
+                "zh_CN": "至高指令"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/9cf21fb78e7bf3d745f613dc522aa5d0d2eec568/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f464731d41c84caa423d48/videos#c=episode"
+                }
+            },
+            "rating": 52,
+            "release": "2016-04-15T17:40:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Magi: Adventure of Sinbad",
+                "ja_JP": "マギ シンドバッドの冒険",
+                "zh_CN": "魔笛MAGI 辛巴德的冒险"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/aac63a7d9e3fa204b28aa196c006afb8cac67e3b/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4648e1d41c84caa423d5d/videos#c=episode"
+                }
+            },
+            "rating": 19,
+            "release": "2016-04-15T22:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kamiwaza Wanda",
+                "ja_JP": "カミワザ・ワンダ",
+                "zh_CN": "神技旺达"
+            }
+        }
+    ]
+}

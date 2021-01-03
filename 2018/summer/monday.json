@@ -1,0 +1,268 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a74b3efe4406cbfa36e124079c27e73a141cb7fb.jpg@450w_600h.jpg"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　少女们飞翔，跳跃，追赶——\r\n　　目标是全国高等学校综合体育大会，描绘县立北小町高中羽毛球部的轨迹，漫画《轻羽飞扬》备受期待的动画化！\r\n　　逃避羽毛球的一年生羽咲绫乃，目标是日本第一日夜练习的三年生荒垣渚。支撑着羽毛球部的伙伴和教练，以及个性洋溢的对手们。\r\n　　超高速飞翔的羽毛球上承载着梦想，青春羽毛球物语开幕！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102412"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-01T16:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "运动",
+                    "羽毛球",
+                    "热血"
+                ]
+            },
+            "title": {
+                "en_GB": "Hanebado!",
+                "ja_JP": "はねバド！",
+                "zh_CN": "轻羽飞扬"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/638638a4a165ecad9954c10cd2115fcf7b800be8.jpg@450w_600h.jpg"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "　　生态系崩坏的肉弹battle。\r\n　　被称作肌肉斗争。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102672/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-01T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "格斗",
+                    "文艺复兴"
+                ]
+            },
+            "title": {
+                "en_GB": "Baki",
+                "ja_JP": "バキ",
+                "zh_CN": "新·刃牙"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/12014338f3c5bc350b95e71d619750441d6044f2.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　阿红和清次姐弟，在江户的深川仲町经营出租店·出云屋。所谓的出租店，是将从日用品到古董品、美术品等各种物品以某种价格借给客户的生意。只不过这间出云屋所经营的道具，与其他店的物品有所不同，那就是制造超过百年以上的物品会化作拥有灵魂的“付丧神”这种像是妖怪一样的东西。被租借给客人后产生各种故事，传出各种流言的“付丧神”。为人善良的阿红和清次，借助这些“付丧神”的力量，解决小镇上发生的大大小小各种骚动。兴盛于江户小镇的“付丧神”与人类所编制而成的或悲或喜的人情故事，请深入骨髓地尽情享受吧——。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102712/"
+                }
+            },
+            "rating": 80,
+            "release": "2018-07-22T17:10:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "鬼怪",
+                    "治愈"
+                ]
+            },
+            "title": {
+                "en_GB": "Tsukumogami Kashimasu",
+                "ja_JP": "つくもがみ貸します",
+                "zh_CN": "付丧神出租中"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://r1.ykimg.com/0516000058D09D77ADBAC317A1040CE0"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "      继《银魂》动画最终篇《银之魂篇1》，《银之魂篇2》也将于2018年7月开始播出。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://list.youku.com/show/id_zcc0026e0962411de83b1.html"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-08T17:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "热血",
+                    "无厘头",
+                    "无节操"
+                ]
+            },
+            "title": {
+                "en_GB": "Gintama.: Silver Soul Arc 2",
+                "ja_JP": "銀魂. 銀ノ魂篇 第2クール",
+                "zh_CN": "银魂. 银之魂篇 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic4.qiyipic.com/image/20180509/52/c6/a_100145667_m_601_195_260.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“京都寺町三条的福尔摩斯”是京都的一家小古董店，在这里打工的女高中生真城葵，遇到了古董店店主的孙子。和被周围称做“寺町三条的福尔摩斯”的青年·家头清贵，解决一个个与古董相关的奇妙委托的解密故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrgxdbdp.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-08T18:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "推理",
+                    "恋爱"
+                ]
+            },
+            "title": {
+                "en_GB": "Holmes at Kyoto Teramachi Sanjo ",
+                "ja_JP": "京都寺町三条のホームズ",
+                "zh_CN": "京都寺町三条商店街的福尔摩斯"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://lain.bgm.tv/pic/cover/c/18/86/217300_WGgTy.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　矗立百年岁月，将人类与世隔绝的城墙。城墙那侧未知的世界，广袤无垠。火焰之水、冰之大地、砂之雪原…… 书中记载的词语撩动着少年的探究心。不久之后的现在，城墙被巨人破坏，人类正一步一步接近世界的真相。巨人的真面目究竟是什么？为什么城墙中埋藏着巨人？巨人化的艾伦·耶格尔所持的“坐标”之力是什么？此外，希斯托利亚·雷斯知道这个世界怎样的秘密？随着104期兵的加入，利威尔班形成了新的体制。行动开始后，最强最恶的敌人出现在他们面前。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md117372/"
+                }
+            },
+            "rating": 100,
+            "release": "2018-07-22T18:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "战斗",
+                    "奇幻",
+                    "猎奇"
+                ]
+            },
+            "title": {
+                "en_GB": "Shingeki no Kyojin Season 3",
+                "ja_JP": "進撃の巨人 Season 3",
+                "zh_CN": "进击的巨人 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://puui.qpic.cn/vcover_vt_pic/0/1lcp2pf46ms2r3o1530186053/0"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "      暴力的妹妹…欧打笨蛋的哥哥！？兄弟爱！恋！美食家…？全部加入的学园喜剧。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://v.qq.com/detail/1/1lcp2pf46ms2r3o.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-02T04:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "搞笑",
+                    "日常",
+                    "无厘头"
+                ]
+            },
+            "title": {
+                "en_GB": "Please Take My Brother Away 2",
+                "ja_JP": "兄に付ける薬はない！2",
+                "zh_CN": "快把我哥带走2"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://pic6.qiyipic.com/image/20171231/f9/ff/a_100119291_m_601_195_260.jpg"
+            },
+            "episode": 26,
+            "intro": {
+                "zh_CN": "　　继承了过世祖父看得见妖怪能力的女大学生津場木葵，突然被绑架到了住着妖怪的老旅馆“天神屋”。困惑的葵得知，父亲留下了巨额债务并将她作为“担保品”，嫁给妖怪。不愿从命的葵想出一计，她发誓要在天神屋工作还债……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/a_19rrh0gytx.html"
+                }
+            },
+            "rating": 60,
+            "release": "2018-04-09T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "美食",
+                    "旅馆",
+                    "妖怪",
+                    "神魔"
+                ]
+            },
+            "title": {
+                "en_GB": "Kakuriyo no Yadomeshi",
+                "ja_JP": "かくりよの宿飯",
+                "zh_CN": "妖怪旅馆营业中"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1cb9e69812d7227fdb0bf5bf4eb45662fef8ea60.jpg@450w_600h.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　一位少女与恶魔邪神酱展开稍有危险的同居生活喜剧！\r\n      魔界的恶魔，人称邪神酱。有一天突然被人间界召唤，召唤她的是住在神保町公寓，内心稍有黑暗的女大学生花园百合铃。虽然召唤了邪神酱，但她却不知道如何将她送回魔界。邪神酱与百合铃没有办法只好一起生活。邪神酱说，“召唤者死亡的话我就能回魔界了”。于是邪神酱的行动是……？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md102112/"
+                }
+            },
+            "rating": 60,
+            "release": "2018-07-09T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "百合",
+                    "搞笑",
+                    "人外",
+                    "魔幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Dropkick On My Devil!!",
+                "ja_JP": "邪神ちゃんドロップキック",
+                "zh_CN": "邪神与厨二病少女"
+            }
+        }
+    ]
+}

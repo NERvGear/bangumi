@@ -1,0 +1,104 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6110fa1b851500665dc2a7abff48972ba5e122a9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45fd41d41c8051af45a8f/videos#c=episode"
+                }
+            },
+            "rating": 22,
+            "release": "2016-04-06T09:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Twin Star Exorcists",
+                "ja_JP": "双星の陰陽師",
+                "zh_CN": "双星之阴阳师"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/5b306da92768fcb1046a5ec81a5d342b588db3de/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577570981d41c82f870fb791/videos#c=episode"
+                }
+            },
+            "rating": 30,
+            "release": "2016-07-06T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Fate/kaleid liner Prisma Illya 3rei! ",
+                "ja_JP": "Fate/kaleid liner プリズマ☆イリヤ ドライ！！",
+                "zh_CN": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a89b853716d6754b8bc77e3c60a0d6c70e5a3b2d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/577571171d41c81e64be05eb/videos#c=episode"
+                }
+            },
+            "rating": 23,
+            "release": "2016-07-06T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Tsukiuta. THE ANIMATION",
+                "ja_JP": "ツキウタ。 THE ANIMATION",
+                "zh_CN": "月歌。THE ANIMATION"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b1472865b087479bc2fe86482d86241a8400f71e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/57756a871d41c8307e662912/videos#c=episode"
+                }
+            },
+            "rating": 78,
+            "release": "2016-07-13T15:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Battery",
+                "ja_JP": "バッテリー",
+                "zh_CN": "野球少年"
+            }
+        }
+    ]
+}

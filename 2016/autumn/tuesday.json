@@ -1,0 +1,167 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://2t.5068.com/uploads/allimg/160407/1-16040F92F1.jpg"
+            },
+            "intro": {
+                "zh_CN": "王者陷落，迎来波澜起伏时代的中学女子乒乓球界。来到雀原中学的转学生•旋风小依，卷起了一阵新风……！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5539"
+                }
+            },
+            "rating": 66,
+            "release": "2016-10-03T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "运动",
+                    "乒乒球",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "ja_JP": "灼熱の卓球娘",
+                "zh_CN": "灼热的乒乓球娘"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://upload.shunwang.com/2016/0602/1464835623787.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "他为了能够死亡，选择了侦探之路……时值2030年代。聚集于谜之侦探•明智小五郎身边的「少年侦探团」，他们凭借着自己的行动力，解决了许多大大小小的事件。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5542"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-03T17:15:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "侦探"
+                ]
+            },
+            "title": {
+                "ja_JP": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
+                "zh_CN": "TRICKSTER─江户川乱步少年侦探团"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://f.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=571ce4867cf40ad101e9cfb136457aba/f7246b600c338744b69ffcc2560fd9f9d72aa032.jpg"
+            },
+            "intro": {
+                "zh_CN": "战国时代，有一位仰慕着织田信长的少女，被信长的梦想所吸引的她笑着说道“我要成为信长大人的忍者！”目标只有一个，那就是天下布武！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5549"
+                }
+            },
+            "rating": 100,
+            "release": "2016-10-04T13:55:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "卖萌",
+                    "泡面"
+                ]
+            },
+            "title": {
+                "ja_JP": "信長の忍び",
+                "zh_CN": "信长的忍者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://d.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b7ee7506de88d43fe4a499a01c77b97e/42166d224f4a20a40dceeeb498529822730ed0f5.jpg"
+            },
+            "intro": {
+                "zh_CN": "在釜谷市的天万神社做着巫女工作的初中2年生，皇缠。向往着平凡而安稳的日常得到的，却是被神明附身的驱除恶灵的能力！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/5552"
+                }
+            },
+            "rating": 48,
+            "release": "2016-10-04T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "巫女",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "ja_JP": "装神少女まとい",
+                "zh_CN": "装神少女小缠"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://a.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=c24c68654290f60310bd9415587bd87e/4d086e061d950a7b4ac6aa9002d162d9f3d3c9f7.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "莫名其妙之中，三国时代的名将魏延出现在了孙宸的眼前，试图要取他性命！千钧一发之际，一名神秘的美少女站在了孙宸的身前。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.youku.com/show_page/id_z457c1f335aab11e6b9bb.html?spm=a2h0k.8191407.0.0"
+                }
+            },
+            "rating": 22,
+            "release": "2016-10-04T09:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "热血",
+                    "三国",
+                    "国漫"
+                ]
+            },
+            "title": {
+                "ja_JP": "ソウルバスター",
+                "zh_CN": "侍灵演武"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://h.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=ac6107d270f0f736ccf344536b3cd87c/2f738bd4b31c8701a68e834b2f7f9e2f0708ff66.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "考场即战场，这是刻苦学习的L型学生和擅长特殊手段的C型学生间的比试。C型主角诸葛睦明与L型妹妹黄巧衣，怀抱着同一个目标，向特测发起了挑战！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.tudou.com/programs/view/84tlCBof9v4/"
+                }
+            },
+            "rating": 26,
+            "release": "2016-10-04T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "国漫",
+                    "轻改"
+                ]
+            },
+            "title": {
+                "en_GB": "CHEATINGCRAFT",
+                "ja_JP": "チーティングクラフト",
+                "zh_CN": "一课一练"
+            }
+        }
+    ]
+}

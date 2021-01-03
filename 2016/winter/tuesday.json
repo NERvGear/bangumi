@@ -1,0 +1,190 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/340c302ab85663c5309c1f472c2aa7bcaee6a326/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56040aad1d41c849eb2d27d3/videos#c=episode"
+                }
+            },
+            "rating": 100,
+            "release": "2015-10-05T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Osomatsu-san",
+                "ja_JP": "おそ松さん",
+                "zh_CN": "小松君"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0acecaa24b5522db5d65e9d44afab5b7e47c269d/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567d53851d41c808a1f169dd/videos#c=episode"
+                }
+            },
+            "rating": 97,
+            "release": "2016-01-05T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Prince of Stride: Alternative",
+                "ja_JP": "プリンス・オブ・ストライド　オルタナティブ",
+                "zh_CN": "疾走王子"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/10ac64ac0a021c06de7d05879f3c46a1dc36a7c8/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567de1a91d41c80180adcdd5/videos#c=episode"
+                }
+            },
+            "rating": 4,
+            "release": "2016-01-05T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Kono Danshi, Mahou ga Oshigoto Desu.",
+                "ja_JP": "この男子、魔法がお仕事です。",
+                "zh_CN": "这个男人、工作是魔法"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/77b6ba4c48ad5e6bb27a027dacd469ca9aa2e9a2/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567ddade1d41c80180adc84e/videos#c=episode"
+                }
+            },
+            "rating": 19,
+            "release": "2016-01-11T16:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "A Simple Thinking About Blood Type S4",
+                "ja_JP": "血液型くん！4期",
+                "zh_CN": "血型君！4期"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/180ae6306433c82c96edc2d648026c92ddad1189/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567dda621d41c80180adc805/videos#c=episode"
+                }
+            },
+            "rating": 21,
+            "release": "2016-01-11T16:08:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Teekyu Season 7",
+                "ja_JP": "てーきゅう 7期",
+                "zh_CN": "网球少女 第七季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/752f9bdd9d3f84174a5762eefee62c2e61b3002e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/567ddb8f1d41c8064100d0a5/videos#c=episode"
+                }
+            },
+            "rating": 17,
+            "release": "2016-01-11T16:11:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Mahou Shoujo Nante Mou Ii Desukara.",
+                "ja_JP": "魔法少女なんてもういいですから。",
+                "zh_CN": "魔法少女什么的已经够了啦。"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e0f9e54126514865480686aec5eb41247683023a/w220"
+            },
+            "intro": {
+                "zh_CN": "那是一个在空中飞行就像是骑脚踏车般一样简单的世界。现在正流行的运动是「Flying Circus」。以前曾备受期待的主角，因一场压倒性的败北所带来的挫折感，让他是离开了这项运动。但在和转学生仓科明日香的相遇下，藉由指导她在天空飞的方法，让他是找回了往日对「Flying Circus」的热情。改变立场，再次踏上「Flying Circus」的舞台。牵着明日香的手的主角，这次究竟能飞多高呢。这是一部因「飞翔」而邂逅的两人，与同伴们交织而成的青春恋爱物语。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5464d3f71d41c87525d4c23b/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2016-01-11T17:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "日常",
+                    "喜剧",
+                    "科幻",
+                    "情感",
+                    "后宫",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Ao no Kanata no Four Rhythm",
+                "ja_JP": "蒼の彼方のフォーリズム",
+                "zh_CN": "苍之彼方的四重奏"
+            }
+        }
+    ]
+}

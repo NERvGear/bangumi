@@ -1,0 +1,205 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/911063b2fe8b989f23feda469755e79ff23e3246/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "为了使火星变得适合人类居住，21世纪中期有两种生物被人类实验性的放到了火星，其中之一就是改良”叠层岩“后得到的藻类，另外一种是以藻类为食并且有很强繁殖能力的昆虫——蟑螂。被人类疏远、厌恶、杀害的那种昆虫，他们即将对人类展开了反击！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/TERRA_FORMARS_TVA/videos#c=episode"
+                }
+            },
+            "rating": 85,
+            "release": "2014-09-26T15:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "催泪",
+                    "冒险",
+                    "动作",
+                    "战争",
+                    "悬疑"
+                ]
+            },
+            "title": {
+                "en_GB": "TERRA FORMARS",
+                "ja_JP": "テラフォーマーズ",
+                "zh_CN": "火星异种"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8e0f23bf1819247584987affeb1bd55b5ca727d7/w220"
+            },
+            "intro": {
+                "zh_CN": "由クール教信者创作的网络连载的漫画作品《旦那が何を言っているかわからない件》其在 natalie 上公布预计将于 2014 年推出改编的动画作品。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/539134ba1d41c8787202b6eb/videos#c=episode"
+                }
+            },
+            "rating": 21,
+            "release": "2014-10-02T16:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐"
+                ]
+            },
+            "title": {
+                "ja_JP": "旦那が何を言っているかわからない件",
+                "zh_CN": "关于完全听不懂老公在说什么的事"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/fab99df0a7240a1d23cb95a930c9c127d3c3547e/w220"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "“虽然我知道很冒失……但我还是想问。可儿江，和我一起去游乐园好吗？”谜之美少女转校生：千斗五十铃放学后在教室中向可儿江提出约会的邀请。转学第一天就在学校内引起轰动的美女约自己出来？旁人看来应该不是什么坏主意。但是——实际上，被邀请时有把枪顶在自己太阳穴上。看来不得不答应她了。于是两人走向了“甘城光辉游乐园”。这是一个以“在此约会必定失败”而出名的公园。在那里，西也被引荐给“真正的公主”拉提法。拉提法说道“我想把这个 甘城光辉游乐园 委托给你管理”……啊，为什么是我啊！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52d625f31d41c815169d2c8d/videos#c=episode"
+                }
+            },
+            "rating": 93,
+            "release": "2014-10-02T18:04:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "喜剧",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "en_GB": "Amagi Brilliant Park",
+                "ja_JP": "甘城ブリリアントパーク",
+                "zh_CN": "甘城光辉游乐园"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/cb6631b1e4906f60b5362aa8f72061b14a67636f/w220"
+            },
+            "intro": {
+                "zh_CN": "第三期将继续围绕着人气角色星宫莓的同时，迎来新人大空明的活跃表现。在前辈们的悉心照顾下，她将与同年级的龙崎紫罗兰、新条雏姫一起，以顶尖偶像为目标而努力。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53d725da1d41c83235049172/videos#c=episode"
+                }
+            },
+            "rating": 10,
+            "release": "2014-10-03T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "励志",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "zh_CN": "偶像活动! (第3季)"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/63628b02420184e69e1384bcc1cda19231f85db5/w220"
+            },
+            "intro": {
+                "zh_CN": "故事讲述了拥有少见才能的中学男生钢琴师有马公生，和小提琴手女生宫园薰共同努力、成长的青春物语。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/531840a71d41c843551ba4a7/videos#c=episode"
+                }
+            },
+            "rating": 65,
+            "release": "2014-10-09T16:15:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "励志",
+                    "音乐"
+                ]
+            },
+            "title": {
+                "en_GB": "Shigatsu wa Kimi no Uso",
+                "ja_JP": "四月は君の嘘",
+                "zh_CN": "四月是你的谎言"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0c66e3ba1e16e181d18513f53e09b3eca27c0634/w220"
+            },
+            "intro": {
+                "zh_CN": "喜欢双马尾。世界之所以美丽，就是因为有双马尾存在。超爱双马尾的高中1年级生观束总二突然某一天，遇见了来自异世界的少女托亚尔，并获得了变身幼女战士，并和来自异世界的怪物们展开战斗！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52afd15c1d41c842134233f8/videos#c=episode"
+                }
+            },
+            "rating": 55,
+            "release": "2014-10-09T16:33:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "卖肉",
+                    "伪娘"
+                ]
+            },
+            "title": {
+                "ja_JP": "俺、ツインテールになります。",
+                "zh_CN": "我，要成为双马尾"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/3c74d65ea549608f5d5f0ebc13f94755e91ba08f/w220"
+            },
+            "intro": {
+                "zh_CN": "结城友奈是初中2年级学生，她天天在学校里过着与很多朋友一同听课、进行社团活动、玩耍的平稳生活。不管怎么看这都是非常普通的女孩的生活日程，但是只有一点与其他孩子决定性不同的地方，那就是她所属的名为“勇者部”的社团活动。以部长犬吠埼风为中心的该社团的活动内容与被谜团包围的叫做Vertex的不可思议的存在有关系，本作正是以描写友奈等人的“勇者部”的活动为主。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/53d5db5a1d41c8323855da6e/videos#c=episode"
+                }
+            },
+            "rating": 82,
+            "release": "2014-10-16T17:34:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "日常",
+                    "喜剧",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Yūki Yūna wa Yūsha de Aru",
+                "ja_JP": "結城友奈は勇者である",
+                "zh_CN": "结城友奈是勇者"
+            }
+        }
+    ]
+}

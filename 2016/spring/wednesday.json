@@ -1,0 +1,124 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d636b28b2b2130a4b6b84187b1921194b7191364/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45fa81d41c85c0bc637aa/videos#c=episode"
+                }
+            },
+            "rating": 33,
+            "release": "2016-04-06T08:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Battle Spirits Double Drive",
+                "ja_JP": "バトルスピリッツ ダブルドライブ",
+                "zh_CN": "Battle Spirits Double Drive"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6110fa1b851500665dc2a7abff48972ba5e122a9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45fd41d41c8051af45a8f/videos#c=episode"
+                }
+            },
+            "rating": 89,
+            "release": "2016-04-06T09:25:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Twin Star Exorcists",
+                "ja_JP": "双星の陰陽師",
+                "zh_CN": "双星之阴阳师"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/47837490e0ce11b5956b3af053746139e9383a24/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45fbf1d41c85c0bc637b3/videos#c=episode"
+                }
+            },
+            "rating": 32,
+            "release": "2016-04-06T09:45:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Neko Neko Nihonshi",
+                "ja_JP": "ねこねこ日本史",
+                "zh_CN": "猫猫日本史"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8ec19c9177c5ed43c799057a9d6043a891dd18ac/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f5aec41d41c84caa431023/videos#c=episode"
+                }
+            },
+            "rating": 13,
+            "release": "2016-04-06T13:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Bishoujo Yuugi Unit Crane Game Girls",
+                "ja_JP": "美少女遊戯ユニット クレーンゲール",
+                "zh_CN": "美少女游戏组合 抓娃娃机少女"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d57a1f83b00a024b7ca46189f0dda094ce82bd09/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45fec1d41c85c0bc637d2/videos#c=episode"
+                }
+            },
+            "rating": 44,
+            "release": "2016-04-06T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "SUPER LOVERS",
+                "ja_JP": "SUPER LOVERS",
+                "zh_CN": "SUPER LOVERS"
+            }
+        }
+    ]
+}

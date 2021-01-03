@@ -1,0 +1,33 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/71656f549b878b180f58ab81f0b59bcc6afd20ca/w220"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "动画《法兰雀丝卡》的主人公法兰雀丝卡是北海道的不死系偶像，她在活着的时候，有着阴暗的过去，因此死后经常忘记东西。常常会肚子饿，所以很喜欢吃。总是喜欢追女孩子的驱魔师总是和法兰雀丝卡一起行动。还有许多和北海道历史有因缘的人物也都会登场哦。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52c61f8c1d41c82e23c5d2b1/videos#c=episode"
+                }
+            },
+            "rating": 4,
+            "release": "2014-07-10T00:00:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "欢乐",
+                    "萌"
+                ]
+            },
+            "title": {
+                "en_GB": "Francesca: Girls Be Ambitious",
+                "ja_JP": "フランチェスカ",
+                "zh_CN": "法兰雀丝卡"
+            }
+        }
+    ]
+}

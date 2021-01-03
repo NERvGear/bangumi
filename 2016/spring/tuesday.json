@@ -1,0 +1,196 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/e01d539a254473ae38e6146501b9f59c3418ffb1/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45f061d41c804ee88e75e/videos#c=episode"
+                }
+            },
+            "rating": 86,
+            "release": "2016-04-04T16:35:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Seisen Cerberus: Ryūkoku no Fatalite",
+                "ja_JP": "聖戦ケルベロス　竜刻のファタリテ",
+                "zh_CN": "圣战刻耳柏洛斯 龙刻的灾祸"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/de41684fc77ad4281e157a12921cd92eea168714/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45f231d41c84caa423992/videos#c=episode"
+                }
+            },
+            "rating": 83,
+            "release": "2016-04-04T17:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Hundred",
+                "ja_JP": "ハンドレッド",
+                "zh_CN": "Hundred 百武装战记"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/d8d89e38db746383eba5e8180f2f285cee3a15ea/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45f391d41c85c0bc63747/videos#c=episode"
+                }
+            },
+            "rating": 35,
+            "release": "2016-04-05T08:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "PriPara S3",
+                "ja_JP": "プリパラ 3rdシーズン",
+                "zh_CN": "PriPara 星光乐园 第三季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a370ebdd828a76a22f098febf5d29c13b1210c60/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45f521d41c84caa4239b8/videos#c=episode"
+                }
+            },
+            "rating": 42,
+            "release": "2016-04-05T09:45:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Shounen Ashibe: Go! Go! Goma-chan",
+                "ja_JP": "少年アシベ GO！GO！ゴマちゃん",
+                "zh_CN": "少年阿贝 GO！ GO！小芝麻"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7ad691294dfb63df1b34d8e2c231adf7e061d896/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45f6a1d41c85c0bc63771/videos#c=episode"
+                }
+            },
+            "rating": 38,
+            "release": "2016-04-05T12:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Hakuōki Otogisōshi",
+                "ja_JP": "薄桜鬼～御伽草紙～",
+                "zh_CN": "薄樱鬼 ～御伽草子～"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/244dc846e368697f328615be33ff4dc8239be46e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f45f8d1d41c85c0bc63789/videos#c=episode"
+                }
+            },
+            "rating": 60,
+            "release": "2016-04-05T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Joker Game",
+                "ja_JP": "ジョーカー・ゲーム",
+                "zh_CN": "代号D机关"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/1236a6b68d7c1783e0d173447650de259f87b612/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f462bf1d41c8051af45b01/videos#c=episode"
+                }
+            },
+            "rating": 26,
+            "release": "2016-04-11T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Usakame",
+                "ja_JP": "うさかめ",
+                "zh_CN": "Usakame"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/8fd3a95eec5c5880fc5274bbeab41eda76f285de/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f462d71d41c84caa423c51/videos#c=episode"
+                }
+            },
+            "rating": 70,
+            "release": "2016-04-11T16:10:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Wagamama High Spec",
+                "ja_JP": "ワガママハイスペック",
+                "zh_CN": "任性HighSpec"
+            }
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/5d/70/222425_JMn2k.jpg"
+            },
+            "intro": {
+                "zh_CN": "某特设的续作动画！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/222425"
+                }
+            },
+            "rating": 10,
+            "release": "2017-10-06T16:23:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "en_GB": "-VANISHING LINE-",
+                "ja_JP": "牙狼＜GARO＞ -VANISHING LINE-",
+                "zh_CN": "牙狼 VANISHING LINE"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/03/89/131901_D08Nz.jpg"
+            },
+            "episode": 18,
+            "intro": {
+                "zh_CN": "生活在“诹访原市”，极其普通的学生藤井莲因为和好友游佐司狼互殴决斗，然后绝交。即便如此青梅竹马绫濑香纯还有前辈冰室玲爱一同在回归学院生活……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6430"
+                }
+            },
+            "rating": 10,
+            "release": "2017-10-06T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "游戏改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Dies irae",
+                "zh_CN": "神怒之日"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/47/df/211068_49qlq.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "世界并不美丽。但正因如此，世界才如此美丽。时隔多年的续作！！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://www.iqiyi.com/v_19rrdxtcj4.html"
+                }
+            },
+            "rating": 100,
+            "release": "2017-10-06T17:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "轻小说改编改编"
+                ]
+            },
+            "title": {
+                "en_GB": "the Beautiful World- the Animated Series",
+                "ja_JP": "キノの旅 -the Beautiful World- the Animated Series",
+                "zh_CN": "（新）奇诺之旅"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/80/f2/195937_NtG8e.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "\r\n        前6话《鹫尾须美之章》，后6话《勇者之章》。\r\n        　　这是三个勇者的故事。\r\n        　　被神选中的少女们的童话。\r\n        　　总有一天，会与神初次见面的纯洁少女。\r\n        　　然后，在多数情况下，它的结局是——\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6448"
+                }
+            },
+            "rating": 71,
+            "release": "2017-10-06T19:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "续作"
+                ]
+            },
+            "title": {
+                "ja_JP": "結城友奈は勇者である -鷲尾須美の章- / -勇者の章-",
+                "zh_CN": "结城友奈是勇者 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/f1/91/212315_8wigs.jpg"
+            },
+            "episode": 25,
+            "intro": {
+                "zh_CN": "在高中生音羽歌苗担任房东的洋房里集合了众多自称“克拉斯卡劳埃德”的人物。贝多芬或者莫扎特等，自称与实际存在的音乐家们同名的他们果真是天才！演奏拥有不可思议力量的音乐“ムジーク”，接二连三引发了各种异想天开的事情。像是变成鱼，或是宇宙人造访，在早已大混乱的日常里，德沃夏克和瓦格纳的加入让音羽馆更加热闹喧嚣。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6454"
+                }
+            },
+            "rating": 40,
+            "release": "2017-10-07T11:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Classicaloid 第二季",
+                "ja_JP": "クラシカロイド 第2シリーズ",
+                "zh_CN": "克拉斯卡劳埃德 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/97/51/144043_fFhxX.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "全身寄宿着猛毒，被人们称为怪物的少女卡尔蒂亚，遇见了夜晚的盗贼绅士阿尔塞·鲁邦。这便是，这个被鲁邦引导至“钢铁都市伦敦”的少女，在从未涉足的土地上和形形色色的人们相遇，渐渐地得到爱情的故事。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6435"
+                }
+            },
+            "rating": 63,
+            "release": "2017-10-07T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "游戏改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Code:Realize",
+                "ja_JP": "Code:Realize ～創世の姫君～",
+                "zh_CN": "Code:Realize ~创世的姬君~"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/2f/07/214799_K51M3.jpg"
+            },
+            "intro": {
+                "zh_CN": "\r\n        距今遥远的未来，\r\n        我们成为了“宝石”......\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6434"
+                }
+            },
+            "rating": 60,
+            "release": "2017-10-07T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "漫改",
+                    "战斗"
+                ]
+            },
+            "title": {
+                "ja_JP": "宝石の国",
+                "zh_CN": "宝石之国"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/ed/d0/220848_PNs63.jpg"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "侧车竞赛就是两人一组驾驶侧车的竞速赛事。宫田百合和目黑惠就是一对关系有点复杂却又默契的女子高中生侧车手搭档……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.tv/subject/220848"
+                }
+            },
+            "rating": 10,
+            "release": "2017-10-07T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Two Car",
+                "ja_JP": "つうかあ",
+                "zh_CN": "侧车搭档"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/bc/63/208930_tlTlS.jpg"
+            },
+            "intro": {
+                "zh_CN": "被315Pro所发掘的男性偶像们，有的曾经是律师、有的曾经是外科医、有的曾经是飞行员……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6431"
+                }
+            },
+            "rating": 50,
+            "release": "2017-10-07T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "手机游戏改编"
+                ]
+            },
+            "title": {
+                "en_GB": "THE iDOLM@STER SideM",
+                "ja_JP": "アイドルマスター SideM",
+                "zh_CN": "偶像大师SideM"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/67/17/202261_XBqUs.jpg"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "并非此处的世界，并非此时的时代。 被称作将军的执政者们所治理的草原与沙漠的国度·土耳基将国"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6320"
+                }
+            },
+            "rating": 60,
+            "release": "2017-07-07T17:25:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Shoukoku no Altair",
+                "ja_JP": "将国のアルタイル",
+                "zh_CN": "将国之天鹰星"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://lain.bgm.tv/pic/cover/l/d1/71/210272_JIkpK.jpg"
+            },
+            "intro": {
+                "zh_CN": "\r\n        位于静冈县沼津市海边小镇·内浦的私立浦之星女学院。\r\n        在骏河湾一角的这所小小高中，以二年级高海千歌为中心的9名少女，怀抱着远大的梦想挺身而出。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6433"
+                }
+            },
+            "rating": 70,
+            "release": "2017-07-08T14:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Love Live! Sunshine!! 第二季",
+                "ja_JP": "ラブライブ! サンシャイン!! 第2期",
+                "zh_CN": "Love Live! Sunshine!! 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=94c0bd9d861001e94e3c130980351cd1/cefc1e178a82b9017d9c3747788da9773912ef95.jpg"
+            },
+            "episode": 6,
+            "intro": {
+                "zh_CN": "\r\n        《告白实行委員会》系列新TV动画。\r\n        在《初恋的绘本》和《一分一秒你和我》所描绘的故事之上加入更多新要素，来描绘芹泽春辉和合田美樱的青春。\r\n      "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://bangumi.bilibili.com/anime/6470"
+                }
+            },
+            "rating": 30,
+            "release": "2017-11-24T16:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创动画"
+                ]
+            },
+            "title": {
+                "ja_JP": "いつだって僕らの恋は10センチだった。",
+                "zh_CN": "无论何时我们的恋情都是10厘米。～告白实行委员会～"
+            }
+        }
+    ]
+}

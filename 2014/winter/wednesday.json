@@ -1,0 +1,156 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/db533a71a703c8cdc1c34b01621f53f283597825/w220"
+            },
+            "episode": 51,
+            "intro": {
+                "zh_CN": "圣灵破碎者全集动画讲述的是主角将透过装有名为“铠金属”（ガイメタル）的道具“铠机”（ガイフォン），穿上特殊的“铠装甲”（ガイストギア），为了保卫地球和平与同样装备了铠金属的神秘金属生命体“铠兽”（ガイスト）对战。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/52368a2d1d41c81888d6d743/videos#c=episode"
+                }
+            },
+            "rating": 7,
+            "release": "2013-10-02T09:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "动作",
+                    "冒险"
+                ]
+            },
+            "title": {
+                "en_GB": "Gaist Crusher",
+                "ja_JP": "ガイストクラッシャー",
+                "zh_CN": "圣灵破碎者"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/0baec6508df3bcefea650a5e2c8a03ada31f3b62/w220"
+            },
+            "intro": {
+                "zh_CN": "「T宝的悲惨日常」的主人公是生活在互联网上的像兔子一样的谜之生物T宝，在可爱的外表下拥有一颗腹黑的心，本作品描写的就是T宝有一些粗野却又不甚粗野的日常。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/527082991d41c81e4064817c/videos#c=episode"
+                }
+            },
+            "rating": 14,
+            "release": "2014-01-07T16:35:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "喜剧"
+                ]
+            },
+            "title": {
+                "en_GB": "Wooser's Hand-to-Mouth Life 2",
+                "ja_JP": "うーさーのその日暮らし 2",
+                "zh_CN": "T宝的悲惨日常 第二季"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ecef46f804d1c7baf92ce72fa283481fbfdb3718/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "“minimum”——小小的奇迹。极少部分人类先天便拥有这种异能。 2014年，奈斯与紫两人组成侦探组合“滨虎”，把咖啡店“Nowhere”的一角当成事务所。 两人提到一件委托，他们发现这与旧识警察亚特正在追查的连环杀人案有异曲同工之处——被害者全部都是“minimum”能力者。 同为能力者的奈斯和紫也被卷入了案子…… 为了实现愿望，年轻人们贯彻“觉悟”进行战斗，跌宕起伏的战斗剧就此开始——"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/525397941d41c8488496fae7/videos#c=episode"
+                }
+            },
+            "rating": 79,
+            "release": "2014-01-07T16:40:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "燃",
+                    "奇幻",
+                    "冒险",
+                    "悬疑"
+                ]
+            },
+            "title": {
+                "en_GB": "HAMATORA the Animation",
+                "ja_JP": "ハマトラ THE ANIMATION",
+                "zh_CN": "滨虎"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/ad7ce1c838fe3dbaa64d8af76557bf80a4712b0b/w220"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "由于各种原因导致失去住所的六花开始寻找新家，但过程并不顺利，最终来到了勇太的家里。然而，勇太的家人却留下勇太一个人到雅加达去了。现在开始的同栖生活！？这样想着心跳不已的两个人。但此时樟叶为了迎考而回到了家中。不知应该感到安心还是遗憾，3人开始了奇妙的共同生活。另一方面，原小鸟游家搬进了新的住户。那是以前勇太曾经憧憬的，自称为魔法魔王少女、索非亚琳·SP·撒旦7世的七宫智音，是勇太的初中时代“唯一的理解者”……如此这般，仍然完全称不上普通的、勇太的高二第一学期开始了。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/Chuunibyou_demo_Koi_ga_Shitai_Ren/videos#c=episode"
+                }
+            },
+            "rating": 75,
+            "release": "2014-01-07T18:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "燃",
+                    "欢乐",
+                    "萌",
+                    "喜剧",
+                    "言情",
+                    "宅",
+                    "校园"
+                ]
+            },
+            "title": {
+                "en_GB": "Love, Chunibyo & Other Delusions! -Heart Throb-",
+                "ja_JP": "中二病でも恋がしたい！戀",
+                "zh_CN": "中二病也要谈恋爱! 恋"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/15c553f996dadf950017e13d29296b8411c31f2f/w220"
+            },
+            "intro": {
+                "zh_CN": " 主角在某个暑假上山捉虫的时候偶然发现了树下摆着一台破旧的扭蛋机，当他掏出身上唯一一枚硬币拧出扭蛋之后，却打开了不可思议的潘多拉的盒子。这扭蛋中飞出一只自称为“妖怪执事维斯帕”的幽灵，从此以后，主角就可以看到身边出现的各种不可思议的妖怪了。遇到困难的时候可以用硬币召唤妖怪，并且可以借助妖怪的力量，例如可以让人说出真相的“真言婆婆”，以及可以与恶灵对抗的拳师猫!"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/妖怪手表/videos#c=episode"
+                }
+            },
+            "rating": 12,
+            "release": "2014-01-08T10:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "原创",
+                    "欢乐",
+                    "励志"
+                ]
+            },
+            "title": {
+                "en_GB": "Youkai Watch",
+                "ja_JP": "妖怪ウォッチ",
+                "zh_CN": "妖怪手表"
+            }
+        }
+    ]
+}

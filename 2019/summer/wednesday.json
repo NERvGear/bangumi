@@ -1,0 +1,93 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/b050b67421492b424f243d0f144541e2d47d951f.jpg@450w_600h.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　在往来宇宙已是司空见惯的近未来，9名少年少女踏上前去行星露营的旅程。他们怀着对宇宙旅行感到激动不已的心情出发，但等待他们的是出乎意料的事态……"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28221416/?from=search&seid=11249954355974248686"
+                }
+            },
+            "rating": 100,
+            "release": "2019-07-03T12:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "科幻",
+                    "搞笑",
+                    "群像"
+                ]
+            },
+            "title": {
+                "en_GB": "Astra Lost in Space ",
+                "ja_JP": "彼方のアストラ",
+                "zh_CN": "彼方的阿斯特拉"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://puui.qpic.cn/vcover_vt_pic/0/5inc5xigj39zzgq1561369298/0"
+            },
+            "episode": 13,
+            "intro": {
+                "zh_CN": "　　随处可见的普通高中生·西村太一，与运动神经拔群的模特体型美少女·吾妻凛。原本过着和平的高中生活的两人，某天突然被不可思议的魔法阵的光所包覆，迷路到了从未到过的土地。那里栖息着可怕的魔物，还存在着兽人、矮人、精灵等等多种多样的种族，简直就是幻想般的世界。被带往异世界的太一和凛，为了在这里生存下去而决定成为“冒险者”，但在适性检查中，两人被发现具有“开挂”一般的魔力……。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://v.qq.com/detail/5/5inc5xigj39zzgq.html"
+                }
+            },
+            "rating": 40,
+            "release": "2019-07-10T13:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "异世界",
+                    "穿越",
+                    "科幻",
+                    "装逼"
+                ]
+            },
+            "title": {
+                "en_GB": "Isekai Cheat Majutsushi ",
+                "ja_JP": "異世界チート魔術師",
+                "zh_CN": "异世界超能魔术师"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/activity-plat/static/30cb1f6c4bfeb93761cf35c27d9b88cb/m4dCG4K09.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　“响……你又胖了吧？” 朋友毫不留情的一句话，刺入爱吃的女高中生·纱仓响心中。她想着暑假之前绝对要瘦下来而决定减肥，却陷入一个人无法好好持续运动的窘境。为此而苦恼的响，前往的地方是健身房！她在入会的健身房与同级生、气质十足的美少女学生会长·奏流院朱美相遇，自此踏入了深奥而愉快的肌肉锻炼的世界……。 "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28221412/"
+                }
+            },
+            "rating": 80,
+            "release": "2019-07-03T13:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "搞笑",
+                    "颜艺",
+                    "锻炼",
+                    "“肉”"
+                ]
+            },
+            "title": {
+                "en_GB": "How Many Kilograms are the Dumbbells You Lift? ",
+                "ja_JP": "ダンベル何キロ持てる？",
+                "zh_CN": "肌肉少女：哑铃，能举多少公斤？"
+            }
+        }
+    ]
+}

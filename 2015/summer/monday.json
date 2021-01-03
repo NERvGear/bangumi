@@ -1,0 +1,86 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/4ebecb94595a745ac03ef28242b09831659e7133/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557dc39e1d41c849e34e8a5e/videos#c=episode"
+                }
+            },
+            "rating": 57,
+            "release": "2015-07-06T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编",
+                    "奇幻"
+                ]
+            },
+            "title": {
+                "ja_JP": "赤髪の白雪姫",
+                "zh_CN": "赤发白雪姫"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/6110de634454c72ef76810f8f01c7a18a30b7262/w220"
+            },
+            "intro": {
+                "zh_CN": "ひきこもりのアイドルオタク「すう子」は、1つだけ特技を持っている。 それは、ブログの力で女性アイドルの人気に火を付けること。 すう子は福岡県糸島市の地方アイドル「イトリオ」に目を付けて売り出そうとするが、 アイドル現場のカリスマ「リュウサン」と地下アイドル「マリ子」の存在が立ちはだかる！ 業界で話題の「ミリオンドール」は、アイドルオタクである筆者藍が描く、リアルすぎるアイドル群像マンガ。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557dd51b1d41c83cb1c7bce9/videos#c=episode"
+                }
+            },
+            "rating": 26,
+            "release": "2015-07-06T00:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "ja_JP": "ミリオンドール",
+                "zh_CN": "Million Doll"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/b5a21fbfdf7b3cb5a4c0a211e077d5b7e92deeab/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/557ca1791d41c808a19156ab/videos#c=episode"
+                }
+            },
+            "rating": 77,
+            "release": "2015-07-06T15:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "续作",
+                    "改编",
+                    "欢乐",
+                    "萌",
+                    "卖肉",
+                    "喜剧",
+                    "奇幻",
+                    "情感"
+                ]
+            },
+            "title": {
+                "en_GB": "To Love-Ru Darkness 2nd",
+                "ja_JP": "To LOVEる-とらぶる-ダークネス2nd",
+                "zh_CN": "出包王女 Darkness 2nd"
+            }
+        }
+    ]
+}

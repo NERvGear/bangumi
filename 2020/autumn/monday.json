@@ -1,0 +1,181 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/fa7f7fca3bccf564060bedff3e81f53db14dd9ea.png"
+            },
+            "episode": 50,
+            "intro": {
+                "zh_CN": "　　专门培育职业演出明星的学园「圣女斯克威尔学院」，举办了一年一度的盛大活动「 少女竞技」！为了站上这个梦寐以求的舞台，少女成立了组合，发起了挑战！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228462/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-04-05T23:05:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "萌系",
+                    "校园",
+                    "偶像"
+                ]
+            },
+            "title": {
+                "en_GB": "Gal-gaku.: Hijiri Girls Square Gakuin",
+                "ja_JP": "ガル学. ~聖ガールズスクエア学院~",
+                "zh_CN": "女学。～圣女斯克威尔学院～ "
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://img1.hmacg.cn/bangumi/kv/202010/zxk.jpg"
+            },
+            "episode": 50,
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://movie.douban.com/subject/35176637/"
+                }
+            },
+            "rating": 60,
+            "release": "2020-09-28T08:00:00Z",
+            "state": 2,
+            "tags": {
+                "zh_CN": [
+                    "音乐",
+                    "太鼓",
+                    "相扑"
+                ]
+            },
+            "title": {
+                "en_GB": "Saikyo Kamizmode!",
+                "ja_JP": "最響カミズモード！",
+                "zh_CN": "最响Kamizmode！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/3ee790262212bb952432ba55a79ff911023b23dd.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　立志成为偶像而来到东京的高中一年级生樱衣乃，与鼠庄的住民——红极一时的童星露子、作曲家羽优，以及模特仁菜，一同组成了新人偶像组合“水果挞”！为了拯救濒临拆除的鼠庄，演艺圈的吊车尾们的偶像活动跌跌撞撞的开始了！？"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28229890/"
+                }
+            },
+            "rating": 80,
+            "release": "2020-09-25T13:30:00Z",
+            "state": 3,
+            "tags": {
+                "zh_CN": [
+                    "日常",
+                    "偶像",
+                    "萌系",
+                    "轻百合"
+                ]
+            },
+            "title": {
+                "en_GB": "Dropout Idol Fruit Tart",
+                "ja_JP": "おちこぼれフルーツタルト",
+                "zh_CN": "满溢的水果挞"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/a585b90b8250d53f155c7a827d84fab1d097f5d5.png"
+            },
+            "episode": 24,
+            "intro": {
+                "zh_CN": "　　运动能力高超的古希腊青年季米特里奥斯，穿越到了昭和时代的东京！将相距甚远的两个世界连接起来的奇迹喜剧，于此开幕!! "
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28228628/"
+                }
+            },
+            "rating": 40,
+            "release": "2020-04-20T14:00:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "运动",
+                    "穿越",
+                    "定格动画"
+                ]
+            },
+            "title": {
+                "en_GB": "Olympia Kyklos",
+                "ja_JP": "別冊オリンピア・キュクロス",
+                "zh_CN": "别册奥林匹克之环"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585290845.jpg"
+            },
+            "episode": 50,
+            "intro": {
+                "zh_CN": "　　在遥远的地球海面上，有一座小岛——胖腹岛。\r\n　　在岛上的传说之壶的壶嘴中出生的生物住在那里的村庄生活。摇动肉嘟嘟肚子享受饮食和音乐的神秘生物，那就是胖腹动物。"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://movie.douban.com/subject/34965663/"
+                }
+            },
+            "rating": 40,
+            "release": "2020-04-06T14:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "泡面",
+                    "搞笑",
+                    "动物拟人"
+                ]
+            },
+            "title": {
+                "en_GB": "Poccolies",
+                "ja_JP": "ぽっこりーず",
+                "zh_CN": "胖腹动物的生活"
+            }
+        },
+        {
+            "asset": {
+                "cover": "https://i0.hdslb.com/bfs/bangumi/image/54c5fbde0f83df5bfd15f54c717bc1487b006d2b.png"
+            },
+            "episode": 12,
+            "intro": {
+                "zh_CN": "　　衫元与阿席莉帕能否再会！？于极寒之地迎来新局面的生存竞争survival，桦太篇开幕了！！在网走监狱展开激烈的攻防战的最后，走散的两人有“不死之身的杉元”之称的衫元佐一与阿伊努少女阿席莉帕。阿席莉帕与“越狱王”白石由竹一同，被基罗朗可和尾形百之助带领前往残留着父亲足迹的地方——桦太。夺走阿伊努的金块的罪魁祸首“无脸男（野箆坊）”早已去世的今天，唯一能够解开那个秘密的是名为阿席莉帕的少女，基罗朗可的目的，是带着她与曾经的同伴极东俄国游击队汇合。另一方面，与第七师团的鹤见中尉联手的杉元和谷垣源次郎，申请成为了搜索阿席莉帕的先遣队。月岛军曹与鲤登少尉成为同行者向桦太进发。位于比北海道更北的极寒之地，前方会有怎样的旅途等待着衫元与阿席莉帕!? 全新的survival拉开帷幕了！"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "https://www.bilibili.com/bangumi/media/md28229888/"
+                }
+            },
+            "rating": 100,
+            "release": "2020-10-05T15:30:00Z",
+            "state": 1,
+            "tags": {
+                "zh_CN": [
+                    "冒险",
+                    "寻宝",
+                    "战斗",
+                    "人文"
+                ]
+            },
+            "title": {
+                "en_GB": "Golden Kamuy Season 3",
+                "ja_JP": "ゴールデンカムイ 第3期",
+                "zh_CN": "黄金神威 第三季"
+            }
+        }
+    ]
+}

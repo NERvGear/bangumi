@@ -1,0 +1,175 @@
+{
+    "bangumi": [
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/026f1068dd62db357fdcf0389126faaf08a859b4/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4600d1d41c84caa423a45/videos#c=episode"
+                }
+            },
+            "rating": 57,
+            "release": "2016-04-06T16:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Onigiri",
+                "ja_JP": "鬼斬",
+                "zh_CN": "鬼斩"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/7dcb09ed52db75a2bc3460b64df39f41c1031a3e/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/5630325e1d41c80180663c40/videos#c=episode"
+                }
+            },
+            "rating": 67,
+            "release": "2016-04-06T16:05:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "改编"
+                ]
+            },
+            "title": {
+                "en_GB": "Bungo Stray Dogs",
+                "ja_JP": "文豪ストレイドッグス",
+                "zh_CN": "文豪野犬"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/841cae65ca39b41e74bf3644cc6bfb32a9d38fe3/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f4608e1d41c85c0bc63862/videos#c=episode"
+                }
+            },
+            "rating": 29,
+            "release": "2016-04-07T09:25:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Aikatsu Stars!",
+                "ja_JP": "アイカツスターズ！",
+                "zh_CN": "偶像活动STARS！"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/52b0f663defdf421300c03d915977d6f71c0f1ec/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f460c71d41c85c0bc638a3/videos#c=episode"
+                }
+            },
+            "rating": 66,
+            "release": "2016-04-07T12:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Kuromukuro",
+                "ja_JP": "クロムクロ",
+                "zh_CN": "黑色残骸"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/008a34e30f6ab6daec2003a829c901a94eba5252/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f460a91d41c85c0bc6387e/videos#c=episode"
+                }
+            },
+            "rating": 80,
+            "release": "2016-04-07T12:30:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "Unhappy Go Lucky!",
+                "ja_JP": "あんハピ♪",
+                "zh_CN": "Unhappy♪"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/acc430dd43dd62d6487dc6dc511d235bc06bddf9/w220"
+            },
+            "intro": {
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/56f460e11d41c84caa423af3/videos#c=episode"
+                }
+            },
+            "rating": 82,
+            "release": "2016-04-07T14:00:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                ]
+            },
+            "title": {
+                "en_GB": "And you thought there is Never a girl online?",
+                "ja_JP": "ネトゲの嫁は女の子じゃないと思った？",
+                "zh_CN": "线上游戏的老婆不可能是女生？"
+            }
+        },
+        {
+            "asset": {
+                "cover": "http://static.acgdb.com/i/a68cb8a395ba0debc81a0125ed49b2a8d5d7b5bb/w220"
+            },
+            "intro": {
+                "zh_CN": "TV动画《甲铁城的卡巴内瑞》（甲鉄城のカバネリ）是富士电视台的noitaminA节目牵头的原创动画作品"
+            },
+            "link": {
+                "watch": {
+                    "zh_CN": "http://acgdb.com/547799531d41c85628a6b331/videos#c=episode"
+                }
+            },
+            "rating": 98,
+            "release": "2016-04-07T15:55:00Z",
+            "state": 0,
+            "tags": {
+                "zh_CN": [
+                    "原创"
+                ]
+            },
+            "title": {
+                "en_GB": "Kabaneri of the Iron Fortress",
+                "ja_JP": "甲鉄城のカバネリ",
+                "zh_CN": "甲铁城的卡巴内瑞"
+            }
+        }
+    ]
+}
