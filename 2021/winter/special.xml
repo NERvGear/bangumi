@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+	<item>
+		<title>
+			<ja_JP>アリスインデッドリースクール</ja_JP>
+			<zh_CN>Alice in Deadly School</zh_CN>
+			<en_GB>Alice in Deadly School</en_GB>
+		</title>
+		<state>0</state>
+		<rate>10000</rate>
+		<episode>12</episode>
+		<release>1609761600</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202101/alice.jpg</image>
+		<url>
+			<zh_CN>&#160; </zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>僵尸</value>
+				<value>丧尸</value>
+				<value>剧中剧`</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　在学校屋顶上练习相声的优和信。同时，校舍里还充满了不是人类的“别的东西”。被“别的东西”咬死后，会变成“别的东西”去袭击他人。在混乱的学校中，优和信，还有其他还幸存的学生们是否能逃出魔掌――。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>幼女社長</ja_JP>
+			<zh_CN>小不点社长</zh_CN>
+			<en_GB>Youjo Shachou</en_GB>
+		</title>
+		<state>3</state>
+		<rate>6000</rate>
+		<episode>15</episode>
+		<release>1609470000</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/52de6ccd8ae2029798791a80a2b333dc2b0ecc7e.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28232033/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>泡面</value>
+				<value>搞笑</value>
+				<value>工作职场</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　一个五岁的小孩六科，小小年纪就当上了公司的总裁。面对世间的艰辛的社会派(?)喜剧。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>天空侵犯</ja_JP>
+			<zh_CN>天空侵犯</zh_CN>
+			<en_GB>High-rise Invasion</en_GB>
+		</title>
+		<state>0</state>
+		<rate>10000</rate>
+		<episode>12</episode>
+		<release>1612108800</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202101/tkqf-r.jpg</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28232335/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>恐怖</value>
+				<value>猎奇</value>
+				<value>生存</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　高中生本城游理发现自己迷失在「异常空间」。在这里，无数摩天大楼之间都以吊桥连接，还有「面具人」无情地残杀困惑奔逃的受害者。想要活着走出这般炼狱，游理只有两种选择：杀死面具人，或是命丧黄泉。她决定拼命求生，以摧毁这个有违常理的世界。她最终的命运为何？ </zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>舞妓さんちのまかないさん</ja_JP>
+			<zh_CN>舞伎家的料理人</zh_CN>
+			<en_GB>Maiko-san Chi no Makanai-san</en_GB>
+		</title>
+		<state>0</state>
+		<rate>10000</rate>
+		<episode>12</episode>
+		<release>1612108800</release>
+		<image>&#160; </image>
+		<url>
+			<zh_CN>&#160; </zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>美食</value>
+				<value>温馨</value>
+				<value>治愈</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　一直吃大餐的人生一定很无聊，这是一个围绕「在平日里吃普通的饭」的故事。
+　　夜晚，优美华丽的舞妓小姐们回到家之后也是普通的女孩子，从京都的这个小小的厨房里，16岁少女以饭菜作为点缀，奉上舞妓们的每一天。</zh_CN>
+		</descrip>
+	</item>
+</Bangumi>

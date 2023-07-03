@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0" data_siurce="Hazx">
+    <item>
+        <title>
+            <ja_JP>名探偵コナン 犯人の犯沢さん</ja_JP>
+            <zh_CN>名侦探柯南 犯人犯泽先生</zh_CN>
+            <en_GB>Detective Conan: The Culprit Hanzawa</en_GB>
+        </title>
+        <state>1</state>
+        <rate>10000</rate>
+        <episode>12</episode>
+        <release>1664813100</release>
+        <image>https://lain.bgm.tv/pic/cover/c/62/53/351712_8QlFI.jpg</image>
+        <url>
+            <zh_CN>https://bgm.tv/subject/351712</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>搞笑</value>
+                <value>日常</value>
+                <value>外传</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　犯罪城市，米花町。
+　　在这个案件数量位居世界前列的城市中，出现了一个黑影。他(她?)的目的是杀死“某个男人”—— 《名侦探柯南》中不可或缺的那个主人公！！
+　　他外表身着紧身裤，头脑清醒。他是……犯人·犯泽先生。
+            </zh_CN>
+        </descrip>
+    </item>
+    <item>
+        <title>
+            <ja_JP>永久少年 Eternal Boys</ja_JP>
+            <zh_CN>永久少年 Eternal Boys</zh_CN>
+            <en_GB>Eikyuu Shounen: Eternal Boys</en_GB>
+        </title>
+        <state>1</state>
+        <rate>6000</rate>
+        <episode>24</episode>
+        <release>1664040000</release>
+        <image>http://i0.hdslb.com/bfs/bangumi/image/f9f030687beaa818d34a0481e38527316d0d2295.png</image>
+        <url>
+            <zh_CN>https://www.bilibili.com/bangumi/media/md28338745/</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>偶像</value>
+                <value>男团</value>
+                <value>大叔</value>
+                <value>励志</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　“大叔偶像计划”是满福演艺制作公司为了东山再起而推出的全新偶像计划。尝尽社会酸甜苦辣的6位大叔，克服了年龄和体力的障碍，努力成为偶像。
+　　为了证明自己无论何时都能接受新的挑战，并且发光发热。人生濒临绝境的6位大叔现在站了起来！？
+　　即便已经年过三四十，但内心永远是少年！
+　　他们就是“永久少年（Eternal Boys）”！
+            </zh_CN>
+        </descrip>
+    </item>
+    <item>
+        <title>
+            <ja_JP>クールドジ男子</ja_JP>
+            <zh_CN>呆萌酷男孩</zh_CN>
+            <en_GB>Play It Cool, Guys</en_GB>
+        </title>
+        <state>1</state>
+        <rate>6000</rate>
+        <episode>24</episode>
+        <release>1665423000</release>
+        <image>http://i0.hdslb.com/bfs/bangumi/image/db0fa24586e21463b427c5ee885d3d053080f8e1.png</image>
+        <url>
+            <zh_CN>https://www.bilibili.com/bangumi/media/md28339724/</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>校园</value>
+                <value>日常</value>
+                <value>搞笑</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　这是一群格外惹眼的帅男孩。
+　　虽然他们有些难以接近…但却“全员呆萌”！
+　　忘带钱包，在电车里听音乐忘插耳机，戴着隐形眼镜却做出推镜框的动作，没发现是可弯曲吸管直接倒插进饮料中，把鞋拔子错当成雨伞拿着到处走——
+　　连这些呆萌的一面都能表现得很酷的男孩，这就是“呆萌酷男孩”。
+　　这部搞笑又治愈的呆萌喜剧，你也一定会一见倾心。
+            </zh_CN>
+        </descrip>
+    </item>
+    <item>
+        <title>
+            <ja_JP>忍の一時</ja_JP>
+            <zh_CN>忍者一时</zh_CN>
+            <en_GB>Shinobi no Ittoki</en_GB>
+        </title>
+        <state>1</state>
+        <rate>8000</rate>
+        <episode>12</episode>
+        <release>1664884800</release>
+        <image>http://i0.hdslb.com/bfs/bangumi/image/1a0318ed15b7d8774ad641acfd1dd2e2d7499c38.png</image>
+        <url>
+            <zh_CN>https://www.bilibili.com/bangumi/media/md28339738/</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>忍者</value>
+                <value>校园</value>
+                <value>战斗</value>
+                <value>恋爱</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　主角樱羽一时是一个普通的男孩，他本来认为忍者是不存在的。他本应该过着正常，幸福与美好的日子...... 有一天，一时被人盯上了性命，并得知这都是甲贺忍者的所作所为。为什么一时会被人盯上呢？因为他是伊贺忍者的第十九代合法继承人！伊贺和甲贺长年来处于对立的立场，甲贺一直都想要侵略伊贺。一时为了活下去，也只能让自己成为忍者！就这样，一时投身到了无人知晓的忍者世界中。为了成为一个成熟的忍者，不断地学习、战斗，直面困难。但这只是一时残酷命运的开始……
+            </zh_CN>
+        </descrip>
+    </item>
+</Bangumi>

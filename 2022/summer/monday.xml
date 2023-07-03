@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0" data_siurce="Hazx">
+    <item>
+        <title>
+            <ja_JP>ラブライブ！スーパースター!! 2期</ja_JP>
+            <zh_CN>Love Live! Superstar!! 第二季</zh_CN>
+            <en_GB>Love Live！Superstar!!</en_GB>
+        </title>
+        <state>1</state>
+        <rate>8000</rate>
+        <episode>12</episode>
+        <release>1658136600</release>
+        <image>https://bgm.tv/pic/cover/c/a8/2c/354146_qU41Z.jpg</image>
+        <url>
+            <zh_CN>https://bgm.tv/subject/354146</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>偶像</value>
+                <value>音乐</value>
+                <value>校园</value>
+                <value>轻百合</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　私立结之丘女子高等学校，在表参道、原宿、青山三街道交界之处，一所新设立的学校今年迎来了第一批入学的学生。
+　　没有历史、没有学长、没有名气，要什么没什么的新学校里，以涩谷香音为中心的五位少女与“学园偶像”相遇了。
+　　我，果然还是最喜欢唱歌了！想通过歌声……实现愿望！
+　　尚且稚嫩的星星们，不断积累着大大的梦想——。
+　　纯白而拥有着无限可能的她们的「大家一起来实现的故事（学园偶像计划）」。展翅飞翔吧！我们的LoveLive！
+            </zh_CN>
+        </descrip>
+    </item>
+    <item>
+        <title>
+            <ja_JP>転生賢者の異世界ライフ ~第二の職業を得て、世界最強になりました~</ja_JP>
+            <zh_CN>转生贤者的异世界生活～获得第二职业并成为世界最强～</zh_CN>
+            <en_GB>My Isekai Life: I Gained a Second Class and Became the Strongest Sage in the World!</en_GB>
+        </title>
+        <state>1</state>
+        <rate>4000</rate>
+        <episode>12</episode>
+        <release>1656936000</release>
+        <image>https://bgm.tv/pic/cover/c/68/c0/326869_ogO1g.jpg</image>
+        <url>
+            <zh_CN>https://bgm.tv/subject/326869</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>奇幻</value>
+                <value>穿越</value>
+                <value>异世界</value>
+                <value>冒险</value>
+                <value>龙傲天</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　在黑心企业工作的社畜·佐野裕司，突然被召唤到异世界。他在异世界的职业为“驯魔师”，这是个很难成为冒险者的烂职业。但是多亏了史莱姆的帮助，让他拥有了各种各样的魔法，并得到“贤者”这个第二职业！
+　　虽然获得压倒性力量，裕司却对自己的强大毫无自觉······？
+　　最强力量下无意识间成为世上最强！
+            </zh_CN>
+        </descrip>
+    </item>
+    <item>
+        <title>
+            <ja_JP>ようこそ実力至上主義の教室へ 第2期</ja_JP>
+            <zh_CN>欢迎来到实力至上主义教室 2nd Season</zh_CN>
+            <en_GB>Classroom of the Elite II</en_GB>
+        </title>
+        <state>1</state>
+        <rate>10000</rate>
+        <episode>13</episode>
+        <release>1656939600</release>
+        <image>https://bgm.tv/pic/cover/c/c8/8a/371546_vXXP2.jpg</image>
+        <url>
+            <zh_CN>https://bgm.tv/subject/371546</zh_CN>
+        </url>
+        <tag>
+            <zh_CN>
+                <value>校园</value>
+                <value>群像</value>
+                <value>智斗</value>
+                <value>装逼</value>
+            </zh_CN>
+        </tag>
+        <descrip>
+            <zh_CN>　　大获全胜的人，是我——
+            </zh_CN>
+        </descrip>
+    </item>
+</Bangumi>

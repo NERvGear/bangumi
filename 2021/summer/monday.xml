@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+	<item>
+		<title>
+			<ja_JP>キングダム 第3シリーズ</ja_JP>
+			<zh_CN>王者天下 第三季</zh_CN>
+			<en_GB>Kingdom 3rd Season</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>26</episode>
+		<release>1619980500</release>
+		<image>https://tx-free-imgs.acfun.cn/ZO0rm6MswD-z6nIni-jUbyya-3eYbQv-MnuMbi.png</image>
+		<url>
+			<zh_CN>https://www.acfun.cn/bangumi/aa6001869</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>热血</value>
+				<value>战争</value>
+				<value>历史</value>
+				<value>&#160;</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　纪元前，在中国西方的秦国，年轻的千人将·信曾与已故的好友有着「天下的大将军」这一共同的梦想，而至今仍以此为目标。信被卷入王都的政变，并命运般地与现在的秦王·嬴政相遇。他为了实现梦想，并同时实现嬴政「中华统一」的目标，而置身战场。经历了师父·王骑的战死沙场，信在与蒙恬、王贲等同世代的队长们一同切磋琢磨的同时，确实地迈上通往梦想的阶梯。另一方面，嬴政也朝向伟大的目标，为了从相国·吕不韦手中夺回实权，而致力于扩大宫廷内的势力。此时，秦国成功攻陷军事上最重要的据点山阳，并由此向中华统一又迈进了一步。但，对于可能改写七国势力图的这一手感到危机感的赵国天才军师·李牧，以楚国宰相·春申君为总大将，楚、赵、魏、燕、韩、齐六国兴起合纵军，开始进攻秦国！面对前所未有的危机，秦国集结所拥有的全部武力，迎击合纵军！</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>闇芝居 九期</ja_JP>
+			<zh_CN>暗芝居 第九季</zh_CN>
+			<en_GB>Yami Shibai 9</en_GB>
+		</title>
+		<state>1</state>
+		<rate>8000</rate>
+		<episode>12</episode>
+		<release>1626030600</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/7640cd83f8d37bbde21d5735974af0babec72b4a.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28234703/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>泡面</value>
+				<value>惊悚</value>
+				<value>恐怖</value>
+				<value>怪谈</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　“南来北往的都来瞧一瞧，暗芝居要开始咯。” 每天到了黄昏5点，戴着诡异面具的江湖艺人在街上敲锣打鼓，招揽顾客，摇着纸芝居，为前来围观的观众讲述一篇篇短小精悍并且恐怖阴森的故事。每集的内容就在江湖艺人的呐喊声中拉开了序幕......</zh_CN>
+		</descrip>
+	</item>
+</Bangumi>

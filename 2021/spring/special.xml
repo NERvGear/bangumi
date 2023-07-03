@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+	<item>
+		<title>
+			<ja_JP>B: The Beginning Succession</ja_JP>
+			<zh_CN>B：彼之初 第二季</zh_CN>
+			<en_GB>B: The Beginning Succession</en_GB>
+		</title>
+		<state>1</state>
+		<rate>8000</rate>
+		<episode>1</episode>
+		<release>1615996800</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202104/btbs.jpg</image>
+		<url>
+			<zh_CN>&#160; </zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>奇幻</value>
+				<value>战斗</value>
+				<value>悬疑</value>
+				<value>犯罪</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　杀手B连环杀人案已经过去好几个月了。出现在他的与优奈一同过着平静生活的黑羽身边的是，曾经死于研究所的同伴雾雨。
+　　“新世界秩序，开始了它的崩坏。” 雾雨的目的是，想要构筑一个canon与人类能一起共存的世界。为了这个目的，利用黑羽的力量卷入战斗。同伴被挟持为人质的黑羽再次将自己变成异形，投身于战斗之中。革命与和平，截然相反的两种思想，将被引导向共同的结局。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>極主夫道</ja_JP>
+			<zh_CN>极主夫道</zh_CN>
+			<en_GB>Gokushufudou</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1617811200</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/fa3dfe47ee0e2a1a3a815f5c5382a0613bbacdf2.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28233902/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>搞笑</value>
+				<value>没事</value>
+				<value>黑道</value>
+				<value>家庭煮夫</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　主人公被称作“不死之龙”（传闻中一晚上可以单枪匹马毁掉对手整整十处地盘传说中的黑帮老大）。曾是黑帮老大，现为家庭主夫。因为曾是黑道人士的经历影响，遣词用句时常带有道上人的风格，容易让人感到畏惧、恐怖，脑补与误解，甚至闹出不少笑话。女子力很高，无论家务、手工装修、装潢、料理等都很擅长，让人感觉什么事都很能干。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>Yasuke -ヤスケ-</ja_JP>
+			<zh_CN>武士弥助</zh_CN>
+			<en_GB>Yasuke "Young"</en_GB>
+		</title>
+		<state>1</state>
+		<rate>4000</rate>
+		<episode>1</episode>
+		<release>1619625600</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202104/wsmz2.jpg</image>
+		<url>
+			<zh_CN>&#160; </zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>武士</value>
+				<value>16世纪日本</value>
+				<value>政治正确</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　来自非洲的他，在 16 世纪野蛮的日本与强大的封建领主并肩作战。时人称他为「黑武士」，他也成为一代传奇人物。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>舞妓さんちのまかないさん</ja_JP>
+			<zh_CN>舞伎家的料理人</zh_CN>
+			<en_GB>Kiyo in Kyoto: From the Maiko House</en_GB>
+		</title>
+		<state>1</state>
+		<rate>8000</rate>
+		<episode>1</episode>
+		<release>1612188000</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/48953cb343907e9598ed1469077867d629717deb.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28233501/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>美食</value>
+				<value>温馨</value>
+				<value>治愈</value>
+				<value>舞伎</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　一直吃大餐的人生一定很无聊，这是一个围绕「在平日里吃普通的饭」的故事。
+　　夜晚，优美华丽的舞妓小姐们回到家之后也是普通的女孩子，从京都的这个小小的厨房里，16岁少女以饭菜作为点缀，奉上舞妓们的每一天。</zh_CN>
+		</descrip>
+	</item>
+</Bangumi>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+	<item>
+		<title>
+			<ja_JP>アズールレーン びそくぜんしんっ！</ja_JP>
+			<zh_CN>碧蓝航线 微速前行</zh_CN>
+			<en_GB>Azur Lane: Bisoku Zenshin!</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1610380800</release>
+		<image>http://img1.hmacg.cn/bangumi/kv/202101/blhx2.jpg</image>
+		<url>
+			<zh_CN>https://movie.douban.com/subject/35204939/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>泡面</value>
+				<value>日常</value>
+				<value>搞笑</value>
+				<value>舰娘</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　养成类游戏《碧蓝航线》是将军武舰船等二次元少女拟人化之后，由玩家自由搭配操作完成的一款游戏。本作为大家描述在母港里生活的各位舰船的日常生活。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>真・中華一番！ 続編</ja_JP>
+			<zh_CN>厨神小当家 第二季</zh_CN>
+			<en_GB>Shin Chuuka Ichiban! 2nd Season</en_GB>
+		</title>
+		<state>1</state>
+		<rate>4000</rate>
+		<episode>12</episode>
+		<release>1610381400</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/99aa939d399965129d8d0c50687f0e61f9f2bacd.jpg</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28229891/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>美食</value>
+				<value>烹饪</value>
+				<value>热血</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　故事发生在十九世纪的中国，主人公名叫刘昴星(小当家)，是史上最年轻的通过中国顶尖厨师资格——“特级厨师考试”的少年。在其师傅周瑜的劝说下，刘昴星为了丰富和拓展厨师的经验知识，和同伴四郎、梅丽一起在中国西南地区游历。回到广州“阳泉酒家”的阿昴，结识了新的伙伴——解师傅和雷恩，并下定决心和妄图用美食支配人心的黑暗料理界对抗到底。随后，他们知晓了守护着中国美食界的八个“传说中的厨具”的秘密。原来，阿昴的母亲阿贝为了谋求大众的幸福，曾经和“黑暗料理界”展开壮烈的斗争。刘昴星继承了母亲的意志，为了防止散布在中国各地的“传说中的厨具”被“黑暗料理界”所利用，和四名伙伴一起踏上了寻找“传说中的厨具”的浩大旅程……</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>WAVE!!～サーフィンやっぺ!!～</ja_JP>
+			<zh_CN>WAVE!!～来冲浪吧!!～</zh_CN>
+			<en_GB>Wave!!: Surfing Yappe!!</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1610384400</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/8fbd44351aa72f4e837d7143a6f937908223cd57.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28233244/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>运动</value>
+				<value>冲浪</value>
+				<value>美少年</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　只要在海上，我们就能获得自由！
+　　正如字面所示，巨大的海浪一年到头不断冲刷着海岸，在这样的茨城县大洗海岸成长的正辉，遇到了王子一般的转学生翔，并接触了隔着一枚板子与地球对峙的究极运动·冲浪。
+　　这是，被乘浪的魅力吸引的少年们，不会结束的故事的开端。 </zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>おそ松さん 第3期</ja_JP>
+			<zh_CN>阿松 第三季</zh_CN>
+			<en_GB>Osomatsu-san 3rd Season</en_GB>
+		</title>
+		<state>1</state>
+		<rate>10000</rate>
+		<episode>25</episode>
+		<release>1602523800</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/0212baa8898d0c819c7fb84015e95b8fca621435.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28229892/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>搞笑</value>
+				<value>日常</value>
+				<value>恶搞</value>
+				<value>无厘头</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　日本第一有名的六胞胎传说，第三次开幕了！！！这次会有怎样前所未有的展开！？从小互为玩伴还未成长的六个孩子，在这次的作品中也会朝着各种不同的的方向大显身手！？同时，松野家也会迎来全新的变化…? 那个问题作在今天，再次开始！</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>シャドウバース</ja_JP>
+			<zh_CN>影之诗</zh_CN>
+			<en_GB>Shadowverse</en_GB>
+		</title>
+		<state>1</state>
+		<rate>4000</rate>
+		<episode>48</episode>
+		<release>1586253300</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/42fa93fc553d97276812d051cae208c6be414ca6.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28228277/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>卡片</value>
+				<value>竞技</value>
+				<value>游戏之王</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　故事发生在久远的时代，在遍地纷争的洪荒世界里，一棵充满了神秘气息的大树突然伫立在世人面前，引发了惊天地震，让饱受战乱的人民愈发凄惨。于是，不明真相的人们将其称之为“天启之树”。然而，睿智的长者们知道，那是引导人类走向终焉的光芒，也是一个前往新世界的大门。当世界被黑暗完全覆盖之时，传说中就是异世大门开启的瞬间。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>ブラッククローバー</ja_JP>
+			<zh_CN>黑色四叶草</zh_CN>
+			<en_GB>Black Clover</en_GB>
+		</title>
+		<state>1</state>
+		<rate>7000</rate>
+		<episode>102</episode>
+		<release>1507026300</release>
+		<image>http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg</image>
+		<url>
+			<zh_CN>http://bangumi.bilibili.com/anime/6422</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>奇幻</value>
+				<value>魔法</value>
+				<value>热血</value>
+				<value>咆哮帝</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　眼看人类就要被魔神灭亡了…
+　　拯救了这一切的，仅仅是一名魔道士。
+　　他被称为“魔法帝”，成为了传说——
+　　在某个魔法至上的世界——
+　　生来就无法使用魔法的少年阿斯塔为了证明自己的能力，也为了完成与朋友的约定，而将目光指向了魔道士的顶点“魔法帝”！</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>ゲキドル</ja_JP>
+			<zh_CN>剧偶像</zh_CN>
+			<en_GB>Gekidol</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1609848000</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/11ea3ed856afcd42445c0a029b9683e3d7c61735.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28231932/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>偶像</value>
+				<value>少女</value>
+				<value>架空</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　神秘灾害·世界同时都市消失的5年后，世界虽然仍处于混乱当中，但也逐渐开始走向复兴。
+　　在这样的世界中，使用了应用3D全息技术的「剧场素材系统」的演剧，吸引了一群以光彩夺目的舞台为目标的少女们。
+　　她们怀着各自的心意，就在现在，拉开舞台的帷幕。 </zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>ワンダーエッグ・プライオリティ</ja_JP>
+			<zh_CN>奇蛋物语</zh_CN>
+			<en_GB>Wonder Egg Priority</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1610463600</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/4baaab9a91b3be126915eda04cbb91c91f1892ef.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28231851/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>奇幻</value>
+				<value>少女</value>
+				<value>&#160; </value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　14岁的少女·大户爱在深夜散步的途中被神秘的声音引导并得到了“蛋”。“如果想改变未来的话” “现在就选择吧” “那么，请相信自己——” “打破蛋——”
+　　在打破了“蛋”之后，等待着爱的东西是……。 </zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>転生したらスライムだった件 第2期</ja_JP>
+			<zh_CN>关于我转生变成史莱姆这档事 第二季 前半篇</zh_CN>
+			<en_GB>Tensei shitara Slime Datta Ken 2nd Season</en_GB>
+		</title>
+		<state>1</state>
+		<rate>10000</rate>
+		<episode>12</episode>
+		<release>1609860600</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/1c1132fe39bec7d88f62c28d703a095c60b4b072.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28231812/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>奇幻</value>
+				<value>异世界</value>
+				<value>战斗</value>
+				<value>萌王</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　主人公利姆露与仰慕他而聚集的众多魔物们所建立的国家＜朱拉·坦派斯特联邦国＞，经由与邻国的协议及交易，让「人类与魔物共同漫步的国家」这一温柔的理想逐步成形。
+　　利姆露身为曾是人类的史莱姆，从根本上拥有「对人类的好意」…… 但这个世界中却存在着明确的「对魔物的敌意」。
+　　当这一无理的现实摆在眼前时，利姆露将做出选择。做出「不希望失去什么」的选择—— 万众期待的转生喜剧突入暴风的新章！ </zh_CN>
+		</descrip>
+	</item>
+</Bangumi>

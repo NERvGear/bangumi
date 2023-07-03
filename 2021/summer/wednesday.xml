@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bangumi version="1.0">
+	<item>
+		<title>
+			<ja_JP>Tsukipro 2</ja_JP>
+			<zh_CN>Tsukipro 2</zh_CN>
+			<en_GB>Tsukipro 2</en_GB>
+		</title>
+		<state>1</state>
+		<rate>8000</rate>
+		<episode>12</episode>
+		<release>1625664600</release>
+		<image>https://img1.hmacg.cn/bangumi/kv/202107/tsukipro.jpg</image>
+		<url>
+			<zh_CN>&#160; </zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>偶像</value>
+				<value>音乐</value>
+				<value>男团</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　TSUKINO艺能事务所所属的4个组合：SOARA、Growth、SolidS、QUELL。
+　　在舞台上闪耀的笑容…… 在这背后，也有不易之情。镜头前帅气的身姿…… 但在这背后，也有让人忧心的时候。但是和朋友一起度过的每一天，还是很开心，充满了笑容和音乐!音乐中包含着他们的所想、愿望和未来。
+　　让我们一起唱起这首充满心跳的歌吧!</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>チート薬師のスローライフ～異世界に作ろうドラッグストア～</ja_JP>
+			<zh_CN>开挂药师的异世界悠闲生活</zh_CN>
+			<en_GB>Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1625668200</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/affd7b4cddcc4a76075ddda9a7fb9a888690427f.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28234707/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>奇幻</value>
+				<value>异世界</value>
+				<value>穿越</value>
+				<value>搞笑</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　只作为社畜每天工作的男人桐尾礼治，今天也是迷迷糊糊的朝公司走去，不知不觉间来到了异世界的森林。啊，这就是流行的异世界转生啊。拥有的技能有“鉴定”和“制药”两种。没什么大不了的…不过就这样吧。虽然我是这么想的，但后来发现这比我预想的还要厉害。不断地制造出那个世界没有的恢复药，一下子就赚了一大笔。我不会再作为社畜工作了！决定开个药店，过一种悠然自得的慢生活。以异世界的药妆店为舞台的慢生活的故事开始了。</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>月が導く異世界道中</ja_JP>
+			<zh_CN>月光下的异世界之旅</zh_CN>
+			<en_GB>Tsukimichi -Moonlit Fantasy-</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1625670000</release>
+		<image>https://i0.hdslb.com/bfs/bangumi/image/3fec6b08c579ffb7d679255bf67806152b637d39.png</image>
+		<url>
+			<zh_CN>https://www.bilibili.com/bangumi/media/md28234623/</zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>奇幻</value>
+				<value>异世界</value>
+				<value>穿越</value>
+				<value>冒险</value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　平凡的高中生深澄真，因某种原因被作为“勇者”召唤到异世界。然而被那个世界的女神骂道“长得难看”，剥夺了“勇者”的称号，抛弃在荒野尽头。在荒野中彷徨的真遇到的是龙、蜘蛛、兽人、矮人等等形形色色的非人类种族。由于和原世界环境相差很大，在魔术和战斗中发挥出常识以外的力量的真，经过各种各样的相遇，在这个世界如何生存……
+　　被神和人族抛弃的男人的异世界重生幻想开幕！</zh_CN>
+		</descrip>
+	</item>
+	<item>
+		<title>
+			<ja_JP>Night Head 2041</ja_JP>
+			<zh_CN>暗夜第六感 2041</zh_CN>
+			<en_GB>Night Head 2041</en_GB>
+		</title>
+		<state>1</state>
+		<rate>6000</rate>
+		<episode>12</episode>
+		<release>1626278100</release>
+		<image>https://img1.hmacg.cn/bangumi/kv/202107/aydlg2.jpg</image>
+		<url>
+			<zh_CN>&#160; </zh_CN>
+		</url>
+		<tag>
+			<zh_CN>
+				<value>科幻</value>
+				<value>异能</value>
+				<value>追逐</value>
+				<value>&#160; </value>
+			</zh_CN>
+		</tag>
+		<descrip>
+			<zh_CN>　　因拥有超能力而被世界迫害的“逃亡兄弟”雾原直人·直也。身为国家保安部队追捕能力者的“追捕兄弟”黑木拓哉·裕哉。
+　　遭到玩弄的2组兄弟他们决不能够相遇——。 </zh_CN>
+		</descrip>
+	</item>
+</Bangumi>
